@@ -1,0 +1,281 @@
+{
+  "count": 46,
+  "calculators": [
+    {
+      "id": "gst",
+      "name": "GST Calculator",
+      "category": "Finance",
+      "route": "#/calculator/gst"
+    },
+    {
+      "id": "emi",
+      "name": "EMI Calculator",
+      "category": "Finance",
+      "route": "#/calculator/emi"
+    },
+    {
+      "id": "sip",
+      "name": "SIP Calculator",
+      "category": "Finance",
+      "route": "#/calculator/sip"
+    },
+    {
+      "id": "percentage",
+      "name": "Percentage Calculator",
+      "category": "Math",
+      "route": "#/calculator/percentage"
+    },
+    {
+      "id": "discount",
+      "name": "Discount Calculator",
+      "category": "Finance",
+      "route": "#/calculator/discount"
+    },
+    {
+      "id": "simple-interest",
+      "name": "Simple Interest Calculator",
+      "category": "Finance",
+      "route": "#/calculator/simple-interest"
+    },
+    {
+      "id": "compound-interest",
+      "name": "Compound Interest Calculator",
+      "category": "Finance",
+      "route": "#/calculator/compound-interest"
+    },
+    {
+      "id": "age",
+      "name": "Age Calculator",
+      "category": "Date & Time",
+      "route": "#/calculator/age"
+    },
+    {
+      "id": "bmi",
+      "name": "BMI Calculator",
+      "category": "Health",
+      "route": "#/calculator/bmi"
+    },
+    {
+      "id": "length",
+      "name": "Length Converter",
+      "category": "Converters",
+      "route": "#/calculator/length"
+    },
+    {
+      "id": "temperature",
+      "name": "Temperature Converter",
+      "category": "Converters",
+      "route": "#/calculator/temperature"
+    },
+    {
+      "id": "basic",
+      "name": "Basic Calculator",
+      "category": "Math",
+      "route": "#/calculator/basic"
+    },
+    {
+      "id": "fd",
+      "name": "FD Calculator",
+      "category": "Finance",
+      "route": "#/calculator/fd"
+    },
+    {
+      "id": "rd",
+      "name": "RD Calculator",
+      "category": "Finance",
+      "route": "#/calculator/rd"
+    },
+    {
+      "id": "loan",
+      "name": "Loan Calculator",
+      "category": "Finance",
+      "route": "#/calculator/loan"
+    },
+    {
+      "id": "profit-margin",
+      "name": "Profit Margin Calculator",
+      "category": "Finance",
+      "route": "#/calculator/profit-margin"
+    },
+    {
+      "id": "profit-loss",
+      "name": "Profit & Loss Calculator",
+      "category": "Business",
+      "route": "#/calculator/profit-loss"
+    },
+    {
+      "id": "markup",
+      "name": "Markup Calculator",
+      "category": "Business",
+      "route": "#/calculator/markup"
+    },
+    {
+      "id": "margin",
+      "name": "Margin Calculator",
+      "category": "Business",
+      "route": "#/calculator/margin"
+    },
+    {
+      "id": "commission",
+      "name": "Commission Calculator",
+      "category": "Business",
+      "route": "#/calculator/commission"
+    },
+    {
+      "id": "break-even",
+      "name": "Break-even Calculator",
+      "category": "Business",
+      "route": "#/calculator/break-even"
+    },
+    {
+      "id": "gst-inclusive",
+      "name": "GST Inclusive/Exclusive Calculator",
+      "category": "Business",
+      "route": "#/calculator/gst-inclusive"
+    },
+    {
+      "id": "scientific",
+      "name": "Scientific Calculator",
+      "category": "Math",
+      "route": "#/calculator/scientific"
+    },
+    {
+      "id": "average",
+      "name": "Average Calculator",
+      "category": "Math",
+      "route": "#/calculator/average"
+    },
+    {
+      "id": "ratio",
+      "name": "Ratio Calculator",
+      "category": "Math",
+      "route": "#/calculator/ratio"
+    },
+    {
+      "id": "fraction",
+      "name": "Fraction Calculator",
+      "category": "Math",
+      "route": "#/calculator/fraction"
+    },
+    {
+      "id": "lcm",
+      "name": "LCM Calculator",
+      "category": "Math",
+      "route": "#/calculator/lcm"
+    },
+    {
+      "id": "gcd",
+      "name": "HCF/GCD Calculator",
+      "category": "Math",
+      "route": "#/calculator/gcd"
+    },
+    {
+      "id": "square-root",
+      "name": "Square Root Calculator",
+      "category": "Math",
+      "route": "#/calculator/square-root"
+    },
+    {
+      "id": "date-difference",
+      "name": "Date Difference Calculator",
+      "category": "Date & Time",
+      "route": "#/calculator/date-difference"
+    },
+    {
+      "id": "days-between",
+      "name": "Days Between Dates",
+      "category": "Date & Time",
+      "route": "#/calculator/days-between"
+    },
+    {
+      "id": "time-duration",
+      "name": "Time Duration Calculator",
+      "category": "Date & Time",
+      "route": "#/calculator/time-duration"
+    },
+    {
+      "id": "working-days",
+      "name": "Working Days Calculator",
+      "category": "Date & Time",
+      "route": "#/calculator/working-days"
+    },
+    {
+      "id": "bmr",
+      "name": "BMR Calculator",
+      "category": "Health",
+      "route": "#/calculator/bmr"
+    },
+    {
+      "id": "calorie",
+      "name": "Calorie Calculator",
+      "category": "Health",
+      "route": "#/calculator/calorie"
+    },
+    {
+      "id": "ideal-weight",
+      "name": "Ideal Weight Calculator",
+      "category": "Health",
+      "route": "#/calculator/ideal-weight"
+    },
+    {
+      "id": "weight",
+      "name": "Weight Converter",
+      "category": "Converters",
+      "route": "#/calculator/weight"
+    },
+    {
+      "id": "area-converter",
+      "name": "Area Converter",
+      "category": "Converters",
+      "route": "#/calculator/area-converter"
+    },
+    {
+      "id": "volume",
+      "name": "Volume Converter",
+      "category": "Converters",
+      "route": "#/calculator/volume"
+    },
+    {
+      "id": "speed",
+      "name": "Speed Converter",
+      "category": "Converters",
+      "route": "#/calculator/speed"
+    },
+    {
+      "id": "data-storage",
+      "name": "Data Storage Converter",
+      "category": "Converters",
+      "route": "#/calculator/data-storage"
+    },
+    {
+      "id": "construction-area",
+      "name": "Area Calculator",
+      "category": "Construction",
+      "route": "#/calculator/construction-area"
+    },
+    {
+      "id": "paint",
+      "name": "Paint Calculator",
+      "category": "Construction",
+      "route": "#/calculator/paint"
+    },
+    {
+      "id": "tile",
+      "name": "Tile Calculator",
+      "category": "Construction",
+      "route": "#/calculator/tile"
+    },
+    {
+      "id": "concrete",
+      "name": "Concrete Calculator",
+      "category": "Construction",
+      "route": "#/calculator/concrete"
+    },
+    {
+      "id": "brick",
+      "name": "Brick Calculator",
+      "category": "Construction",
+      "route": "#/calculator/brick"
+    }
+  ]
+}

@@ -1,0 +1,1301 @@
+{
+  "calculators": 328,
+  "tools": 69,
+  "total": 397,
+  "toolCategories": {
+    "Text": 8,
+    "Generators": 4,
+    "Developer": 11,
+    "Security": 5,
+    "Image": 7,
+    "PDF": 7,
+    "Data": 3,
+    "Files": 3,
+    "Design": 5,
+    "SEO": 5,
+    "QR & Barcode": 2,
+    "Web": 7,
+    "Date & Time": 2
+  },
+  "utilities": [
+    {
+      "id": "text-counter",
+      "name": "Word / Character / Reading Counter",
+      "category": "Text",
+      "module": "text",
+      "description": "Count words, Unicode characters, sentences and paragraphs; estimate reading or speaking time.",
+      "route": "#/tool/text-counter",
+      "aliases": [
+        "word counter",
+        "character counter",
+        "sentence counter",
+        "paragraph counter",
+        "reading time calculator",
+        "speaking time calculator",
+        "caption character counter",
+        "title length checker",
+        "meta description length checker",
+        "Word Counter",
+        "Character Counter",
+        "Sentence Counter",
+        "Paragraph Counter",
+        "Reading Time Calculator",
+        "Speaking Time Calculator",
+        "Title Length Checker",
+        "Meta Description Length Checker",
+        "Caption Character Counter"
+      ]
+    },
+    {
+      "id": "case-converter",
+      "name": "Case Converter",
+      "category": "Text",
+      "module": "text",
+      "description": "Convert letter case while keeping the text available to copy or download.",
+      "route": "#/tool/case-converter",
+      "aliases": [
+        "UPPERCASE converter",
+        "lowercase converter",
+        "title case converter",
+        "sentence case converter",
+        "capitalize words",
+        "Case Converter",
+        "UPPERCASE Converter",
+        "lowercase Converter",
+        "Title Case Converter",
+        "Sentence Case Converter",
+        "Capitalize Words"
+      ]
+    },
+    {
+      "id": "line-editor",
+      "name": "Line Editor / Text Cleaner",
+      "category": "Text",
+      "module": "text",
+      "description": "Clean, sort, transform or number text lines without sending the text elsewhere.",
+      "route": "#/tool/line-editor",
+      "aliases": [
+        "remove extra spaces",
+        "remove line breaks",
+        "add line breaks",
+        "remove duplicate lines",
+        "remove empty lines",
+        "sort lines A-Z",
+        "sort lines Z-A",
+        "reverse text",
+        "reverse lines",
+        "text cleaner",
+        "prefix each line",
+        "suffix each line",
+        "line number generator",
+        "Remove Extra Spaces",
+        "Remove Line Breaks",
+        "Add Line Breaks",
+        "Remove Duplicate Lines",
+        "Remove Empty Lines",
+        "Sort Lines A-Z",
+        "Sort Lines Z-A",
+        "Reverse Text",
+        "Reverse Lines",
+        "Text Cleaner",
+        "Prefix Each Line",
+        "Suffix Each Line",
+        "Line Number Generator"
+      ]
+    },
+    {
+      "id": "text-repeater",
+      "name": "Text Repeater",
+      "category": "Text",
+      "module": "text",
+      "description": "Repeat text with a chosen separator and a bounded output size.",
+      "route": "#/tool/text-repeater",
+      "aliases": [
+        "Text Repeater"
+      ]
+    },
+    {
+      "id": "find-replace",
+      "name": "Find and Replace",
+      "category": "Text",
+      "module": "text",
+      "description": "Replace literal text occurrences, optionally matching letter case.",
+      "route": "#/tool/find-replace",
+      "aliases": [
+        "Find and Replace"
+      ]
+    },
+    {
+      "id": "text-frequency",
+      "name": "Word / Character Frequency",
+      "category": "Text",
+      "module": "text",
+      "description": "Count repeated words or Unicode characters and display their frequencies.",
+      "route": "#/tool/text-frequency",
+      "aliases": [
+        "duplicate word finder",
+        "word frequency counter",
+        "character frequency counter",
+        "keyword frequency counter",
+        "keyword density checker",
+        "Duplicate Word Finder",
+        "Word Frequency Counter",
+        "Character Frequency Counter",
+        "Keyword Density Checker",
+        "Keyword Frequency Counter"
+      ]
+    },
+    {
+      "id": "text-diff",
+      "name": "Text Difference",
+      "category": "Text",
+      "module": "text",
+      "description": "Compare two texts line by line and display additions and removals.",
+      "route": "#/tool/text-diff",
+      "aliases": [
+        "Text Difference Tool"
+      ]
+    },
+    {
+      "id": "lorem-ipsum",
+      "name": "Lorem Ipsum / Random Text",
+      "category": "Text",
+      "module": "text",
+      "description": "Generate sample prose for layout testing, with an explicit word or paragraph count.",
+      "route": "#/tool/lorem-ipsum",
+      "aliases": [
+        "lorem ipsum generator",
+        "random text generator",
+        "Lorem Ipsum Generator",
+        "Random Text Generator"
+      ]
+    },
+    {
+      "id": "random-picker",
+      "name": "Random Picker & Team Generator",
+      "category": "Generators",
+      "module": "generators",
+      "description": "Shuffle a list, choose an entry, or divide entries into balanced groups.",
+      "route": "#/tool/random-picker",
+      "aliases": [
+        "random name picker",
+        "random team generator",
+        "random group generator",
+        "Random Name Picker",
+        "Random List Picker",
+        "Random Team Generator",
+        "Random Group Generator"
+      ]
+    },
+    {
+      "id": "coin-dice",
+      "name": "Coin, Dice & Yes/No",
+      "category": "Generators",
+      "module": "generators",
+      "description": "Use browser cryptographic randomness for coins, dice and yes/no choices.",
+      "route": "#/tool/coin-dice",
+      "aliases": [
+        "coin flip",
+        "dice roller",
+        "yes no generator",
+        "Coin Flip",
+        "Dice Roller",
+        "Yes/No Generator"
+      ]
+    },
+    {
+      "id": "random-date",
+      "name": "Random Date Generator",
+      "category": "Generators",
+      "module": "generators",
+      "description": "Choose dates uniformly within an inclusive calendar range.",
+      "route": "#/tool/random-date",
+      "aliases": [
+        "Random Date Generator"
+      ]
+    },
+    {
+      "id": "username-generator",
+      "name": "Username & Fictional Test Data Generator",
+      "category": "Generators",
+      "module": "generators",
+      "description": "Generate clearly fictional usernames or sample records for software tests.",
+      "route": "#/tool/username-generator",
+      "aliases": [
+        "fake test data generator",
+        "random username",
+        "Username Generator",
+        "Fake placeholder data generator for software testing"
+      ]
+    },
+    {
+      "id": "sql-formatter",
+      "name": "SQL Formatter",
+      "category": "Developer",
+      "module": "developer",
+      "description": "Format SQL locally without executing queries.",
+      "route": "#/tool/sql-formatter",
+      "aliases": [
+        "SQL formatter",
+        "SQL Formatter"
+      ]
+    },
+    {
+      "id": "json-tools",
+      "name": "JSON Formatter, Validator & Viewer",
+      "category": "Developer",
+      "module": "developer",
+      "description": "Validate JSON, format, minify, or escape it as a JSON string.",
+      "route": "#/tool/json-tools",
+      "aliases": [
+        "JSON formatter",
+        "JSON validator",
+        "JSON minifier",
+        "JSON viewer",
+        "JSON escape unescape",
+        "JSON Formatter",
+        "JSON Validator",
+        "JSON Minifier",
+        "JSON Viewer",
+        "JSON Escape/Unescape"
+      ]
+    },
+    {
+      "id": "xml-tools",
+      "name": "XML Formatter & Validator",
+      "category": "Developer",
+      "module": "developer",
+      "description": "Parse XML locally, report syntax errors, and format or conservatively remove inter-element whitespace.",
+      "route": "#/tool/xml-tools",
+      "aliases": [
+        "XML formatter",
+        "XML validator",
+        "XML minifier",
+        "XML Formatter",
+        "XML Validator",
+        "XML Minifier"
+      ]
+    },
+    {
+      "id": "code-formatter",
+      "name": "HTML, CSS & JavaScript Formatter",
+      "category": "Developer",
+      "module": "developer",
+      "description": "Format source code with locally bundled Prettier; JavaScript minification uses Terser without executing input.",
+      "route": "#/tool/code-formatter",
+      "aliases": [
+        "HTML formatter",
+        "CSS formatter",
+        "JavaScript formatter",
+        "JS minifier",
+        "HTML minifier",
+        "CSS minifier",
+        "HTML Formatter",
+        "HTML Minifier",
+        "CSS Formatter",
+        "CSS Minifier",
+        "JavaScript Formatter",
+        "JavaScript Minifier"
+      ]
+    },
+    {
+      "id": "markdown-tools",
+      "name": "Markdown Preview & HTML Converter",
+      "category": "Developer",
+      "module": "developer",
+      "description": "Convert Markdown to sanitized HTML with an isolated preview, or convert HTML to Markdown.",
+      "route": "#/tool/markdown-tools",
+      "aliases": [
+        "Markdown preview",
+        "Markdown to HTML",
+        "HTML to Markdown",
+        "Markdown Preview"
+      ]
+    },
+    {
+      "id": "encoding-tools",
+      "name": "Text Encoding & Escape Converter",
+      "category": "Developer",
+      "module": "developer",
+      "description": "Convert UTF-8 text using Base64, URI components, HTML entities, Unicode escapes, hexadecimal or binary.",
+      "route": "#/tool/encoding-tools",
+      "aliases": [
+        "base64 encode decode",
+        "URL encode decode",
+        "HTML escape unescape",
+        "Unicode ASCII converter",
+        "hex to text",
+        "binary to text",
+        "string escape unescape",
+        "Base64 Encode",
+        "Base64 Decode",
+        "URL Encode",
+        "URL Decode",
+        "HTML Encode",
+        "HTML Decode",
+        "Unicode Converter",
+        "ASCII Converter",
+        "Hex Text Converter",
+        "Binary Text Converter",
+        "String Escape/Unescape",
+        "URL Encode/Decode"
+      ]
+    },
+    {
+      "id": "jwt-decoder",
+      "name": "JWT Payload Decoder",
+      "category": "Developer",
+      "module": "developer",
+      "description": "Decode JWT header and payload locally. This does not verify signatures or establish trust.",
+      "route": "#/tool/jwt-decoder",
+      "aliases": [
+        "JWT decoder",
+        "JWT Decoder"
+      ]
+    },
+    {
+      "id": "timestamp-tools",
+      "name": "Timestamp & ISO Date Converter",
+      "category": "Developer",
+      "module": "developer",
+      "description": "Convert Unix seconds, Unix milliseconds and explicit-zone ISO dates.",
+      "route": "#/tool/timestamp-tools",
+      "aliases": [
+        "epoch converter",
+        "timestamp converter",
+        "ISO date converter",
+        "Unix timestamp",
+        "Unix Timestamp Converter",
+        "Epoch Converter",
+        "ISO Date Converter"
+      ]
+    },
+    {
+      "id": "regex-tester",
+      "name": "Regex Tester & Replacer",
+      "category": "Developer",
+      "module": "developer",
+      "description": "Test patterns in a dedicated worker with a one-second timeout and match limits.",
+      "route": "#/tool/regex-tester",
+      "aliases": [
+        "regex tester",
+        "Regex Tester",
+        "Regex Replace Tester"
+      ]
+    },
+    {
+      "id": "cron-reader",
+      "name": "Cron Expression Reader",
+      "category": "Developer",
+      "module": "developer",
+      "description": "Describe five-field numeric cron syntax without pretending to support every scheduler dialect.",
+      "route": "#/tool/cron-reader",
+      "aliases": [
+        "cron expression reader",
+        "Cron Expression Explainer"
+      ]
+    },
+    {
+      "id": "secure-generator",
+      "name": "Secure Password, PIN & Token Generator",
+      "category": "Security",
+      "module": "security",
+      "description": "Generate uniformly sampled passwords, PINs, UUIDs or random strings with Web Crypto.",
+      "route": "#/tool/secure-generator",
+      "aliases": [
+        "password generator",
+        "PIN generator",
+        "UUID generator",
+        "GUID generator",
+        "random token",
+        "random string generator",
+        "Password Generator",
+        "Random PIN Generator",
+        "UUID Generator",
+        "GUID Generator",
+        "Random Token Generator",
+        "Secure Random String Generator"
+      ]
+    },
+    {
+      "id": "passphrase-generator",
+      "name": "Passphrase Generator",
+      "category": "Security",
+      "module": "security",
+      "description": "Generate words from a visible, fixed 256-word list using cryptographic randomness.",
+      "route": "#/tool/passphrase-generator",
+      "aliases": [
+        "secure passphrase",
+        "Passphrase Generator"
+      ]
+    },
+    {
+      "id": "password-strength",
+      "name": "Password Strength Estimator",
+      "category": "Security",
+      "module": "security",
+      "description": "Inspect length and common patterns locally. The estimate is a heuristic, not a cracking-time prediction.",
+      "route": "#/tool/password-strength",
+      "aliases": [
+        "password strength checker",
+        "Password Strength Checker"
+      ]
+    },
+    {
+      "id": "hash-tools",
+      "name": "SHA & HMAC Generator",
+      "category": "Security",
+      "module": "security",
+      "description": "Compute SHA-256, SHA-384 or SHA-512 and optional HMAC using Web Crypto.",
+      "route": "#/tool/hash-tools",
+      "aliases": [
+        "SHA256 generator",
+        "SHA384 generator",
+        "SHA512 generator",
+        "HMAC generator",
+        "SHA-256 Hash Generator",
+        "SHA-384 Hash Generator",
+        "SHA-512 Hash Generator",
+        "HMAC Generator"
+      ]
+    },
+    {
+      "id": "file-hash",
+      "name": "File Hash Checker",
+      "category": "Security",
+      "module": "security",
+      "description": "Compute a local SHA digest and optionally compare it to an expected hexadecimal hash.",
+      "route": "#/tool/file-hash",
+      "aliases": [
+        "file hash generator",
+        "file checksum",
+        "File Hash Calculator",
+        "File Hash Generator"
+      ]
+    },
+    {
+      "id": "image-compressor",
+      "name": "Image Compressor & Format Converter",
+      "category": "Image",
+      "module": "image",
+      "description": "Re-encode images locally, choose format and quality, and compare actual output sizes.",
+      "route": "#/tool/image-compressor",
+      "aliases": [
+        "image compressor",
+        "JPG compressor",
+        "PNG compressor",
+        "WebP converter",
+        "JPG to PNG",
+        "PNG to JPG",
+        "image converter",
+        "batch image compressor",
+        "Image Compressor",
+        "Image Converter",
+        "JPG to WebP",
+        "PNG to WebP",
+        "WebP to JPG",
+        "WebP to PNG",
+        "Image Quality Adjuster",
+        "Batch Image Converter",
+        "Batch Image Compressor"
+      ]
+    },
+    {
+      "id": "image-resizer",
+      "name": "Image Resizer & Aspect Ratio Tool",
+      "category": "Image",
+      "module": "image",
+      "description": "Resize within a bounding box while preserving aspect ratio; upscaling requires an explicit option.",
+      "route": "#/tool/image-resizer",
+      "aliases": [
+        "batch image resizer",
+        "image dimensions",
+        "aspect ratio",
+        "Image Resizer",
+        "Aspect Ratio Tool",
+        "Batch Image Resizer"
+      ]
+    },
+    {
+      "id": "image-editor",
+      "name": "Image Crop, Rotate & Flip",
+      "category": "Image",
+      "module": "image",
+      "description": "Crop by explicit pixel coordinates, rotate in 90-degree steps, and flip horizontally or vertically.",
+      "route": "#/tool/image-editor",
+      "aliases": [
+        "image cropper",
+        "image rotate",
+        "image flip",
+        "Image Cropper",
+        "Image Rotator",
+        "Image Flipper"
+      ]
+    },
+    {
+      "id": "image-filters",
+      "name": "Image Filters & Watermark",
+      "category": "Image",
+      "module": "image",
+      "description": "Apply canvas filters, a sharpen convolution, or text watermark to a local image.",
+      "route": "#/tool/image-filters",
+      "aliases": [
+        "image grayscale",
+        "brightness contrast saturation",
+        "image blur sharpen",
+        "image text overlay",
+        "image watermark",
+        "Add Text to Image",
+        "Add Watermark to Image",
+        "Grayscale Image",
+        "Brightness Adjuster",
+        "Contrast Adjuster",
+        "Saturation Adjuster",
+        "Blur Image",
+        "Sharpen Image"
+      ]
+    },
+    {
+      "id": "image-info",
+      "name": "Image Metadata & Size Viewer",
+      "category": "Image",
+      "module": "image",
+      "description": "Read decoded dimensions, file size, MIME type and aspect ratio without uploading.",
+      "route": "#/tool/image-info",
+      "aliases": [
+        "image dimension checker",
+        "image file size checker",
+        "image metadata viewer",
+        "Image Metadata Viewer",
+        "Image Dimensions Checker",
+        "Image File Size Checker"
+      ]
+    },
+    {
+      "id": "image-base64",
+      "name": "Image to Base64",
+      "category": "Image",
+      "module": "image",
+      "description": "Encode the selected image as a Base64 data URL.",
+      "route": "#/tool/image-base64",
+      "aliases": [
+        "image to base64",
+        "Image to Base64"
+      ]
+    },
+    {
+      "id": "base64-image",
+      "name": "Base64 to Image",
+      "category": "Image",
+      "module": "image",
+      "description": "Decode a PNG, JPEG or WebP data URL and download it locally.",
+      "route": "#/tool/base64-image",
+      "aliases": [
+        "base64 to image",
+        "Base64 to Image"
+      ]
+    },
+    {
+      "id": "pdf-to-images",
+      "name": "PDF to Images",
+      "category": "PDF",
+      "module": "pdf",
+      "description": "Render selected PDF pages locally as PNG images with a bundled PDF.js worker.",
+      "route": "#/tool/pdf-to-images",
+      "aliases": [
+        "PDF to PNG",
+        "PDF to Images IF reliably supported client-side"
+      ]
+    },
+    {
+      "id": "pdf-merge",
+      "name": "PDF Merger",
+      "category": "PDF",
+      "module": "pdf",
+      "description": "Merge PDFs in the order shown in the selected file list.",
+      "route": "#/tool/pdf-merge",
+      "aliases": [
+        "merge PDF",
+        "Merge PDF"
+      ]
+    },
+    {
+      "id": "pdf-organizer",
+      "name": "PDF Page Organizer",
+      "category": "PDF",
+      "module": "pdf",
+      "description": "Extract, delete, reorder, rotate, or split PDF pages using explicit page numbers.",
+      "route": "#/tool/pdf-organizer",
+      "aliases": [
+        "PDF splitter",
+        "PDF extract pages",
+        "PDF delete pages",
+        "PDF reorder pages",
+        "PDF rotate",
+        "PDF page organizer",
+        "Split PDF",
+        "Extract PDF Pages",
+        "Delete PDF Pages",
+        "Reorder PDF Pages",
+        "Rotate PDF Pages",
+        "PDF Page Organizer"
+      ]
+    },
+    {
+      "id": "pdf-info",
+      "name": "PDF Metadata & Page Counter",
+      "category": "PDF",
+      "module": "pdf",
+      "description": "Read PDF title, author, producer, dates and page dimensions locally.",
+      "route": "#/tool/pdf-info",
+      "aliases": [
+        "PDF metadata viewer",
+        "PDF page counter",
+        "PDF Metadata Viewer",
+        "PDF Page Count"
+      ]
+    },
+    {
+      "id": "pdf-overlay",
+      "name": "PDF Page Numbers & Text Watermark",
+      "category": "PDF",
+      "module": "pdf",
+      "description": "Add page numbers or a text watermark to every page of a local PDF.",
+      "route": "#/tool/pdf-overlay",
+      "aliases": [
+        "PDF page number tool",
+        "PDF text watermark",
+        "Add Page Numbers to PDF",
+        "Add Text Watermark to PDF"
+      ]
+    },
+    {
+      "id": "pdf-image-watermark",
+      "name": "PDF Image Watermark",
+      "category": "PDF",
+      "module": "pdf",
+      "description": "Apply a local PNG or JPEG watermark image to each PDF page. Select one PDF and one image in either order.",
+      "route": "#/tool/pdf-image-watermark",
+      "aliases": [
+        "PDF watermark image",
+        "Add Image Watermark to PDF"
+      ]
+    },
+    {
+      "id": "images-to-pdf",
+      "name": "Images to PDF",
+      "category": "PDF",
+      "module": "pdf",
+      "description": "Build a PDF from local PNG, JPEG or WebP images, one image per page.",
+      "route": "#/tool/images-to-pdf",
+      "aliases": [
+        "JPG to PDF",
+        "PNG to PDF",
+        "image to PDF",
+        "Images to PDF"
+      ]
+    },
+    {
+      "id": "csv-tools",
+      "name": "CSV / JSON / TSV Converter & Viewer",
+      "category": "Data",
+      "module": "data",
+      "description": "Parse quoted CSV fields reliably, validate tables, and convert between CSV, JSON and TSV.",
+      "route": "#/tool/csv-tools",
+      "aliases": [
+        "CSV to JSON",
+        "JSON to CSV",
+        "CSV to TSV",
+        "TSV to CSV",
+        "CSV viewer",
+        "CSV formatter",
+        "CSV validator",
+        "CSV Viewer",
+        "CSV Formatter",
+        "CSV Validator"
+      ]
+    },
+    {
+      "id": "csv-editor",
+      "name": "CSV Cleaner, Sorter & Column Editor",
+      "category": "Data",
+      "module": "data",
+      "description": "Deduplicate or sort rows, filter values, select/rename columns, or remove empty rows from quoted CSV.",
+      "route": "#/tool/csv-editor",
+      "aliases": [
+        "CSV duplicate remover",
+        "CSV sorter",
+        "CSV filter",
+        "CSV column selector",
+        "CSV column renamer",
+        "CSV empty row remover",
+        "CSV Column Extractor",
+        "CSV Duplicate Remover",
+        "CSV Sorter",
+        "Remove Duplicate Rows",
+        "Sort CSV",
+        "Filter CSV",
+        "Select Columns",
+        "Rename Columns"
+      ]
+    },
+    {
+      "id": "csv-statistics",
+      "name": "CSV Counts & Numeric Statistics",
+      "category": "Data",
+      "module": "data",
+      "description": "Count rows, columns and empty cells; summarize a chosen numeric column.",
+      "route": "#/tool/csv-statistics",
+      "aliases": [
+        "CSV row counter",
+        "CSV column counter",
+        "CSV basic statistics",
+        "CSV Row Counter",
+        "Row Counter",
+        "Column Counter",
+        "Empty Cell Counter",
+        "Basic CSV Statistics"
+      ]
+    },
+    {
+      "id": "file-viewer",
+      "name": "Local File Size, MIME & Text Viewer",
+      "category": "Files",
+      "module": "data",
+      "description": "Inspect file facts and optionally decode UTF-8 text or encode a file as Base64.",
+      "route": "#/tool/file-viewer",
+      "aliases": [
+        "file size checker",
+        "file extension checker",
+        "file MIME checker",
+        "file to base64",
+        "text file viewer",
+        "File Size Checker",
+        "File Extension Checker",
+        "MIME Type Viewer",
+        "File to Base64",
+        "Text File Viewer"
+      ]
+    },
+    {
+      "id": "base64-file",
+      "name": "Base64 to File",
+      "category": "Files",
+      "module": "data",
+      "description": "Decode Base64 bytes into a local downloadable file.",
+      "route": "#/tool/base64-file",
+      "aliases": [
+        "base64 to file",
+        "Base64 to File"
+      ]
+    },
+    {
+      "id": "filename-cleaner",
+      "name": "Filename Cleaner",
+      "category": "Files",
+      "module": "data",
+      "description": "Clean reserved filename characters and Windows device names, without changing files on disk.",
+      "route": "#/tool/filename-cleaner",
+      "aliases": [
+        "file name cleaner",
+        "File Name Cleaner"
+      ]
+    },
+    {
+      "id": "color-tools",
+      "name": "Color Picker & HEX / RGB / HSL Converter",
+      "category": "Design",
+      "module": "design",
+      "description": "Convert valid opaque HEX, RGB and HSL colors into equivalent CSS values.",
+      "route": "#/tool/color-tools",
+      "aliases": [
+        "HEX to RGB",
+        "RGB to HEX",
+        "RGB to HSL",
+        "HSL to RGB",
+        "color converter",
+        "Color Converter",
+        "HEX to HSL",
+        "HSL to HEX",
+        "Color Picker",
+        "HEX Color Picker",
+        "RGB Color Picker",
+        "HSL Color Picker"
+      ]
+    },
+    {
+      "id": "color-palette",
+      "name": "Color Palette, Shades & Tints Generator",
+      "category": "Design",
+      "module": "design",
+      "description": "Generate random palettes, complements, shades or tints from a base color.",
+      "route": "#/tool/color-palette",
+      "aliases": [
+        "random color generator",
+        "palette generator",
+        "complementary colors",
+        "color shades",
+        "color tints",
+        "Random Color Generator",
+        "Color Palette Generator",
+        "Complementary Color Generator",
+        "Shades Generator",
+        "Tints Generator"
+      ]
+    },
+    {
+      "id": "gradient-generator",
+      "name": "CSS Gradient Generator",
+      "category": "Design",
+      "module": "design",
+      "description": "Generate a two-color linear CSS gradient with a live preview.",
+      "route": "#/tool/gradient-generator",
+      "aliases": [
+        "gradient generator",
+        "Gradient Generator",
+        "CSS Gradient Generator"
+      ]
+    },
+    {
+      "id": "contrast-checker",
+      "name": "WCAG Contrast Checker",
+      "category": "Design",
+      "module": "design",
+      "description": "Compute sRGB relative luminance and contrast ratios for opaque text and background colors.",
+      "route": "#/tool/contrast-checker",
+      "aliases": [
+        "color contrast",
+        "WCAG checker",
+        "Color Contrast Checker",
+        "WCAG Contrast Checker"
+      ]
+    },
+    {
+      "id": "css-design",
+      "name": "CSS Shadow, Radius & Button Generator",
+      "category": "Design",
+      "module": "design",
+      "description": "Generate CSS declarations and preview a button or box with editable geometry.",
+      "route": "#/tool/css-design",
+      "aliases": [
+        "CSS box shadow generator",
+        "CSS text shadow",
+        "border radius generator",
+        "CSS button generator",
+        "CSS Box Shadow Generator",
+        "Border Radius Generator",
+        "CSS Text Shadow Generator",
+        "CSS Button Generator"
+      ]
+    },
+    {
+      "id": "meta-tags",
+      "name": "Meta Tags & SERP Preview",
+      "category": "SEO",
+      "module": "seo",
+      "description": "Build title, description, canonical, Open Graph and Twitter metadata using supplied facts.",
+      "route": "#/tool/meta-tags",
+      "aliases": [
+        "meta tag generator",
+        "SERP preview",
+        "Open Graph generator",
+        "Twitter card generator",
+        "canonical tag generator",
+        "Meta Tag Generator",
+        "SERP Snippet Preview",
+        "Open Graph Generator",
+        "Twitter/X Card Meta Generator",
+        "Canonical Tag Generator"
+      ]
+    },
+    {
+      "id": "robots-generator",
+      "name": "Robots.txt Generator",
+      "category": "SEO",
+      "module": "seo",
+      "description": "Create robots directives and an optional sitemap URL.",
+      "route": "#/tool/robots-generator",
+      "aliases": [
+        "robots.txt generator",
+        "Robots.txt Generator"
+      ]
+    },
+    {
+      "id": "sitemap-generator",
+      "name": "XML Sitemap Generator",
+      "category": "SEO",
+      "module": "seo",
+      "description": "Build a URL-only XML sitemap from supplied HTTP(S) URLs.",
+      "route": "#/tool/sitemap-generator",
+      "aliases": [
+        "sitemap generator",
+        "XML Sitemap Generator"
+      ]
+    },
+    {
+      "id": "hreflang-generator",
+      "name": "Hreflang Tag Generator",
+      "category": "SEO",
+      "module": "seo",
+      "description": "Generate alternate language tags from language-code and URL pairs.",
+      "route": "#/tool/hreflang-generator",
+      "aliases": [
+        "hreflang tags",
+        "Hreflang Tag Generator"
+      ]
+    },
+    {
+      "id": "schema-generator",
+      "name": "Schema.org JSON-LD Generator",
+      "category": "SEO",
+      "module": "seo",
+      "description": "Wrap user-provided facts in a chosen schema type without inventing business or product details.",
+      "route": "#/tool/schema-generator",
+      "aliases": [
+        "FAQ schema",
+        "breadcrumb schema",
+        "organization schema",
+        "local business schema",
+        "article schema",
+        "product schema",
+        "Schema Markup Generator",
+        "FAQ Schema Generator",
+        "Breadcrumb Schema Generator",
+        "Organization Schema Generator",
+        "Local Business Schema Generator",
+        "Article Schema Generator",
+        "Product Schema Generator"
+      ]
+    },
+    {
+      "id": "qr-generator",
+      "name": "QR Code Generator",
+      "category": "QR & Barcode",
+      "module": "qr",
+      "description": "Create QR codes for text, URLs, Wi-Fi, email, phone, SMS, WhatsApp, location and contacts.",
+      "route": "#/tool/qr-generator",
+      "aliases": [
+        "text QR",
+        "URL QR",
+        "WiFi QR",
+        "email QR",
+        "phone QR",
+        "SMS QR",
+        "WhatsApp QR",
+        "location QR",
+        "vCard QR",
+        "QR Code Generator",
+        "URL QR Code",
+        "Text QR Code",
+        "Wi-Fi QR Code",
+        "Email QR Code",
+        "Phone QR Code",
+        "SMS QR Code",
+        "WhatsApp Link QR Code",
+        "Location QR Code",
+        "Contact/vCard QR Code"
+      ]
+    },
+    {
+      "id": "barcode-generator",
+      "name": "Barcode Generator",
+      "category": "QR & Barcode",
+      "module": "qr",
+      "description": "Generate validated CODE128, EAN13, EAN8, UPCA and CODE39 barcodes locally.",
+      "route": "#/tool/barcode-generator",
+      "aliases": [
+        "CODE128 generator",
+        "EAN13 barcode",
+        "EAN8 barcode",
+        "UPC-A barcode",
+        "CODE39 barcode",
+        "Barcode Generator",
+        "Code 128 Generator",
+        "EAN-13 Generator",
+        "EAN-8 Generator",
+        "UPC-A Generator",
+        "CODE39 Generator"
+      ]
+    },
+    {
+      "id": "url-tools",
+      "name": "URL Parser, Query Builder & UTM Generator",
+      "category": "Web",
+      "module": "web",
+      "description": "Parse URLs, edit query parameters, build UTM links, or remove common tracking parameters.",
+      "route": "#/tool/url-tools",
+      "aliases": [
+        "URL parser",
+        "query string parser",
+        "query string builder",
+        "UTM builder",
+        "link cleaner",
+        "link list cleaner",
+        "URL Parser",
+        "Query String Parser",
+        "Query String Builder",
+        "UTM Builder",
+        "Link List Cleaner"
+      ]
+    },
+    {
+      "id": "slug-generator",
+      "name": "Slug Generator",
+      "category": "Web",
+      "module": "web",
+      "description": "Generate a normalized lowercase URL slug from text.",
+      "route": "#/tool/slug-generator",
+      "aliases": [
+        "URL slug",
+        "username slug",
+        "Slug Generator",
+        "URL Slug Generator"
+      ]
+    },
+    {
+      "id": "extract-links",
+      "name": "Domain, URL & Email Extractor",
+      "category": "Web",
+      "module": "web",
+      "description": "Extract candidates from supplied text without contacting or validating external sites.",
+      "route": "#/tool/extract-links",
+      "aliases": [
+        "domain extractor",
+        "email extractor",
+        "URL extractor",
+        "Domain Name Extractor",
+        "Email Address Extractor from user-provided text",
+        "URL Extractor from user-provided text"
+      ]
+    },
+    {
+      "id": "web-reference",
+      "name": "HTTP Status & MIME Reference",
+      "category": "Web",
+      "module": "web",
+      "description": "Look up a small embedded reference for common HTTP statuses and MIME types.",
+      "route": "#/tool/web-reference",
+      "aliases": [
+        "HTTP status reference",
+        "MIME type lookup",
+        "HTTP Status Code Reference",
+        "MIME Type Reference"
+      ]
+    },
+    {
+      "id": "social-links",
+      "name": "Contact & Sharing Link Generator",
+      "category": "Web",
+      "module": "web",
+      "description": "Build WhatsApp, Telegram, email, phone, SMS and web sharing links locally.",
+      "route": "#/tool/social-links",
+      "aliases": [
+        "WhatsApp link generator",
+        "Telegram link generator",
+        "email link",
+        "phone link",
+        "SMS link",
+        "share link",
+        "WhatsApp Link Generator",
+        "Telegram Link Generator",
+        "Email Link Generator",
+        "Phone Link Generator",
+        "SMS Link Generator",
+        "Social Share Link Generator"
+      ]
+    },
+    {
+      "id": "youtube-links",
+      "name": "YouTube Timestamp & Embed Generator",
+      "category": "Web",
+      "module": "web",
+      "description": "Generate a timestamp link or embed snippet for a supplied YouTube video ID.",
+      "route": "#/tool/youtube-links",
+      "aliases": [
+        "YouTube timestamp",
+        "YouTube embed",
+        "YouTube Timestamp Link Generator",
+        "YouTube Embed Code Generator"
+      ]
+    },
+    {
+      "id": "hashtag-generator",
+      "name": "Hashtag Formatter",
+      "category": "Web",
+      "module": "web",
+      "description": "Turn supplied keywords into hashtags; this does not predict trending topics.",
+      "route": "#/tool/hashtag-generator",
+      "aliases": [
+        "hashtag generator",
+        "Hashtag Formatter"
+      ]
+    },
+    {
+      "id": "browser-timer",
+      "name": "Stopwatch, Countdown, Pomodoro & Alarm",
+      "category": "Date & Time",
+      "module": "timers",
+      "description": "Run local timers while this browser page remains open.",
+      "route": "#/tool/browser-timer",
+      "aliases": [
+        "stopwatch",
+        "countdown timer",
+        "online timer",
+        "Pomodoro timer",
+        "alarm clock",
+        "Stopwatch",
+        "Countdown Timer",
+        "Online Timer",
+        "Pomodoro Timer",
+        "Alarm Timer"
+      ]
+    },
+    {
+      "id": "date-time-format",
+      "name": "Date, Time & Timezone Formatter",
+      "category": "Date & Time",
+      "module": "time",
+      "description": "Format a supplied instant in an IANA timezone, or show the current time in multiple zones.",
+      "route": "#/tool/date-time-format",
+      "aliases": [
+        "date formatter",
+        "time formatter",
+        "timezone converter",
+        "world time",
+        "current timestamp",
+        "Current Timestamp",
+        "Unix Timestamp Generator",
+        "Date Formatter",
+        "Time Formatter",
+        "Time Zone Converter using browser-supported IANA time zones",
+        "World Time Comparison"
+      ]
+    },
+    {
+      "id": "number-to-words",
+      "name": "Number to Words — International & Indian",
+      "category": "Developer",
+      "module": "numbers",
+      "description": "Spell integers or decimal digits using international thousand/million units or Indian lakh/crore units.",
+      "route": "#/tool/number-to-words",
+      "aliases": [
+        "number to words",
+        "Indian number to words",
+        "lakh crore converter",
+        "Number to Words",
+        "Indian Number to Words"
+      ]
+    }
+  ],
+  "requestedFeatureEntries": 284,
+  "uniqueRequestedNames": 274,
+  "reusedExisting": [
+    {
+      "section": "Generators",
+      "name": "Random Number Generator",
+      "id": "random-number",
+      "kind": "Calculator",
+      "route": "#/calculator/random-number"
+    },
+    {
+      "section": "Time",
+      "name": "Add/Subtract Time",
+      "id": "time-arithmetic",
+      "kind": "Calculator",
+      "route": "#/calculator/time-arithmetic"
+    },
+    {
+      "section": "Time",
+      "name": "Add/Subtract Dates",
+      "id": "add-days",
+      "kind": "Calculator",
+      "route": "#/calculator/add-days"
+    },
+    {
+      "section": "Numbers",
+      "name": "Binary to Decimal",
+      "id": "number-base",
+      "kind": "Calculator",
+      "route": "#/calculator/number-base"
+    },
+    {
+      "section": "Numbers",
+      "name": "Decimal to Binary",
+      "id": "number-base",
+      "kind": "Calculator",
+      "route": "#/calculator/number-base"
+    },
+    {
+      "section": "Numbers",
+      "name": "Binary to Hex",
+      "id": "number-base",
+      "kind": "Calculator",
+      "route": "#/calculator/number-base"
+    },
+    {
+      "section": "Numbers",
+      "name": "Hex to Binary",
+      "id": "number-base",
+      "kind": "Calculator",
+      "route": "#/calculator/number-base"
+    },
+    {
+      "section": "Numbers",
+      "name": "Decimal to Hex",
+      "id": "number-base",
+      "kind": "Calculator",
+      "route": "#/calculator/number-base"
+    },
+    {
+      "section": "Numbers",
+      "name": "Hex to Decimal",
+      "id": "number-base",
+      "kind": "Calculator",
+      "route": "#/calculator/number-base"
+    },
+    {
+      "section": "Numbers",
+      "name": "Octal to Decimal",
+      "id": "number-base",
+      "kind": "Calculator",
+      "route": "#/calculator/number-base"
+    },
+    {
+      "section": "Numbers",
+      "name": "Decimal to Octal",
+      "id": "number-base",
+      "kind": "Calculator",
+      "route": "#/calculator/number-base"
+    },
+    {
+      "section": "Numbers",
+      "name": "Number Base Converter",
+      "id": "number-base",
+      "kind": "Calculator",
+      "route": "#/calculator/number-base"
+    },
+    {
+      "section": "Numbers",
+      "name": "Roman Numeral Converter",
+      "id": "roman-numerals",
+      "kind": "Calculator",
+      "route": "#/calculator/roman-numerals"
+    },
+    {
+      "section": "Numbers",
+      "name": "Scientific Notation Converter",
+      "id": "notation",
+      "kind": "Calculator",
+      "route": "#/calculator/notation"
+    }
+  ],
+  "skipped": [
+    {
+      "section": "PDF",
+      "name": "Protect PDF with Password IF reliably supported by the chosen library",
+      "kind": "Skipped",
+      "route": null,
+      "reason": "Password protection is not reliably supported by pdf-lib; it is omitted."
+    }
+  ]
+}

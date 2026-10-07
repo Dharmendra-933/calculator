@@ -1,0 +1,8 @@
+import {output,check,randomInt,choose,shuffle} from '../shared/common.js';
+export async function run(id,v){
+ if(id==='random-picker'){const a=v.input.split(/\r?\n/).map(s=>s.trim()).filter(Boolean);check(a.length>0&&a.length<=10000,'Enter between 1 and 10,000 entries.');if(v.mode==='Pick one')return output(choose(a));const b=shuffle(a);check(v.count<=a.length,'Teams cannot exceed the number of entries.');return output(v.mode==='Shuffle'?b.join('\n'):Array.from({length:v.count},(_,i)=>`Team ${i+1}: ${b.filter((_,j)=>j%v.count===i).join(', ')}`).join('\n'));}
+ if(id==='coin-dice')return output(Array.from({length:v.count},()=>v.mode==='Coin'?choose(['Heads','Tails']):v.mode==='Yes/No'?choose(['Yes','No']):String(randomInt(v.sides)+1)).join('\n'));
+ if(id==='random-date'){const parse=s=>{const d=new Date(s+'T00:00:00Z');check(/^\d{4}-\d{2}-\d{2}$/.test(s)&&!isNaN(d)&&d.toISOString().slice(0,10)===s,'Enter a real date in YYYY-MM-DD format.');return d.getTime()/86400000;};const a=parse(v.start),b=parse(v.end);check(b>=a,'End date must follow start date.');return output(Array.from({length:v.count},()=>new Date((a+randomInt(b-a+1))*86400000).toISOString().slice(0,10)).join('\n'));}
+ if(id==='username-generator'){const names=['SampleFox','DemoRiver','TestCloud','MockLeaf','TrialMoon'];const a=Array.from({length:v.count},(_,i)=>({id:i+1,username:choose(names)+randomInt(100000),email:`sample${i+1}@example.invalid`,label:'Fictional test record'}));return output(v.mode==='Usernames'?a.map(x=>x.username).join('\n'):JSON.stringify(a,null,2),{note:'Fictional test records only; email addresses use the reserved .invalid domain.'});}
+ throw new Error('Unknown generator.');
+}

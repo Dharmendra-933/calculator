@@ -1,0 +1,2543 @@
+[
+  {
+    "requested": "Mean Absolute Deviation Calculator",
+    "id": "mean-absolute-deviation",
+    "name": "Mean Absolute Deviation Calculator",
+    "route": "#/calculator/mean-absolute-deviation",
+    "status": "Covered by new shared tool"
+  },
+  {
+    "requested": "Coefficient of Variation Calculator",
+    "id": "coefficient-variation",
+    "name": "Coefficient of Variation Calculator",
+    "route": "#/calculator/coefficient-variation",
+    "status": "Covered by new shared tool"
+  },
+  {
+    "requested": "Z-Score Calculator",
+    "id": "z-score",
+    "name": "Z-Score Calculator",
+    "route": "#/calculator/z-score",
+    "status": "Covered by new shared tool"
+  },
+  {
+    "requested": "Standard Error Calculator",
+    "id": "standard-error",
+    "name": "Standard Error Calculator",
+    "route": "#/calculator/standard-error",
+    "status": "Covered by new shared tool"
+  },
+  {
+    "requested": "Confidence Interval Calculator",
+    "id": "confidence-interval",
+    "name": "Confidence Interval / Margin of Error Calculator",
+    "route": "#/calculator/confidence-interval",
+    "status": "Covered by new shared tool"
+  },
+  {
+    "requested": "Margin of Error Calculator",
+    "id": "confidence-interval",
+    "name": "Confidence Interval / Margin of Error Calculator",
+    "route": "#/calculator/confidence-interval",
+    "status": "Covered by new shared tool"
+  },
+  {
+    "requested": "Sample Size Calculator",
+    "id": "sample-size",
+    "name": "Sample Size Calculator",
+    "route": "#/calculator/sample-size",
+    "status": "Covered by new shared tool"
+  },
+  {
+    "requested": "Population Variance Calculator",
+    "id": "variance",
+    "name": "Variance Calculator",
+    "route": "#/calculator/variance",
+    "status": "Covered by existing tool (no new card)"
+  },
+  {
+    "requested": "Population Standard Deviation Calculator",
+    "id": "standard-deviation",
+    "name": "Standard Deviation Calculator",
+    "route": "#/calculator/standard-deviation",
+    "status": "Covered by existing tool (no new card)"
+  },
+  {
+    "requested": "Sample Variance Calculator",
+    "id": "variance",
+    "name": "Variance Calculator",
+    "route": "#/calculator/variance",
+    "status": "Covered by existing tool (no new card)"
+  },
+  {
+    "requested": "Sample Standard Deviation Calculator",
+    "id": "standard-deviation",
+    "name": "Standard Deviation Calculator",
+    "route": "#/calculator/standard-deviation",
+    "status": "Covered by existing tool (no new card)"
+  },
+  {
+    "requested": "Quartile Calculator",
+    "id": "quartiles",
+    "name": "Quartiles / Five Number Summary Calculator",
+    "route": "#/calculator/quartiles",
+    "status": "Covered by new shared tool"
+  },
+  {
+    "requested": "Interquartile Range Calculator",
+    "id": "quartiles",
+    "name": "Quartiles / Five Number Summary Calculator",
+    "route": "#/calculator/quartiles",
+    "status": "Covered by new shared tool"
+  },
+  {
+    "requested": "Percentile Calculator",
+    "id": "percentile",
+    "name": "Percentile Calculator",
+    "route": "#/calculator/percentile",
+    "status": "Covered by new shared tool"
+  },
+  {
+    "requested": "Five Number Summary Calculator",
+    "id": "quartiles",
+    "name": "Quartiles / Five Number Summary Calculator",
+    "route": "#/calculator/quartiles",
+    "status": "Covered by new shared tool"
+  },
+  {
+    "requested": "Outlier Calculator",
+    "id": "outliers",
+    "name": "Outlier Calculator",
+    "route": "#/calculator/outliers",
+    "status": "Covered by new shared tool"
+  },
+  {
+    "requested": "Covariance Calculator",
+    "id": "covariance",
+    "name": "Covariance Calculator",
+    "route": "#/calculator/covariance",
+    "status": "Covered by new shared tool"
+  },
+  {
+    "requested": "Correlation Coefficient Calculator",
+    "id": "linear-regression",
+    "name": "Linear Regression / Pearson Correlation Calculator",
+    "route": "#/calculator/linear-regression",
+    "status": "Covered by new shared tool"
+  },
+  {
+    "requested": "Pearson Correlation Calculator",
+    "id": "linear-regression",
+    "name": "Linear Regression / Pearson Correlation Calculator",
+    "route": "#/calculator/linear-regression",
+    "status": "Covered by new shared tool"
+  },
+  {
+    "requested": "Linear Regression Calculator",
+    "id": "linear-regression",
+    "name": "Linear Regression / Pearson Correlation Calculator",
+    "route": "#/calculator/linear-regression",
+    "status": "Covered by new shared tool"
+  },
+  {
+    "requested": "Regression Line Calculator",
+    "id": "linear-regression",
+    "name": "Linear Regression / Pearson Correlation Calculator",
+    "route": "#/calculator/linear-regression",
+    "status": "Covered by new shared tool"
+  },
+  {
+    "requested": "R-Squared Calculator",
+    "id": "linear-regression",
+    "name": "Linear Regression / Pearson Correlation Calculator",
+    "route": "#/calculator/linear-regression",
+    "status": "Covered by new shared tool"
+  },
+  {
+    "requested": "Weighted Mean Calculator",
+    "id": "weighted-average",
+    "name": "Weighted Average Calculator",
+    "route": "#/calculator/weighted-average",
+    "status": "Covered by existing tool (no new card)"
+  },
+  {
+    "requested": "RMS Calculator",
+    "id": "rms",
+    "name": "RMS Calculator",
+    "route": "#/calculator/rms",
+    "status": "Covered by new shared tool"
+  },
+  {
+    "requested": "Frequency Distribution Calculator",
+    "id": "frequency-distribution",
+    "name": "Frequency Distribution / Relative Frequency Calculator",
+    "route": "#/calculator/frequency-distribution",
+    "status": "Covered by new shared tool"
+  },
+  {
+    "requested": "Relative Frequency Calculator",
+    "id": "frequency-distribution",
+    "name": "Frequency Distribution / Relative Frequency Calculator",
+    "route": "#/calculator/frequency-distribution",
+    "status": "Covered by new shared tool"
+  },
+  {
+    "requested": "Odds Calculator",
+    "id": "odds",
+    "name": "Odds Calculator",
+    "route": "#/calculator/odds",
+    "status": "Covered by new shared tool"
+  },
+  {
+    "requested": "Odds Ratio Calculator",
+    "id": "odds-ratio",
+    "name": "Odds Ratio Calculator",
+    "route": "#/calculator/odds-ratio",
+    "status": "Covered by new shared tool"
+  },
+  {
+    "requested": "Fibonacci Calculator",
+    "id": "fibonacci",
+    "name": "Fibonacci / Sequence Generator Calculator",
+    "route": "#/calculator/fibonacci",
+    "status": "Covered by new shared tool"
+  },
+  {
+    "requested": "Fibonacci Sequence Generator",
+    "id": "fibonacci",
+    "name": "Fibonacci / Sequence Generator Calculator",
+    "route": "#/calculator/fibonacci",
+    "status": "Covered by new shared tool"
+  },
+  {
+    "requested": "Arithmetic Progression Calculator",
+    "id": "arithmetic-sequence",
+    "name": "Arithmetic Sequence Calculator",
+    "route": "#/calculator/arithmetic-sequence",
+    "status": "Covered by existing tool (no new card)"
+  },
+  {
+    "requested": "Geometric Progression Calculator",
+    "id": "geometric-sequence",
+    "name": "Geometric Sequence Calculator",
+    "route": "#/calculator/geometric-sequence",
+    "status": "Covered by existing tool (no new card)"
+  },
+  {
+    "requested": "Sum of Natural Numbers Calculator",
+    "id": "power-sums",
+    "name": "Natural Number / Squares / Cubes Sum Calculator",
+    "route": "#/calculator/power-sums",
+    "status": "Covered by new shared tool"
+  },
+  {
+    "requested": "Sum of Squares Calculator",
+    "id": "power-sums",
+    "name": "Natural Number / Squares / Cubes Sum Calculator",
+    "route": "#/calculator/power-sums",
+    "status": "Covered by new shared tool"
+  },
+  {
+    "requested": "Sum of Cubes Calculator",
+    "id": "power-sums",
+    "name": "Natural Number / Squares / Cubes Sum Calculator",
+    "route": "#/calculator/power-sums",
+    "status": "Covered by new shared tool"
+  },
+  {
+    "requested": "Divisibility Calculator",
+    "id": "divisibility",
+    "name": "Divisibility Calculator",
+    "route": "#/calculator/divisibility",
+    "status": "Covered by new shared tool"
+  },
+  {
+    "requested": "Factors Calculator",
+    "id": "factors",
+    "name": "Factors / Common Factors Calculator",
+    "route": "#/calculator/factors",
+    "status": "Covered by new shared tool"
+  },
+  {
+    "requested": "Common Factors Calculator",
+    "id": "factors",
+    "name": "Factors / Common Factors Calculator",
+    "route": "#/calculator/factors",
+    "status": "Covered by new shared tool"
+  },
+  {
+    "requested": "Multiples Calculator",
+    "id": "multiples",
+    "name": "Multiples / Common Multiples Calculator",
+    "route": "#/calculator/multiples",
+    "status": "Covered by new shared tool"
+  },
+  {
+    "requested": "Common Multiples Calculator",
+    "id": "multiples",
+    "name": "Multiples / Common Multiples Calculator",
+    "route": "#/calculator/multiples",
+    "status": "Covered by new shared tool"
+  },
+  {
+    "requested": "Coprime Checker",
+    "id": "extended-gcd",
+    "name": "Extended GCD / Coprime Checker",
+    "route": "#/calculator/extended-gcd",
+    "status": "Covered by new shared tool"
+  },
+  {
+    "requested": "GCD Extended Calculator",
+    "id": "extended-gcd",
+    "name": "Extended GCD / Coprime Checker",
+    "route": "#/calculator/extended-gcd",
+    "status": "Covered by new shared tool"
+  },
+  {
+    "requested": "Modular Arithmetic Calculator",
+    "id": "modular-arithmetic",
+    "name": "Modular Arithmetic / Exponentiation Calculator",
+    "route": "#/calculator/modular-arithmetic",
+    "status": "Covered by new shared tool"
+  },
+  {
+    "requested": "Modular Exponentiation Calculator",
+    "id": "modular-arithmetic",
+    "name": "Modular Arithmetic / Exponentiation Calculator",
+    "route": "#/calculator/modular-arithmetic",
+    "status": "Covered by new shared tool"
+  },
+  {
+    "requested": "Binary Calculator",
+    "id": "base-arithmetic",
+    "name": "Binary / Octal / Hex Arithmetic Calculator",
+    "route": "#/calculator/base-arithmetic",
+    "status": "Covered by new shared tool"
+  },
+  {
+    "requested": "Octal Calculator",
+    "id": "base-arithmetic",
+    "name": "Binary / Octal / Hex Arithmetic Calculator",
+    "route": "#/calculator/base-arithmetic",
+    "status": "Covered by new shared tool"
+  },
+  {
+    "requested": "Hex Calculator",
+    "id": "base-arithmetic",
+    "name": "Binary / Octal / Hex Arithmetic Calculator",
+    "route": "#/calculator/base-arithmetic",
+    "status": "Covered by new shared tool"
+  },
+  {
+    "requested": "Decimal to Binary Calculator",
+    "id": "number-base",
+    "name": "Number Base Converter",
+    "route": "#/calculator/number-base",
+    "status": "Covered by new shared tool"
+  },
+  {
+    "requested": "Binary to Decimal Calculator",
+    "id": "number-base",
+    "name": "Number Base Converter",
+    "route": "#/calculator/number-base",
+    "status": "Covered by new shared tool"
+  },
+  {
+    "requested": "Decimal to Octal Calculator",
+    "id": "number-base",
+    "name": "Number Base Converter",
+    "route": "#/calculator/number-base",
+    "status": "Covered by new shared tool"
+  },
+  {
+    "requested": "Octal to Decimal Calculator",
+    "id": "number-base",
+    "name": "Number Base Converter",
+    "route": "#/calculator/number-base",
+    "status": "Covered by new shared tool"
+  },
+  {
+    "requested": "Decimal to Hex Calculator",
+    "id": "number-base",
+    "name": "Number Base Converter",
+    "route": "#/calculator/number-base",
+    "status": "Covered by new shared tool"
+  },
+  {
+    "requested": "Hex to Decimal Calculator",
+    "id": "number-base",
+    "name": "Number Base Converter",
+    "route": "#/calculator/number-base",
+    "status": "Covered by new shared tool"
+  },
+  {
+    "requested": "Binary to Hex Calculator",
+    "id": "number-base",
+    "name": "Number Base Converter",
+    "route": "#/calculator/number-base",
+    "status": "Covered by new shared tool"
+  },
+  {
+    "requested": "Hex to Binary Calculator",
+    "id": "number-base",
+    "name": "Number Base Converter",
+    "route": "#/calculator/number-base",
+    "status": "Covered by new shared tool"
+  },
+  {
+    "requested": "Roman Numeral Converter",
+    "id": "roman-numerals",
+    "name": "Roman Numeral Converter",
+    "route": "#/calculator/roman-numerals",
+    "status": "Covered by new shared tool"
+  },
+  {
+    "requested": "Scientific Notation Calculator",
+    "id": "notation",
+    "name": "Scientific / Engineering Notation Calculator",
+    "route": "#/calculator/notation",
+    "status": "Covered by new shared tool"
+  },
+  {
+    "requested": "Engineering Notation Calculator",
+    "id": "notation",
+    "name": "Scientific / Engineering Notation Calculator",
+    "route": "#/calculator/notation",
+    "status": "Covered by new shared tool"
+  },
+  {
+    "requested": "Number Base Converter",
+    "id": "number-base",
+    "name": "Number Base Converter",
+    "route": "#/calculator/number-base",
+    "status": "Covered by new shared tool"
+  },
+  {
+    "requested": "Polynomial Calculator",
+    "id": "polynomial",
+    "name": "Polynomial Operations Calculator",
+    "route": "#/calculator/polynomial",
+    "status": "Covered by new shared tool"
+  },
+  {
+    "requested": "Polynomial Addition Calculator",
+    "id": "polynomial",
+    "name": "Polynomial Operations Calculator",
+    "route": "#/calculator/polynomial",
+    "status": "Covered by new shared tool"
+  },
+  {
+    "requested": "Polynomial Multiplication Calculator",
+    "id": "polynomial",
+    "name": "Polynomial Operations Calculator",
+    "route": "#/calculator/polynomial",
+    "status": "Covered by new shared tool"
+  },
+  {
+    "requested": "Polynomial Evaluation Calculator",
+    "id": "polynomial",
+    "name": "Polynomial Operations Calculator",
+    "route": "#/calculator/polynomial",
+    "status": "Covered by new shared tool"
+  },
+  {
+    "requested": "Quadratic Formula Calculator",
+    "id": "quadratic",
+    "name": "Quadratic Equation Calculator",
+    "route": "#/calculator/quadratic",
+    "status": "Covered by existing tool (no new card)"
+  },
+  {
+    "requested": "Discriminant Calculator",
+    "id": "quadratic",
+    "name": "Quadratic Equation Calculator",
+    "route": "#/calculator/quadratic",
+    "status": "Covered by existing tool (no new card)"
+  },
+  {
+    "requested": "Complex Number Calculator",
+    "id": "complex-number",
+    "name": "Complex Number Operations / Polar Form Calculator",
+    "route": "#/calculator/complex-number",
+    "status": "Covered by new shared tool"
+  },
+  {
+    "requested": "Complex Number Addition",
+    "id": "complex-number",
+    "name": "Complex Number Operations / Polar Form Calculator",
+    "route": "#/calculator/complex-number",
+    "status": "Covered by new shared tool"
+  },
+  {
+    "requested": "Complex Number Multiplication",
+    "id": "complex-number",
+    "name": "Complex Number Operations / Polar Form Calculator",
+    "route": "#/calculator/complex-number",
+    "status": "Covered by new shared tool"
+  },
+  {
+    "requested": "Complex Number Division",
+    "id": "complex-number",
+    "name": "Complex Number Operations / Polar Form Calculator",
+    "route": "#/calculator/complex-number",
+    "status": "Covered by new shared tool"
+  },
+  {
+    "requested": "Complex Number Polar Form Calculator",
+    "id": "complex-number",
+    "name": "Complex Number Operations / Polar Form Calculator",
+    "route": "#/calculator/complex-number",
+    "status": "Covered by new shared tool"
+  },
+  {
+    "requested": "System of 2 Equations Calculator",
+    "id": "linear-two",
+    "name": "Two-Variable Linear Equation Calculator",
+    "route": "#/calculator/linear-two",
+    "status": "Covered by existing tool (no new card)"
+  },
+  {
+    "requested": "System of 3 Equations Calculator",
+    "id": "linear-three",
+    "name": "System of 3 Equations / Cramer’s Rule Calculator",
+    "route": "#/calculator/linear-three",
+    "status": "Covered by new shared tool"
+  },
+  {
+    "requested": "Matrix Addition Calculator",
+    "id": "matrix-add",
+    "name": "Matrix Addition / Subtraction Calculator",
+    "route": "#/calculator/matrix-add",
+    "status": "Covered by new shared tool"
+  },
+  {
+    "requested": "Matrix Subtraction Calculator",
+    "id": "matrix-add",
+    "name": "Matrix Addition / Subtraction Calculator",
+    "route": "#/calculator/matrix-add",
+    "status": "Covered by new shared tool"
+  },
+  {
+    "requested": "Matrix Multiplication Calculator",
+    "id": "matrix-multiply",
+    "name": "Matrix Multiplication Calculator",
+    "route": "#/calculator/matrix-multiply",
+    "status": "Covered by new shared tool"
+  },
+  {
+    "requested": "Matrix Determinant Calculator",
+    "id": "matrix-determinant",
+    "name": "Matrix Determinant Calculator",
+    "route": "#/calculator/matrix-determinant",
+    "status": "Covered by new shared tool"
+  },
+  {
+    "requested": "2x2 Matrix Inverse Calculator",
+    "id": "matrix-inverse",
+    "name": "Matrix Inverse Calculator",
+    "route": "#/calculator/matrix-inverse",
+    "status": "Covered by new shared tool"
+  },
+  {
+    "requested": "3x3 Matrix Determinant Calculator",
+    "id": "matrix-determinant",
+    "name": "Matrix Determinant Calculator",
+    "route": "#/calculator/matrix-determinant",
+    "status": "Covered by new shared tool"
+  },
+  {
+    "requested": "Cramer's Rule Calculator",
+    "id": "linear-three",
+    "name": "System of 3 Equations / Cramer’s Rule Calculator",
+    "route": "#/calculator/linear-three",
+    "status": "Covered by new shared tool"
+  },
+  {
+    "requested": "Sine Calculator",
+    "id": "scientific",
+    "name": "Scientific Calculator",
+    "route": "#/calculator/scientific",
+    "status": "Covered by existing tool (no new card)"
+  },
+  {
+    "requested": "Cosine Calculator",
+    "id": "scientific",
+    "name": "Scientific Calculator",
+    "route": "#/calculator/scientific",
+    "status": "Covered by existing tool (no new card)"
+  },
+  {
+    "requested": "Tangent Calculator",
+    "id": "scientific",
+    "name": "Scientific Calculator",
+    "route": "#/calculator/scientific",
+    "status": "Covered by existing tool (no new card)"
+  },
+  {
+    "requested": "Arcsine Calculator",
+    "id": "advanced-trig",
+    "name": "Inverse / Reciprocal Trigonometry Calculator",
+    "route": "#/calculator/advanced-trig",
+    "status": "Covered by new shared tool"
+  },
+  {
+    "requested": "Arccosine Calculator",
+    "id": "advanced-trig",
+    "name": "Inverse / Reciprocal Trigonometry Calculator",
+    "route": "#/calculator/advanced-trig",
+    "status": "Covered by new shared tool"
+  },
+  {
+    "requested": "Arctangent Calculator",
+    "id": "advanced-trig",
+    "name": "Inverse / Reciprocal Trigonometry Calculator",
+    "route": "#/calculator/advanced-trig",
+    "status": "Covered by new shared tool"
+  },
+  {
+    "requested": "Trigonometry Calculator",
+    "id": "scientific",
+    "name": "Scientific Calculator",
+    "route": "#/calculator/scientific",
+    "status": "Covered by existing tool (no new card)"
+  },
+  {
+    "requested": "Law of Sines Calculator",
+    "id": "law-sines",
+    "name": "Law of Sines Calculator",
+    "route": "#/calculator/law-sines",
+    "status": "Covered by new shared tool"
+  },
+  {
+    "requested": "Law of Cosines Calculator",
+    "id": "law-cosines",
+    "name": "Law of Cosines / Triangle Side and Angle Calculator",
+    "route": "#/calculator/law-cosines",
+    "status": "Covered by new shared tool"
+  },
+  {
+    "requested": "Triangle Angle Calculator",
+    "id": "law-cosines",
+    "name": "Law of Cosines / Triangle Side and Angle Calculator",
+    "route": "#/calculator/law-cosines",
+    "status": "Covered by new shared tool"
+  },
+  {
+    "requested": "Triangle Side Calculator",
+    "id": "law-cosines",
+    "name": "Law of Cosines / Triangle Side and Angle Calculator",
+    "route": "#/calculator/law-cosines",
+    "status": "Covered by new shared tool"
+  },
+  {
+    "requested": "Degrees to Radians Calculator",
+    "id": "angle-units",
+    "name": "Angle Converter",
+    "route": "#/calculator/angle-units",
+    "status": "Covered by existing tool (no new card)"
+  },
+  {
+    "requested": "Radians to Degrees Calculator",
+    "id": "angle-units",
+    "name": "Angle Converter",
+    "route": "#/calculator/angle-units",
+    "status": "Covered by existing tool (no new card)"
+  },
+  {
+    "requested": "Cotangent Calculator",
+    "id": "advanced-trig",
+    "name": "Inverse / Reciprocal Trigonometry Calculator",
+    "route": "#/calculator/advanced-trig",
+    "status": "Covered by new shared tool"
+  },
+  {
+    "requested": "Secant Calculator",
+    "id": "advanced-trig",
+    "name": "Inverse / Reciprocal Trigonometry Calculator",
+    "route": "#/calculator/advanced-trig",
+    "status": "Covered by new shared tool"
+  },
+  {
+    "requested": "Cosecant Calculator",
+    "id": "advanced-trig",
+    "name": "Inverse / Reciprocal Trigonometry Calculator",
+    "route": "#/calculator/advanced-trig",
+    "status": "Covered by new shared tool"
+  },
+  {
+    "requested": "Annulus Calculator",
+    "id": "annulus",
+    "name": "Annulus Calculator",
+    "route": "#/calculator/annulus",
+    "status": "Covered by new shared tool"
+  },
+  {
+    "requested": "Circle Chord Calculator",
+    "id": "circle-segment",
+    "name": "Circle Chord / Segment Calculator",
+    "route": "#/calculator/circle-segment",
+    "status": "Covered by new shared tool"
+  },
+  {
+    "requested": "Circle Segment Calculator",
+    "id": "circle-segment",
+    "name": "Circle Chord / Segment Calculator",
+    "route": "#/calculator/circle-segment",
+    "status": "Covered by new shared tool"
+  },
+  {
+    "requested": "Circle Sector Calculator",
+    "id": "sector",
+    "name": "Sector Calculator",
+    "route": "#/calculator/sector",
+    "status": "Covered by existing tool (no new card)"
+  },
+  {
+    "requested": "Semicircle Calculator",
+    "id": "sector",
+    "name": "Sector Calculator",
+    "route": "#/calculator/sector",
+    "status": "Covered by existing tool (no new card)"
+  },
+  {
+    "requested": "Equilateral Triangle Calculator",
+    "id": "triangle",
+    "name": "Triangle Calculator",
+    "route": "#/calculator/triangle",
+    "status": "Covered by existing tool (no new card)"
+  },
+  {
+    "requested": "Isosceles Triangle Calculator",
+    "id": "triangle",
+    "name": "Triangle Calculator",
+    "route": "#/calculator/triangle",
+    "status": "Covered by existing tool (no new card)"
+  },
+  {
+    "requested": "Scalene Triangle Calculator",
+    "id": "triangle",
+    "name": "Triangle Calculator",
+    "route": "#/calculator/triangle",
+    "status": "Covered by existing tool (no new card)"
+  },
+  {
+    "requested": "Heron's Formula Calculator",
+    "id": "triangle",
+    "name": "Triangle Calculator",
+    "route": "#/calculator/triangle",
+    "status": "Covered by existing tool (no new card)"
+  },
+  {
+    "requested": "Hexagon Calculator",
+    "id": "regular-polygon",
+    "name": "Regular Polygon Calculator",
+    "route": "#/calculator/regular-polygon",
+    "status": "Covered by existing tool (no new card)"
+  },
+  {
+    "requested": "Pentagon Calculator",
+    "id": "regular-polygon",
+    "name": "Regular Polygon Calculator",
+    "route": "#/calculator/regular-polygon",
+    "status": "Covered by existing tool (no new card)"
+  },
+  {
+    "requested": "Octagon Calculator",
+    "id": "regular-polygon",
+    "name": "Regular Polygon Calculator",
+    "route": "#/calculator/regular-polygon",
+    "status": "Covered by existing tool (no new card)"
+  },
+  {
+    "requested": "Regular Polygon Interior Angle Calculator",
+    "id": "polygon-properties",
+    "name": "Polygon Angles / Diagonals Calculator",
+    "route": "#/calculator/polygon-properties",
+    "status": "Covered by new shared tool"
+  },
+  {
+    "requested": "Polygon Exterior Angle Calculator",
+    "id": "polygon-properties",
+    "name": "Polygon Angles / Diagonals Calculator",
+    "route": "#/calculator/polygon-properties",
+    "status": "Covered by new shared tool"
+  },
+  {
+    "requested": "Polygon Diagonal Calculator",
+    "id": "polygon-properties",
+    "name": "Polygon Angles / Diagonals Calculator",
+    "route": "#/calculator/polygon-properties",
+    "status": "Covered by new shared tool"
+  },
+  {
+    "requested": "Prism Volume Calculator",
+    "id": "prism",
+    "name": "Prism / Triangular Prism Calculator",
+    "route": "#/calculator/prism",
+    "status": "Covered by new shared tool"
+  },
+  {
+    "requested": "Triangular Prism Calculator",
+    "id": "prism",
+    "name": "Prism / Triangular Prism Calculator",
+    "route": "#/calculator/prism",
+    "status": "Covered by new shared tool"
+  },
+  {
+    "requested": "Hemisphere Calculator",
+    "id": "hemisphere",
+    "name": "Hemisphere Calculator",
+    "route": "#/calculator/hemisphere",
+    "status": "Covered by new shared tool"
+  },
+  {
+    "requested": "Hollow Cylinder Calculator",
+    "id": "hollow-cylinder",
+    "name": "Hollow Cylinder / Pipe Volume Calculator",
+    "route": "#/calculator/hollow-cylinder",
+    "status": "Covered by new shared tool"
+  },
+  {
+    "requested": "Frustum Calculator",
+    "id": "cone-frustum",
+    "name": "Cone Frustum Calculator",
+    "route": "#/calculator/cone-frustum",
+    "status": "Covered by new shared tool"
+  },
+  {
+    "requested": "Cone Frustum Calculator",
+    "id": "cone-frustum",
+    "name": "Cone Frustum Calculator",
+    "route": "#/calculator/cone-frustum",
+    "status": "Covered by new shared tool"
+  },
+  {
+    "requested": "Ellipsoid Calculator",
+    "id": "ellipsoid",
+    "name": "Ellipsoid Calculator",
+    "route": "#/calculator/ellipsoid",
+    "status": "Covered by new shared tool"
+  },
+  {
+    "requested": "Torus Calculator",
+    "id": "torus",
+    "name": "Torus Calculator",
+    "route": "#/calculator/torus",
+    "status": "Covered by new shared tool"
+  },
+  {
+    "requested": "IRR Calculator",
+    "id": "irr",
+    "name": "IRR Calculator",
+    "route": "#/calculator/irr",
+    "status": "Covered by new shared tool"
+  },
+  {
+    "requested": "NPV Calculator",
+    "id": "npv",
+    "name": "NPV / Profitability Index Calculator",
+    "route": "#/calculator/npv",
+    "status": "Covered by new shared tool"
+  },
+  {
+    "requested": "Payback Period Calculator",
+    "id": "payback",
+    "name": "Payback / Discounted Payback Period Calculator",
+    "route": "#/calculator/payback",
+    "status": "Covered by new shared tool"
+  },
+  {
+    "requested": "Discounted Payback Period Calculator",
+    "id": "payback",
+    "name": "Payback / Discounted Payback Period Calculator",
+    "route": "#/calculator/payback",
+    "status": "Covered by new shared tool"
+  },
+  {
+    "requested": "Profitability Index Calculator",
+    "id": "npv",
+    "name": "NPV / Profitability Index Calculator",
+    "route": "#/calculator/npv",
+    "status": "Covered by new shared tool"
+  },
+  {
+    "requested": "Future Value of Annuity Calculator",
+    "id": "future-value",
+    "name": "Future Value Calculator",
+    "route": "#/calculator/future-value",
+    "status": "Covered by existing tool (no new card)"
+  },
+  {
+    "requested": "Present Value of Annuity Calculator",
+    "id": "annuity",
+    "name": "Annuity Calculator",
+    "route": "#/calculator/annuity",
+    "status": "Covered by existing tool (no new card)"
+  },
+  {
+    "requested": "Growing Annuity Calculator",
+    "id": "growing-annuity",
+    "name": "Growing Annuity Calculator",
+    "route": "#/calculator/growing-annuity",
+    "status": "Covered by new shared tool"
+  },
+  {
+    "requested": "Perpetuity Calculator",
+    "id": "perpetuity",
+    "name": "Perpetuity / Growing Perpetuity Calculator",
+    "route": "#/calculator/perpetuity",
+    "status": "Covered by new shared tool"
+  },
+  {
+    "requested": "Growing Perpetuity Calculator",
+    "id": "perpetuity",
+    "name": "Perpetuity / Growing Perpetuity Calculator",
+    "route": "#/calculator/perpetuity",
+    "status": "Covered by new shared tool"
+  },
+  {
+    "requested": "Effective Annual Rate Calculator",
+    "id": "effective-rate",
+    "name": "Effective Interest Rate Calculator",
+    "route": "#/calculator/effective-rate",
+    "status": "Covered by existing tool (no new card)"
+  },
+  {
+    "requested": "Nominal Interest Rate Calculator",
+    "id": "nominal-rate",
+    "name": "Nominal Interest Rate Calculator",
+    "route": "#/calculator/nominal-rate",
+    "status": "Covered by new shared tool"
+  },
+  {
+    "requested": "Real Interest Rate Calculator",
+    "id": "real-interest",
+    "name": "Real Interest Rate / Fisher Equation Calculator",
+    "route": "#/calculator/real-interest",
+    "status": "Covered by new shared tool"
+  },
+  {
+    "requested": "Fisher Equation Calculator",
+    "id": "real-interest",
+    "name": "Real Interest Rate / Fisher Equation Calculator",
+    "route": "#/calculator/real-interest",
+    "status": "Covered by new shared tool"
+  },
+  {
+    "requested": "Continuous Compounding Calculator",
+    "id": "continuous-compounding",
+    "name": "Continuous Compounding Calculator",
+    "route": "#/calculator/continuous-compounding",
+    "status": "Covered by new shared tool"
+  },
+  {
+    "requested": "Investment Doubling Calculator",
+    "id": "doubling-time",
+    "name": "Doubling Time Calculator",
+    "route": "#/calculator/doubling-time",
+    "status": "Covered by existing tool (no new card)"
+  },
+  {
+    "requested": "Investment Tripling Calculator",
+    "id": "doubling-time",
+    "name": "Doubling Time Calculator",
+    "route": "#/calculator/doubling-time",
+    "status": "Covered by existing tool (no new card)"
+  },
+  {
+    "requested": "Portfolio Return Calculator",
+    "id": "weighted-average",
+    "name": "Weighted Average Calculator",
+    "route": "#/calculator/weighted-average",
+    "status": "Covered by existing tool (no new card)"
+  },
+  {
+    "requested": "Weighted Portfolio Return Calculator",
+    "id": "weighted-average",
+    "name": "Weighted Average Calculator",
+    "route": "#/calculator/weighted-average",
+    "status": "Covered by existing tool (no new card)"
+  },
+  {
+    "requested": "Dividend Payout Ratio Calculator",
+    "id": "equity-valuation",
+    "name": "EPS / P-E / Book Value / Enterprise Value Calculator",
+    "route": "#/calculator/equity-valuation",
+    "status": "Covered by new shared tool"
+  },
+  {
+    "requested": "Earnings Per Share Calculator",
+    "id": "equity-valuation",
+    "name": "EPS / P-E / Book Value / Enterprise Value Calculator",
+    "route": "#/calculator/equity-valuation",
+    "status": "Covered by new shared tool"
+  },
+  {
+    "requested": "P/E Ratio Calculator",
+    "id": "equity-valuation",
+    "name": "EPS / P-E / Book Value / Enterprise Value Calculator",
+    "route": "#/calculator/equity-valuation",
+    "status": "Covered by new shared tool"
+  },
+  {
+    "requested": "Price to Book Ratio Calculator",
+    "id": "equity-valuation",
+    "name": "EPS / P-E / Book Value / Enterprise Value Calculator",
+    "route": "#/calculator/equity-valuation",
+    "status": "Covered by new shared tool"
+  },
+  {
+    "requested": "Book Value Per Share Calculator",
+    "id": "equity-valuation",
+    "name": "EPS / P-E / Book Value / Enterprise Value Calculator",
+    "route": "#/calculator/equity-valuation",
+    "status": "Covered by new shared tool"
+  },
+  {
+    "requested": "Market Capitalization Calculator",
+    "id": "equity-valuation",
+    "name": "EPS / P-E / Book Value / Enterprise Value Calculator",
+    "route": "#/calculator/equity-valuation",
+    "status": "Covered by new shared tool"
+  },
+  {
+    "requested": "Enterprise Value Calculator",
+    "id": "equity-valuation",
+    "name": "EPS / P-E / Book Value / Enterprise Value Calculator",
+    "route": "#/calculator/equity-valuation",
+    "status": "Covered by new shared tool"
+  },
+  {
+    "requested": "EBITDA Margin Calculator",
+    "id": "operating-margin",
+    "name": "Operating Margin Calculator",
+    "route": "#/calculator/operating-margin",
+    "status": "Covered by existing tool (no new card)"
+  },
+  {
+    "requested": "ROA Calculator",
+    "id": "financial-performance",
+    "name": "ROA / ROE / Asset and Inventory Turnover Calculator",
+    "route": "#/calculator/financial-performance",
+    "status": "Covered by new shared tool"
+  },
+  {
+    "requested": "ROE Calculator",
+    "id": "financial-performance",
+    "name": "ROA / ROE / Asset and Inventory Turnover Calculator",
+    "route": "#/calculator/financial-performance",
+    "status": "Covered by new shared tool"
+  },
+  {
+    "requested": "Debt-to-Equity Ratio Calculator",
+    "id": "equity-valuation",
+    "name": "EPS / P-E / Book Value / Enterprise Value Calculator",
+    "route": "#/calculator/equity-valuation",
+    "status": "Covered by new shared tool"
+  },
+  {
+    "requested": "Current Ratio Calculator",
+    "id": "liquidity",
+    "name": "Current / Quick Ratio / Working Capital Calculator",
+    "route": "#/calculator/liquidity",
+    "status": "Covered by new shared tool"
+  },
+  {
+    "requested": "Quick Ratio Calculator",
+    "id": "liquidity",
+    "name": "Current / Quick Ratio / Working Capital Calculator",
+    "route": "#/calculator/liquidity",
+    "status": "Covered by new shared tool"
+  },
+  {
+    "requested": "Working Capital Calculator",
+    "id": "liquidity",
+    "name": "Current / Quick Ratio / Working Capital Calculator",
+    "route": "#/calculator/liquidity",
+    "status": "Covered by new shared tool"
+  },
+  {
+    "requested": "Inventory Turnover Calculator",
+    "id": "financial-performance",
+    "name": "ROA / ROE / Asset and Inventory Turnover Calculator",
+    "route": "#/calculator/financial-performance",
+    "status": "Covered by new shared tool"
+  },
+  {
+    "requested": "Asset Turnover Calculator",
+    "id": "financial-performance",
+    "name": "ROA / ROE / Asset and Inventory Turnover Calculator",
+    "route": "#/calculator/financial-performance",
+    "status": "Covered by new shared tool"
+  },
+  {
+    "requested": "Mortgage Calculator",
+    "id": "emi",
+    "name": "EMI Calculator",
+    "route": "#/calculator/emi",
+    "status": "Covered by existing tool (no new card)"
+  },
+  {
+    "requested": "Mortgage Payment Calculator",
+    "id": "emi",
+    "name": "EMI Calculator",
+    "route": "#/calculator/emi",
+    "status": "Covered by existing tool (no new card)"
+  },
+  {
+    "requested": "Mortgage Affordability Calculator",
+    "id": "loan-eligibility",
+    "name": "Loan Eligibility Calculator",
+    "route": "#/calculator/loan-eligibility",
+    "status": "Covered by existing tool (no new card)"
+  },
+  {
+    "requested": "Mortgage Amortization Calculator",
+    "id": "loan",
+    "name": "Loan Calculator",
+    "route": "#/calculator/loan",
+    "status": "Covered by existing tool (no new card)"
+  },
+  {
+    "requested": "Extra Mortgage Payment Calculator",
+    "id": "loan-prepayment",
+    "name": "Loan Prepayment Calculator",
+    "route": "#/calculator/loan-prepayment",
+    "status": "Covered by existing tool (no new card)"
+  },
+  {
+    "requested": "Mortgage Payoff Calculator",
+    "id": "debt-repayment",
+    "name": "Debt Repayment Calculator",
+    "route": "#/calculator/debt-repayment",
+    "status": "Covered by existing tool (no new card)"
+  },
+  {
+    "requested": "Rent vs Buy Calculator",
+    "id": "rent-buy",
+    "name": "Rent vs Buy Calculator",
+    "route": "#/calculator/rent-buy",
+    "status": "Covered by new shared tool"
+  },
+  {
+    "requested": "Rental Yield Calculator",
+    "id": "rental-yield",
+    "name": "Rental Yield / Cap Rate Calculator",
+    "route": "#/calculator/rental-yield",
+    "status": "Covered by new shared tool"
+  },
+  {
+    "requested": "Gross Rental Yield Calculator",
+    "id": "rental-yield",
+    "name": "Rental Yield / Cap Rate Calculator",
+    "route": "#/calculator/rental-yield",
+    "status": "Covered by new shared tool"
+  },
+  {
+    "requested": "Net Rental Yield Calculator",
+    "id": "rental-yield",
+    "name": "Rental Yield / Cap Rate Calculator",
+    "route": "#/calculator/rental-yield",
+    "status": "Covered by new shared tool"
+  },
+  {
+    "requested": "Property ROI Calculator",
+    "id": "roi",
+    "name": "ROI Calculator",
+    "route": "#/calculator/roi",
+    "status": "Covered by existing tool (no new card)"
+  },
+  {
+    "requested": "Cap Rate Calculator",
+    "id": "rental-yield",
+    "name": "Rental Yield / Cap Rate Calculator",
+    "route": "#/calculator/rental-yield",
+    "status": "Covered by new shared tool"
+  },
+  {
+    "requested": "Price Per Square Foot Calculator",
+    "id": "unit-price",
+    "name": "Unit Price Calculator",
+    "route": "#/calculator/unit-price",
+    "status": "Covered by existing tool (no new card)"
+  },
+  {
+    "requested": "Price Per Square Meter Calculator",
+    "id": "unit-price",
+    "name": "Unit Price Calculator",
+    "route": "#/calculator/unit-price",
+    "status": "Covered by existing tool (no new card)"
+  },
+  {
+    "requested": "Property Appreciation Calculator",
+    "id": "compound-interest",
+    "name": "Compound Interest Calculator",
+    "route": "#/calculator/compound-interest",
+    "status": "Covered by existing tool (no new card)"
+  },
+  {
+    "requested": "Down Payment Calculator",
+    "id": "percentage",
+    "name": "Percentage Calculator",
+    "route": "#/calculator/percentage",
+    "status": "Covered by existing tool (no new card)"
+  },
+  {
+    "requested": "Product Profit Calculator",
+    "id": "product-profit",
+    "name": "Product Profit / Pricing Calculator",
+    "route": "#/calculator/product-profit",
+    "status": "Covered by new shared tool"
+  },
+  {
+    "requested": "Ecommerce Profit Margin Calculator",
+    "id": "product-profit",
+    "name": "Product Profit / Pricing Calculator",
+    "route": "#/calculator/product-profit",
+    "status": "Covered by new shared tool"
+  },
+  {
+    "requested": "Product Pricing Calculator",
+    "id": "product-profit",
+    "name": "Product Profit / Pricing Calculator",
+    "route": "#/calculator/product-profit",
+    "status": "Covered by new shared tool"
+  },
+  {
+    "requested": "Wholesale Price Calculator",
+    "id": "selling-price",
+    "name": "Selling Price Calculator",
+    "route": "#/calculator/selling-price",
+    "status": "Covered by existing tool (no new card)"
+  },
+  {
+    "requested": "Retail Price Calculator",
+    "id": "selling-price",
+    "name": "Selling Price Calculator",
+    "route": "#/calculator/selling-price",
+    "status": "Covered by existing tool (no new card)"
+  },
+  {
+    "requested": "Reseller Margin Calculator",
+    "id": "profit-margin",
+    "name": "Profit Margin Calculator",
+    "route": "#/calculator/profit-margin",
+    "status": "Covered by existing tool (no new card)"
+  },
+  {
+    "requested": "Marketplace Fee Calculator",
+    "id": "transaction-fee",
+    "name": "Marketplace / Payment Gateway Fee Calculator",
+    "route": "#/calculator/transaction-fee",
+    "status": "Covered by new shared tool"
+  },
+  {
+    "requested": "Payment Gateway Fee Calculator",
+    "id": "transaction-fee",
+    "name": "Marketplace / Payment Gateway Fee Calculator",
+    "route": "#/calculator/transaction-fee",
+    "status": "Covered by new shared tool"
+  },
+  {
+    "requested": "Transaction Fee Calculator",
+    "id": "transaction-fee",
+    "name": "Marketplace / Payment Gateway Fee Calculator",
+    "route": "#/calculator/transaction-fee",
+    "status": "Covered by new shared tool"
+  },
+  {
+    "requested": "Shipping Cost Per Order Calculator",
+    "id": "unit-price",
+    "name": "Unit Price Calculator",
+    "route": "#/calculator/unit-price",
+    "status": "Covered by existing tool (no new card)"
+  },
+  {
+    "requested": "Average Order Value Calculator",
+    "id": "unit-price",
+    "name": "Unit Price Calculator",
+    "route": "#/calculator/unit-price",
+    "status": "Covered by existing tool (no new card)"
+  },
+  {
+    "requested": "Customer Lifetime Value Calculator",
+    "id": "customer-lifetime",
+    "name": "Customer Lifetime Value Calculator",
+    "route": "#/calculator/customer-lifetime",
+    "status": "Covered by new shared tool"
+  },
+  {
+    "requested": "Cart Abandonment Rate Calculator",
+    "id": "cart-abandonment",
+    "name": "Cart Abandonment Rate Calculator",
+    "route": "#/calculator/cart-abandonment",
+    "status": "Covered by new shared tool"
+  },
+  {
+    "requested": "Refund Rate Calculator",
+    "id": "conversion-rate",
+    "name": "Conversion Rate Calculator",
+    "route": "#/calculator/conversion-rate",
+    "status": "Covered by existing tool (no new card)"
+  },
+  {
+    "requested": "Return Rate Calculator",
+    "id": "conversion-rate",
+    "name": "Conversion Rate Calculator",
+    "route": "#/calculator/conversion-rate",
+    "status": "Covered by existing tool (no new card)"
+  },
+  {
+    "requested": "Inventory Days Calculator",
+    "id": "financial-performance",
+    "name": "ROA / ROE / Asset and Inventory Turnover Calculator",
+    "route": "#/calculator/financial-performance",
+    "status": "Covered by new shared tool"
+  },
+  {
+    "requested": "Inventory Reorder Point Calculator",
+    "id": "inventory-planning",
+    "name": "Inventory Reorder Point / Safety Stock Calculator",
+    "route": "#/calculator/inventory-planning",
+    "status": "Covered by new shared tool"
+  },
+  {
+    "requested": "Safety Stock Calculator",
+    "id": "inventory-planning",
+    "name": "Inventory Reorder Point / Safety Stock Calculator",
+    "route": "#/calculator/inventory-planning",
+    "status": "Covered by new shared tool"
+  },
+  {
+    "requested": "CTR Calculator",
+    "id": "conversion-rate",
+    "name": "Conversion Rate Calculator",
+    "route": "#/calculator/conversion-rate",
+    "status": "Covered by existing tool (no new card)"
+  },
+  {
+    "requested": "Engagement Rate Calculator",
+    "id": "conversion-rate",
+    "name": "Conversion Rate Calculator",
+    "route": "#/calculator/conversion-rate",
+    "status": "Covered by existing tool (no new card)"
+  },
+  {
+    "requested": "Bounce Rate Calculator",
+    "id": "conversion-rate",
+    "name": "Conversion Rate Calculator",
+    "route": "#/calculator/conversion-rate",
+    "status": "Covered by existing tool (no new card)"
+  },
+  {
+    "requested": "Email Open Rate Calculator",
+    "id": "conversion-rate",
+    "name": "Conversion Rate Calculator",
+    "route": "#/calculator/conversion-rate",
+    "status": "Covered by existing tool (no new card)"
+  },
+  {
+    "requested": "Email Click Rate Calculator",
+    "id": "conversion-rate",
+    "name": "Conversion Rate Calculator",
+    "route": "#/calculator/conversion-rate",
+    "status": "Covered by existing tool (no new card)"
+  },
+  {
+    "requested": "Lead Conversion Rate Calculator",
+    "id": "conversion-rate",
+    "name": "Conversion Rate Calculator",
+    "route": "#/calculator/conversion-rate",
+    "status": "Covered by existing tool (no new card)"
+  },
+  {
+    "requested": "Sales Conversion Rate Calculator",
+    "id": "conversion-rate",
+    "name": "Conversion Rate Calculator",
+    "route": "#/calculator/conversion-rate",
+    "status": "Covered by existing tool (no new card)"
+  },
+  {
+    "requested": "Cost Per Conversion Calculator",
+    "id": "cpa",
+    "name": "CPA Calculator",
+    "route": "#/calculator/cpa",
+    "status": "Covered by existing tool (no new card)"
+  },
+  {
+    "requested": "Cost Per Acquisition Calculator",
+    "id": "cpa",
+    "name": "CPA Calculator",
+    "route": "#/calculator/cpa",
+    "status": "Covered by existing tool (no new card)"
+  },
+  {
+    "requested": "Customer Retention Rate Calculator",
+    "id": "retention-churn",
+    "name": "Customer Retention / Churn Rate Calculator",
+    "route": "#/calculator/retention-churn",
+    "status": "Covered by new shared tool"
+  },
+  {
+    "requested": "Customer Churn Rate Calculator",
+    "id": "retention-churn",
+    "name": "Customer Retention / Churn Rate Calculator",
+    "route": "#/calculator/retention-churn",
+    "status": "Covered by new shared tool"
+  },
+  {
+    "requested": "Marketing ROI Calculator",
+    "id": "roi",
+    "name": "ROI Calculator",
+    "route": "#/calculator/roi",
+    "status": "Covered by existing tool (no new card)"
+  },
+  {
+    "requested": "MER Calculator",
+    "id": "roas",
+    "name": "ROAS Calculator",
+    "route": "#/calculator/roas",
+    "status": "Covered by existing tool (no new card)"
+  },
+  {
+    "requested": "Revenue Per Visitor Calculator",
+    "id": "unit-price",
+    "name": "Unit Price Calculator",
+    "route": "#/calculator/unit-price",
+    "status": "Covered by existing tool (no new card)"
+  },
+  {
+    "requested": "Revenue Per Click Calculator",
+    "id": "unit-price",
+    "name": "Unit Price Calculator",
+    "route": "#/calculator/unit-price",
+    "status": "Covered by existing tool (no new card)"
+  },
+  {
+    "requested": "Email Conversion Rate Calculator",
+    "id": "conversion-rate",
+    "name": "Conversion Rate Calculator",
+    "route": "#/calculator/conversion-rate",
+    "status": "Covered by existing tool (no new card)"
+  },
+  {
+    "requested": "Website Uptime Percentage Calculator",
+    "id": "uptime",
+    "name": "Website Uptime / Downtime Calculator",
+    "route": "#/calculator/uptime",
+    "status": "Covered by new shared tool"
+  },
+  {
+    "requested": "Website Downtime Calculator",
+    "id": "uptime",
+    "name": "Website Uptime / Downtime Calculator",
+    "route": "#/calculator/uptime",
+    "status": "Covered by new shared tool"
+  },
+  {
+    "requested": "Bandwidth Calculator",
+    "id": "website-bandwidth",
+    "name": "Website Bandwidth Usage Calculator",
+    "route": "#/calculator/website-bandwidth",
+    "status": "Covered by new shared tool"
+  },
+  {
+    "requested": "Website Bandwidth Usage Calculator",
+    "id": "website-bandwidth",
+    "name": "Website Bandwidth Usage Calculator",
+    "route": "#/calculator/website-bandwidth",
+    "status": "Covered by new shared tool"
+  },
+  {
+    "requested": "Page Size Download Time Calculator",
+    "id": "transfer-time",
+    "name": "Data Transfer Time Calculator",
+    "route": "#/calculator/transfer-time",
+    "status": "Covered by existing tool (no new card)"
+  },
+  {
+    "requested": "File Download Time Calculator",
+    "id": "transfer-time",
+    "name": "Data Transfer Time Calculator",
+    "route": "#/calculator/transfer-time",
+    "status": "Covered by existing tool (no new card)"
+  },
+  {
+    "requested": "File Upload Time Calculator",
+    "id": "transfer-time",
+    "name": "Data Transfer Time Calculator",
+    "route": "#/calculator/transfer-time",
+    "status": "Covered by existing tool (no new card)"
+  },
+  {
+    "requested": "Internet Speed Calculator",
+    "id": "transfer-time",
+    "name": "Data Transfer Time Calculator",
+    "route": "#/calculator/transfer-time",
+    "status": "Covered by existing tool (no new card)"
+  },
+  {
+    "requested": "Transfer Speed Calculator",
+    "id": "transfer-time",
+    "name": "Data Transfer Time Calculator",
+    "route": "#/calculator/transfer-time",
+    "status": "Covered by existing tool (no new card)"
+  },
+  {
+    "requested": "Data Usage Calculator",
+    "id": "media-size",
+    "name": "Streaming / Audio / Video Data Usage Calculator",
+    "route": "#/calculator/media-size",
+    "status": "Covered by new shared tool"
+  },
+  {
+    "requested": "Streaming Data Usage Calculator",
+    "id": "media-size",
+    "name": "Streaming / Audio / Video Data Usage Calculator",
+    "route": "#/calculator/media-size",
+    "status": "Covered by new shared tool"
+  },
+  {
+    "requested": "Video File Size Calculator",
+    "id": "media-size",
+    "name": "Streaming / Audio / Video Data Usage Calculator",
+    "route": "#/calculator/media-size",
+    "status": "Covered by new shared tool"
+  },
+  {
+    "requested": "Audio File Size Calculator",
+    "id": "media-size",
+    "name": "Streaming / Audio / Video Data Usage Calculator",
+    "route": "#/calculator/media-size",
+    "status": "Covered by new shared tool"
+  },
+  {
+    "requested": "Image Uncompressed Size Calculator",
+    "id": "image-size",
+    "name": "Image Uncompressed Size Calculator",
+    "route": "#/calculator/image-size",
+    "status": "Covered by new shared tool"
+  },
+  {
+    "requested": "Screen Resolution Calculator",
+    "id": "ppi",
+    "name": "Screen Resolution / PPI Calculator",
+    "route": "#/calculator/ppi",
+    "status": "Covered by new shared tool"
+  },
+  {
+    "requested": "Aspect Ratio Calculator",
+    "id": "ratio",
+    "name": "Ratio Calculator",
+    "route": "#/calculator/ratio",
+    "status": "Covered by existing tool (no new card)"
+  },
+  {
+    "requested": "PPI Calculator",
+    "id": "ppi",
+    "name": "Screen Resolution / PPI Calculator",
+    "route": "#/calculator/ppi",
+    "status": "Covered by new shared tool"
+  },
+  {
+    "requested": "DPI Calculator",
+    "id": "print-dpi",
+    "name": "Print DPI Calculator",
+    "route": "#/calculator/print-dpi",
+    "status": "Covered by new shared tool"
+  },
+  {
+    "requested": "Bit Calculator",
+    "id": "data-storage",
+    "name": "Data Storage Converter",
+    "route": "#/calculator/data-storage",
+    "status": "Covered by existing tool (no new card)"
+  },
+  {
+    "requested": "Byte Calculator",
+    "id": "data-storage",
+    "name": "Data Storage Converter",
+    "route": "#/calculator/data-storage",
+    "status": "Covered by existing tool (no new card)"
+  },
+  {
+    "requested": "Bitrate Calculator",
+    "id": "media-size",
+    "name": "Streaming / Audio / Video Data Usage Calculator",
+    "route": "#/calculator/media-size",
+    "status": "Covered by new shared tool"
+  },
+  {
+    "requested": "Storage Calculator",
+    "id": "data-storage",
+    "name": "Data Storage Converter",
+    "route": "#/calculator/data-storage",
+    "status": "Covered by existing tool (no new card)"
+  },
+  {
+    "requested": "RAID Capacity Calculator",
+    "id": "raid",
+    "name": "RAID Capacity Calculator",
+    "route": "#/calculator/raid",
+    "status": "Covered by new shared tool"
+  },
+  {
+    "requested": "CPU Execution Time Calculator",
+    "id": "cpu-time",
+    "name": "CPU Execution Time / Clock Cycles Calculator",
+    "route": "#/calculator/cpu-time",
+    "status": "Covered by new shared tool"
+  },
+  {
+    "requested": "Clock Cycle Calculator",
+    "id": "cpu-time",
+    "name": "CPU Execution Time / Clock Cycles Calculator",
+    "route": "#/calculator/cpu-time",
+    "status": "Covered by new shared tool"
+  },
+  {
+    "requested": "Network Subnet Calculator",
+    "id": "ipv4-subnet",
+    "name": "IPv4 Subnet / CIDR / Address Range Calculator",
+    "route": "#/calculator/ipv4-subnet",
+    "status": "Covered by new shared tool"
+  },
+  {
+    "requested": "IPv4 CIDR Calculator",
+    "id": "ipv4-subnet",
+    "name": "IPv4 Subnet / CIDR / Address Range Calculator",
+    "route": "#/calculator/ipv4-subnet",
+    "status": "Covered by new shared tool"
+  },
+  {
+    "requested": "IP Address Range Calculator",
+    "id": "ipv4-subnet",
+    "name": "IPv4 Subnet / CIDR / Address Range Calculator",
+    "route": "#/calculator/ipv4-subnet",
+    "status": "Covered by new shared tool"
+  },
+  {
+    "requested": "AC Power Calculator",
+    "id": "ac-power",
+    "name": "AC Single / Three Phase Power Calculator",
+    "route": "#/calculator/ac-power",
+    "status": "Covered by new shared tool"
+  },
+  {
+    "requested": "DC Power Calculator",
+    "id": "electrical-power",
+    "name": "Electrical Power Calculator",
+    "route": "#/calculator/electrical-power",
+    "status": "Covered by existing tool (no new card)"
+  },
+  {
+    "requested": "Single Phase Power Calculator",
+    "id": "ac-power",
+    "name": "AC Single / Three Phase Power Calculator",
+    "route": "#/calculator/ac-power",
+    "status": "Covered by new shared tool"
+  },
+  {
+    "requested": "Three Phase Power Calculator",
+    "id": "ac-power",
+    "name": "AC Single / Three Phase Power Calculator",
+    "route": "#/calculator/ac-power",
+    "status": "Covered by new shared tool"
+  },
+  {
+    "requested": "Power Factor Calculator",
+    "id": "ac-power",
+    "name": "AC Single / Three Phase Power Calculator",
+    "route": "#/calculator/ac-power",
+    "status": "Covered by new shared tool"
+  },
+  {
+    "requested": "Apparent Power Calculator",
+    "id": "ac-power",
+    "name": "AC Single / Three Phase Power Calculator",
+    "route": "#/calculator/ac-power",
+    "status": "Covered by new shared tool"
+  },
+  {
+    "requested": "Reactive Power Calculator",
+    "id": "ac-power",
+    "name": "AC Single / Three Phase Power Calculator",
+    "route": "#/calculator/ac-power",
+    "status": "Covered by new shared tool"
+  },
+  {
+    "requested": "RMS Voltage Calculator",
+    "id": "sinusoidal-rms",
+    "name": "RMS Voltage / Current Calculator",
+    "route": "#/calculator/sinusoidal-rms",
+    "status": "Covered by new shared tool"
+  },
+  {
+    "requested": "RMS Current Calculator",
+    "id": "sinusoidal-rms",
+    "name": "RMS Voltage / Current Calculator",
+    "route": "#/calculator/sinusoidal-rms",
+    "status": "Covered by new shared tool"
+  },
+  {
+    "requested": "Transformer Turns Ratio Calculator",
+    "id": "transformer",
+    "name": "Transformer Turns Ratio / Voltage Calculator",
+    "route": "#/calculator/transformer",
+    "status": "Covered by new shared tool"
+  },
+  {
+    "requested": "Transformer Voltage Calculator",
+    "id": "transformer",
+    "name": "Transformer Turns Ratio / Voltage Calculator",
+    "route": "#/calculator/transformer",
+    "status": "Covered by new shared tool"
+  },
+  {
+    "requested": "Wire Voltage Drop Calculator",
+    "id": "wire-drop",
+    "name": "Wire Voltage Drop (DC) Calculator",
+    "route": "#/calculator/wire-drop",
+    "status": "Covered by new shared tool"
+  },
+  {
+    "requested": "Joules to kWh Calculator",
+    "id": "energy-units",
+    "name": "Energy Converter",
+    "route": "#/calculator/energy-units",
+    "status": "Covered by existing tool (no new card)"
+  },
+  {
+    "requested": "kWh to Joules Calculator",
+    "id": "energy-units",
+    "name": "Energy Converter",
+    "route": "#/calculator/energy-units",
+    "status": "Covered by existing tool (no new card)"
+  },
+  {
+    "requested": "Amp Hours to Watt Hours Calculator",
+    "id": "battery-energy",
+    "name": "Battery Energy Calculator",
+    "route": "#/calculator/battery-energy",
+    "status": "Covered by existing tool (no new card)"
+  },
+  {
+    "requested": "Watt Hours to Amp Hours Calculator",
+    "id": "battery-energy",
+    "name": "Battery Energy Calculator",
+    "route": "#/calculator/battery-energy",
+    "status": "Covered by existing tool (no new card)"
+  },
+  {
+    "requested": "Battery Charging Time Calculator",
+    "id": "battery-charging",
+    "name": "Battery / EV Charging Time Calculator",
+    "route": "#/calculator/battery-charging",
+    "status": "Covered by new shared tool"
+  },
+  {
+    "requested": "Solar Panel Output Calculator",
+    "id": "solar-output",
+    "name": "Solar Panel Output Calculator",
+    "route": "#/calculator/solar-output",
+    "status": "Covered by new shared tool"
+  },
+  {
+    "requested": "Solar Battery Size Calculator",
+    "id": "battery-capacity",
+    "name": "Battery Capacity Calculator",
+    "route": "#/calculator/battery-capacity",
+    "status": "Covered by existing tool (no new card)"
+  },
+  {
+    "requested": "Electricity Bill Calculator",
+    "id": "electricity-cost",
+    "name": "Electricity Cost Calculator",
+    "route": "#/calculator/electricity-cost",
+    "status": "Covered by existing tool (no new card)"
+  },
+  {
+    "requested": "Horsepower Calculator",
+    "id": "rotational-power",
+    "name": "Torque / RPM / Horsepower Calculator",
+    "route": "#/calculator/rotational-power",
+    "status": "Covered by new shared tool"
+  },
+  {
+    "requested": "Torque to Horsepower Calculator",
+    "id": "rotational-power",
+    "name": "Torque / RPM / Horsepower Calculator",
+    "route": "#/calculator/rotational-power",
+    "status": "Covered by new shared tool"
+  },
+  {
+    "requested": "Horsepower to Torque Calculator",
+    "id": "rotational-power",
+    "name": "Torque / RPM / Horsepower Calculator",
+    "route": "#/calculator/rotational-power",
+    "status": "Covered by new shared tool"
+  },
+  {
+    "requested": "RPM Calculator",
+    "id": "rotational-power",
+    "name": "Torque / RPM / Horsepower Calculator",
+    "route": "#/calculator/rotational-power",
+    "status": "Covered by new shared tool"
+  },
+  {
+    "requested": "Gear Ratio Calculator",
+    "id": "gear-pulley",
+    "name": "Gear / Pulley Ratio and Speed Calculator",
+    "route": "#/calculator/gear-pulley",
+    "status": "Covered by new shared tool"
+  },
+  {
+    "requested": "Gear Speed Calculator",
+    "id": "gear-pulley",
+    "name": "Gear / Pulley Ratio and Speed Calculator",
+    "route": "#/calculator/gear-pulley",
+    "status": "Covered by new shared tool"
+  },
+  {
+    "requested": "Pulley Ratio Calculator",
+    "id": "gear-pulley",
+    "name": "Gear / Pulley Ratio and Speed Calculator",
+    "route": "#/calculator/gear-pulley",
+    "status": "Covered by new shared tool"
+  },
+  {
+    "requested": "Mechanical Efficiency Calculator",
+    "id": "mechanical-efficiency",
+    "name": "Mechanical Efficiency Calculator",
+    "route": "#/calculator/mechanical-efficiency",
+    "status": "Covered by new shared tool"
+  },
+  {
+    "requested": "Friction Calculator",
+    "id": "friction",
+    "name": "Friction Calculator",
+    "route": "#/calculator/friction",
+    "status": "Covered by new shared tool"
+  },
+  {
+    "requested": "Centripetal Force Calculator",
+    "id": "centripetal",
+    "name": "Centripetal / Centrifugal Force Calculator",
+    "route": "#/calculator/centripetal",
+    "status": "Covered by new shared tool"
+  },
+  {
+    "requested": "Centrifugal Force Calculator",
+    "id": "centripetal",
+    "name": "Centripetal / Centrifugal Force Calculator",
+    "route": "#/calculator/centripetal",
+    "status": "Covered by new shared tool"
+  },
+  {
+    "requested": "Angular Velocity Calculator",
+    "id": "angular-motion",
+    "name": "Angular Velocity / Linear Velocity Calculator",
+    "route": "#/calculator/angular-motion",
+    "status": "Covered by new shared tool"
+  },
+  {
+    "requested": "Angular Acceleration Calculator",
+    "id": "angular-acceleration",
+    "name": "Angular Acceleration Calculator",
+    "route": "#/calculator/angular-acceleration",
+    "status": "Covered by new shared tool"
+  },
+  {
+    "requested": "Linear Velocity Calculator",
+    "id": "angular-motion",
+    "name": "Angular Velocity / Linear Velocity Calculator",
+    "route": "#/calculator/angular-motion",
+    "status": "Covered by new shared tool"
+  },
+  {
+    "requested": "Mass Flow Rate Calculator",
+    "id": "flow-rate",
+    "name": "Volumetric / Mass Flow Rate Calculator",
+    "route": "#/calculator/flow-rate",
+    "status": "Covered by new shared tool"
+  },
+  {
+    "requested": "Volumetric Flow Rate Calculator",
+    "id": "flow-rate",
+    "name": "Volumetric / Mass Flow Rate Calculator",
+    "route": "#/calculator/flow-rate",
+    "status": "Covered by new shared tool"
+  },
+  {
+    "requested": "Flow Rate Calculator",
+    "id": "flow-rate",
+    "name": "Volumetric / Mass Flow Rate Calculator",
+    "route": "#/calculator/flow-rate",
+    "status": "Covered by new shared tool"
+  },
+  {
+    "requested": "Hydraulic Pressure Calculator",
+    "id": "hydraulic-cylinder",
+    "name": "Hydraulic Cylinder Force / Pressure Calculator",
+    "route": "#/calculator/hydraulic-cylinder",
+    "status": "Covered by new shared tool"
+  },
+  {
+    "requested": "Hydraulic Force Calculator",
+    "id": "hydraulic-cylinder",
+    "name": "Hydraulic Cylinder Force / Pressure Calculator",
+    "route": "#/calculator/hydraulic-cylinder",
+    "status": "Covered by new shared tool"
+  },
+  {
+    "requested": "Hydraulic Cylinder Force Calculator",
+    "id": "hydraulic-cylinder",
+    "name": "Hydraulic Cylinder Force / Pressure Calculator",
+    "route": "#/calculator/hydraulic-cylinder",
+    "status": "Covered by new shared tool"
+  },
+  {
+    "requested": "Heat Energy Calculator",
+    "id": "heat-energy",
+    "name": "Heat Energy / Specific Heat Calculator",
+    "route": "#/calculator/heat-energy",
+    "status": "Covered by new shared tool"
+  },
+  {
+    "requested": "Specific Heat Calculator",
+    "id": "heat-energy",
+    "name": "Heat Energy / Specific Heat Calculator",
+    "route": "#/calculator/heat-energy",
+    "status": "Covered by new shared tool"
+  },
+  {
+    "requested": "Heat Transfer Calculator",
+    "id": "heat-conduction",
+    "name": "Heat Transfer (Conduction) Calculator",
+    "route": "#/calculator/heat-conduction",
+    "status": "Covered by new shared tool"
+  },
+  {
+    "requested": "Temperature Difference Calculator",
+    "id": "temperature-difference",
+    "name": "Temperature Difference Calculator",
+    "route": "#/calculator/temperature-difference",
+    "status": "Covered by new shared tool"
+  },
+  {
+    "requested": "Thermal Expansion Calculator",
+    "id": "thermal-expansion",
+    "name": "Thermal Expansion Calculator",
+    "route": "#/calculator/thermal-expansion",
+    "status": "Covered by new shared tool"
+  },
+  {
+    "requested": "Ideal Gas Law Calculator",
+    "id": "ideal-gas",
+    "name": "Ideal Gas Law Calculator",
+    "route": "#/calculator/ideal-gas",
+    "status": "Covered by new shared tool"
+  },
+  {
+    "requested": "Boyle's Law Calculator",
+    "id": "combined-gas",
+    "name": "Combined Gas / Boyle’s / Charles’s Law Calculator",
+    "route": "#/calculator/combined-gas",
+    "status": "Covered by new shared tool"
+  },
+  {
+    "requested": "Charles's Law Calculator",
+    "id": "combined-gas",
+    "name": "Combined Gas / Boyle’s / Charles’s Law Calculator",
+    "route": "#/calculator/combined-gas",
+    "status": "Covered by new shared tool"
+  },
+  {
+    "requested": "Combined Gas Law Calculator",
+    "id": "combined-gas",
+    "name": "Combined Gas / Boyle’s / Charles’s Law Calculator",
+    "route": "#/calculator/combined-gas",
+    "status": "Covered by new shared tool"
+  },
+  {
+    "requested": "Pressure Volume Calculator",
+    "id": "ideal-gas",
+    "name": "Ideal Gas Law Calculator",
+    "route": "#/calculator/ideal-gas",
+    "status": "Covered by new shared tool"
+  },
+  {
+    "requested": "Molar Mass Calculator",
+    "id": "molar-mass",
+    "name": "Molar Mass Calculator",
+    "route": "#/calculator/molar-mass",
+    "status": "Covered by new shared tool"
+  },
+  {
+    "requested": "Moles Calculator",
+    "id": "moles-mass",
+    "name": "Moles / Mass Conversion Calculator",
+    "route": "#/calculator/moles-mass",
+    "status": "Covered by new shared tool"
+  },
+  {
+    "requested": "Mole to Mass Calculator",
+    "id": "moles-mass",
+    "name": "Moles / Mass Conversion Calculator",
+    "route": "#/calculator/moles-mass",
+    "status": "Covered by new shared tool"
+  },
+  {
+    "requested": "Mass to Mole Calculator",
+    "id": "moles-mass",
+    "name": "Moles / Mass Conversion Calculator",
+    "route": "#/calculator/moles-mass",
+    "status": "Covered by new shared tool"
+  },
+  {
+    "requested": "Molarity Calculator",
+    "id": "solution-concentration",
+    "name": "Molarity / Molality Calculator",
+    "route": "#/calculator/solution-concentration",
+    "status": "Covered by new shared tool"
+  },
+  {
+    "requested": "Molality Calculator",
+    "id": "solution-concentration",
+    "name": "Molarity / Molality Calculator",
+    "route": "#/calculator/solution-concentration",
+    "status": "Covered by new shared tool"
+  },
+  {
+    "requested": "Dilution Calculator",
+    "id": "dilution",
+    "name": "Dilution Calculator",
+    "route": "#/calculator/dilution",
+    "status": "Covered by new shared tool"
+  },
+  {
+    "requested": "Solution Concentration Calculator",
+    "id": "solution-concentration",
+    "name": "Molarity / Molality Calculator",
+    "route": "#/calculator/solution-concentration",
+    "status": "Covered by new shared tool"
+  },
+  {
+    "requested": "Percent Concentration Calculator",
+    "id": "percent-of",
+    "name": "X Is What Percent of Y Calculator",
+    "route": "#/calculator/percent-of",
+    "status": "Covered by existing tool (no new card)"
+  },
+  {
+    "requested": "Density Mass Volume Calculator",
+    "id": "density",
+    "name": "Density Calculator",
+    "route": "#/calculator/density",
+    "status": "Covered by existing tool (no new card)"
+  },
+  {
+    "requested": "pH Calculator",
+    "id": "ph-poh",
+    "name": "pH / pOH / Hydrogen Ion Calculator",
+    "route": "#/calculator/ph-poh",
+    "status": "Covered by new shared tool"
+  },
+  {
+    "requested": "pOH Calculator",
+    "id": "ph-poh",
+    "name": "pH / pOH / Hydrogen Ion Calculator",
+    "route": "#/calculator/ph-poh",
+    "status": "Covered by new shared tool"
+  },
+  {
+    "requested": "pH to Hydrogen Ion Calculator",
+    "id": "ph-poh",
+    "name": "pH / pOH / Hydrogen Ion Calculator",
+    "route": "#/calculator/ph-poh",
+    "status": "Covered by new shared tool"
+  },
+  {
+    "requested": "Hydrogen Ion to pH Calculator",
+    "id": "ph-poh",
+    "name": "pH / pOH / Hydrogen Ion Calculator",
+    "route": "#/calculator/ph-poh",
+    "status": "Covered by new shared tool"
+  },
+  {
+    "requested": "Ideal Gas Chemistry Calculator",
+    "id": "ideal-gas",
+    "name": "Ideal Gas Law Calculator",
+    "route": "#/calculator/ideal-gas",
+    "status": "Covered by new shared tool"
+  },
+  {
+    "requested": "Rebar Calculator",
+    "id": "rebar",
+    "name": "Rebar Calculator",
+    "route": "#/calculator/rebar",
+    "status": "Covered by new shared tool"
+  },
+  {
+    "requested": "Concrete Block Calculator",
+    "id": "brick",
+    "name": "Brick Calculator",
+    "route": "#/calculator/brick",
+    "status": "Covered by existing tool (no new card)"
+  },
+  {
+    "requested": "Cinder Block Calculator",
+    "id": "brick",
+    "name": "Brick Calculator",
+    "route": "#/calculator/brick",
+    "status": "Covered by existing tool (no new card)"
+  },
+  {
+    "requested": "Decking Calculator",
+    "id": "decking",
+    "name": "Decking Calculator",
+    "route": "#/calculator/decking",
+    "status": "Covered by new shared tool"
+  },
+  {
+    "requested": "Board Foot Calculator",
+    "id": "board-foot",
+    "name": "Board Foot / Lumber Calculator",
+    "route": "#/calculator/board-foot",
+    "status": "Covered by new shared tool"
+  },
+  {
+    "requested": "Lumber Calculator",
+    "id": "board-foot",
+    "name": "Board Foot / Lumber Calculator",
+    "route": "#/calculator/board-foot",
+    "status": "Covered by new shared tool"
+  },
+  {
+    "requested": "Drywall Calculator",
+    "id": "flooring",
+    "name": "Flooring Calculator",
+    "route": "#/calculator/flooring",
+    "status": "Covered by existing tool (no new card)"
+  },
+  {
+    "requested": "Insulation Calculator",
+    "id": "flooring",
+    "name": "Flooring Calculator",
+    "route": "#/calculator/flooring",
+    "status": "Covered by existing tool (no new card)"
+  },
+  {
+    "requested": "Plaster Calculator",
+    "id": "earth-material",
+    "name": "Excavation / Soil / Mulch Calculator",
+    "route": "#/calculator/earth-material",
+    "status": "Covered by existing tool (no new card)"
+  },
+  {
+    "requested": "Mortar Calculator",
+    "id": "earth-material",
+    "name": "Excavation / Soil / Mulch Calculator",
+    "route": "#/calculator/earth-material",
+    "status": "Covered by existing tool (no new card)"
+  },
+  {
+    "requested": "Screed Calculator",
+    "id": "earth-material",
+    "name": "Excavation / Soil / Mulch Calculator",
+    "route": "#/calculator/earth-material",
+    "status": "Covered by existing tool (no new card)"
+  },
+  {
+    "requested": "Column Concrete Calculator",
+    "id": "cylinder",
+    "name": "Cylinder Calculator",
+    "route": "#/calculator/cylinder",
+    "status": "Covered by existing tool (no new card)"
+  },
+  {
+    "requested": "Slab Concrete Calculator",
+    "id": "concrete",
+    "name": "Concrete Calculator",
+    "route": "#/calculator/concrete",
+    "status": "Covered by existing tool (no new card)"
+  },
+  {
+    "requested": "Footing Concrete Calculator",
+    "id": "concrete",
+    "name": "Concrete Calculator",
+    "route": "#/calculator/concrete",
+    "status": "Covered by existing tool (no new card)"
+  },
+  {
+    "requested": "Foundation Concrete Calculator",
+    "id": "concrete",
+    "name": "Concrete Calculator",
+    "route": "#/calculator/concrete",
+    "status": "Covered by existing tool (no new card)"
+  },
+  {
+    "requested": "Ramp Slope Calculator",
+    "id": "ramp-slope",
+    "name": "Ramp Slope / Roof Pitch Calculator",
+    "route": "#/calculator/ramp-slope",
+    "status": "Covered by new shared tool"
+  },
+  {
+    "requested": "Roof Pitch Calculator",
+    "id": "ramp-slope",
+    "name": "Ramp Slope / Roof Pitch Calculator",
+    "route": "#/calculator/ramp-slope",
+    "status": "Covered by new shared tool"
+  },
+  {
+    "requested": "Roof Area Calculator",
+    "id": "roofing",
+    "name": "Roofing Calculator",
+    "route": "#/calculator/roofing",
+    "status": "Covered by existing tool (no new card)"
+  },
+  {
+    "requested": "Gutter Calculator",
+    "id": "gutter",
+    "name": "Gutter / Linear Material Calculator",
+    "route": "#/calculator/gutter",
+    "status": "Covered by new shared tool"
+  },
+  {
+    "requested": "Pipe Volume Calculator",
+    "id": "hollow-cylinder",
+    "name": "Hollow Cylinder / Pipe Volume Calculator",
+    "route": "#/calculator/hollow-cylinder",
+    "status": "Covered by new shared tool"
+  },
+  {
+    "requested": "Pipe Weight Calculator",
+    "id": "pipe-weight",
+    "name": "Pipe Weight Calculator",
+    "route": "#/calculator/pipe-weight",
+    "status": "Covered by new shared tool"
+  },
+  {
+    "requested": "Plot Area Calculator",
+    "id": "plot-area",
+    "name": "Plot / Land Polygon Area Calculator",
+    "route": "#/calculator/plot-area",
+    "status": "Covered by new shared tool"
+  },
+  {
+    "requested": "Land Area Calculator",
+    "id": "plot-area",
+    "name": "Plot / Land Polygon Area Calculator",
+    "route": "#/calculator/plot-area",
+    "status": "Covered by new shared tool"
+  },
+  {
+    "requested": "Square Feet to Gaj Calculator",
+    "id": "area-converter",
+    "name": "Area Converter",
+    "route": "#/calculator/area-converter",
+    "status": "Covered by existing tool (no new card)"
+  },
+  {
+    "requested": "Gaj to Square Feet Calculator",
+    "id": "area-converter",
+    "name": "Area Converter",
+    "route": "#/calculator/area-converter",
+    "status": "Covered by existing tool (no new card)"
+  },
+  {
+    "requested": "Square Feet to Acre Calculator",
+    "id": "area-converter",
+    "name": "Area Converter",
+    "route": "#/calculator/area-converter",
+    "status": "Covered by existing tool (no new card)"
+  },
+  {
+    "requested": "Acre to Square Feet Calculator",
+    "id": "area-converter",
+    "name": "Area Converter",
+    "route": "#/calculator/area-converter",
+    "status": "Covered by existing tool (no new card)"
+  },
+  {
+    "requested": "Bigha Converter",
+    "id": "bigha",
+    "name": "Regional Bigha Converter",
+    "route": "#/calculator/bigha",
+    "status": "Covered by new shared tool"
+  },
+  {
+    "requested": "Hectare to Acre Calculator",
+    "id": "area-converter",
+    "name": "Area Converter",
+    "route": "#/calculator/area-converter",
+    "status": "Covered by existing tool (no new card)"
+  },
+  {
+    "requested": "Acre to Hectare Calculator",
+    "id": "area-converter",
+    "name": "Area Converter",
+    "route": "#/calculator/area-converter",
+    "status": "Covered by existing tool (no new card)"
+  },
+  {
+    "requested": "Square Meter to Square Feet Calculator",
+    "id": "area-converter",
+    "name": "Area Converter",
+    "route": "#/calculator/area-converter",
+    "status": "Covered by existing tool (no new card)"
+  },
+  {
+    "requested": "Square Feet to Square Meter Calculator",
+    "id": "area-converter",
+    "name": "Area Converter",
+    "route": "#/calculator/area-converter",
+    "status": "Covered by existing tool (no new card)"
+  },
+  {
+    "requested": "Vehicle Depreciation Calculator",
+    "id": "vehicle-depreciation",
+    "name": "Vehicle Depreciation Calculator",
+    "route": "#/calculator/vehicle-depreciation",
+    "status": "Covered by new shared tool"
+  },
+  {
+    "requested": "Car Affordability Calculator",
+    "id": "loan-eligibility",
+    "name": "Loan Eligibility Calculator",
+    "route": "#/calculator/loan-eligibility",
+    "status": "Covered by existing tool (no new card)"
+  },
+  {
+    "requested": "Car Loan Affordability Calculator",
+    "id": "loan-eligibility",
+    "name": "Loan Eligibility Calculator",
+    "route": "#/calculator/loan-eligibility",
+    "status": "Covered by existing tool (no new card)"
+  },
+  {
+    "requested": "Cost Per Trip Calculator",
+    "id": "trip-cost",
+    "name": "Trip Cost Calculator",
+    "route": "#/calculator/trip-cost",
+    "status": "Covered by existing tool (no new card)"
+  },
+  {
+    "requested": "Fuel Cost Per Kilometer Calculator",
+    "id": "fuel-cost",
+    "name": "Fuel Cost Calculator",
+    "route": "#/calculator/fuel-cost",
+    "status": "Covered by existing tool (no new card)"
+  },
+  {
+    "requested": "Fuel Cost Per Mile Calculator",
+    "id": "fuel-cost",
+    "name": "Fuel Cost Calculator",
+    "route": "#/calculator/fuel-cost",
+    "status": "Covered by existing tool (no new card)"
+  },
+  {
+    "requested": "EV Charging Cost Calculator",
+    "id": "ev-cost",
+    "name": "EV Charging Cost Calculator",
+    "route": "#/calculator/ev-cost",
+    "status": "Covered by new shared tool"
+  },
+  {
+    "requested": "EV Range Calculator",
+    "id": "ev-range",
+    "name": "EV / Battery Range Calculator",
+    "route": "#/calculator/ev-range",
+    "status": "Covered by new shared tool"
+  },
+  {
+    "requested": "Charging Time Calculator",
+    "id": "battery-charging",
+    "name": "Battery / EV Charging Time Calculator",
+    "route": "#/calculator/battery-charging",
+    "status": "Covered by new shared tool"
+  },
+  {
+    "requested": "Battery Range Calculator",
+    "id": "ev-range",
+    "name": "EV / Battery Range Calculator",
+    "route": "#/calculator/ev-range",
+    "status": "Covered by new shared tool"
+  },
+  {
+    "requested": "Tire Size Calculator",
+    "id": "tire-size",
+    "name": "Tire Size / Diameter / Speedometer Error Calculator",
+    "route": "#/calculator/tire-size",
+    "status": "Covered by new shared tool"
+  },
+  {
+    "requested": "Tire Diameter Calculator",
+    "id": "tire-size",
+    "name": "Tire Size / Diameter / Speedometer Error Calculator",
+    "route": "#/calculator/tire-size",
+    "status": "Covered by new shared tool"
+  },
+  {
+    "requested": "Speedometer Error Calculator",
+    "id": "tire-size",
+    "name": "Tire Size / Diameter / Speedometer Error Calculator",
+    "route": "#/calculator/tire-size",
+    "status": "Covered by new shared tool"
+  },
+  {
+    "requested": "Work Hours Calculator",
+    "id": "timesheet",
+    "name": "Timesheet / Work Hours Calculator",
+    "route": "#/calculator/timesheet",
+    "status": "Covered by new shared tool"
+  },
+  {
+    "requested": "Timesheet Calculator",
+    "id": "timesheet",
+    "name": "Timesheet / Work Hours Calculator",
+    "route": "#/calculator/timesheet",
+    "status": "Covered by new shared tool"
+  },
+  {
+    "requested": "Shift Duration Calculator",
+    "id": "timesheet",
+    "name": "Timesheet / Work Hours Calculator",
+    "route": "#/calculator/timesheet",
+    "status": "Covered by new shared tool"
+  },
+  {
+    "requested": "Break Time Calculator",
+    "id": "timesheet",
+    "name": "Timesheet / Work Hours Calculator",
+    "route": "#/calculator/timesheet",
+    "status": "Covered by new shared tool"
+  },
+  {
+    "requested": "Overtime Hours Calculator",
+    "id": "timesheet",
+    "name": "Timesheet / Work Hours Calculator",
+    "route": "#/calculator/timesheet",
+    "status": "Covered by new shared tool"
+  },
+  {
+    "requested": "Weekly Hours Calculator",
+    "id": "timesheet",
+    "name": "Timesheet / Work Hours Calculator",
+    "route": "#/calculator/timesheet",
+    "status": "Covered by new shared tool"
+  },
+  {
+    "requested": "Monthly Work Hours Calculator",
+    "id": "timesheet",
+    "name": "Timesheet / Work Hours Calculator",
+    "route": "#/calculator/timesheet",
+    "status": "Covered by new shared tool"
+  },
+  {
+    "requested": "Hours to Minutes Calculator",
+    "id": "time-units",
+    "name": "Time Unit Converter",
+    "route": "#/calculator/time-units",
+    "status": "Covered by existing tool (no new card)"
+  },
+  {
+    "requested": "Minutes to Hours Calculator",
+    "id": "time-units",
+    "name": "Time Unit Converter",
+    "route": "#/calculator/time-units",
+    "status": "Covered by existing tool (no new card)"
+  },
+  {
+    "requested": "Seconds to Hours Calculator",
+    "id": "time-units",
+    "name": "Time Unit Converter",
+    "route": "#/calculator/time-units",
+    "status": "Covered by existing tool (no new card)"
+  },
+  {
+    "requested": "Time Percentage Calculator",
+    "id": "percent-of",
+    "name": "X Is What Percent of Y Calculator",
+    "route": "#/calculator/percent-of",
+    "status": "Covered by existing tool (no new card)"
+  },
+  {
+    "requested": "Productivity Percentage Calculator",
+    "id": "percent-of",
+    "name": "X Is What Percent of Y Calculator",
+    "route": "#/calculator/percent-of",
+    "status": "Covered by existing tool (no new card)"
+  },
+  {
+    "requested": "GPA Calculator",
+    "id": "weighted-average",
+    "name": "Weighted Average Calculator",
+    "route": "#/calculator/weighted-average",
+    "status": "Covered by existing tool (no new card)"
+  },
+  {
+    "requested": "CGPA Calculator",
+    "id": "weighted-average",
+    "name": "Weighted Average Calculator",
+    "route": "#/calculator/weighted-average",
+    "status": "Covered by existing tool (no new card)"
+  },
+  {
+    "requested": "Grade Percentage Calculator",
+    "id": "percent-of",
+    "name": "X Is What Percent of Y Calculator",
+    "route": "#/calculator/percent-of",
+    "status": "Covered by existing tool (no new card)"
+  },
+  {
+    "requested": "Marks Percentage Calculator",
+    "id": "percent-of",
+    "name": "X Is What Percent of Y Calculator",
+    "route": "#/calculator/percent-of",
+    "status": "Covered by existing tool (no new card)"
+  },
+  {
+    "requested": "Weighted Grade Calculator",
+    "id": "weighted-average",
+    "name": "Weighted Average Calculator",
+    "route": "#/calculator/weighted-average",
+    "status": "Covered by existing tool (no new card)"
+  },
+  {
+    "requested": "Final Grade Calculator",
+    "id": "final-grade",
+    "name": "Final Grade / Required Marks Calculator",
+    "route": "#/calculator/final-grade",
+    "status": "Covered by new shared tool"
+  },
+  {
+    "requested": "Required Marks Calculator",
+    "id": "final-grade",
+    "name": "Final Grade / Required Marks Calculator",
+    "route": "#/calculator/final-grade",
+    "status": "Covered by new shared tool"
+  },
+  {
+    "requested": "Attendance Percentage Calculator",
+    "id": "conversion-rate",
+    "name": "Conversion Rate Calculator",
+    "route": "#/calculator/conversion-rate",
+    "status": "Covered by existing tool (no new card)"
+  },
+  {
+    "requested": "Required Attendance Calculator",
+    "id": "required-attendance",
+    "name": "Required Attendance Calculator",
+    "route": "#/calculator/required-attendance",
+    "status": "Covered by new shared tool"
+  },
+  {
+    "requested": "Correct Answer Percentage Calculator",
+    "id": "conversion-rate",
+    "name": "Conversion Rate Calculator",
+    "route": "#/calculator/conversion-rate",
+    "status": "Covered by existing tool (no new card)"
+  }
+]

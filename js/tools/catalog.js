@@ -1,0 +1,17 @@
+import {requestedToolAliases} from './aliases.js';
+import qr from './catalog/qr.js';
+import web from './catalog/web.js';
+import time from './catalog/time.js';
+import numbers from './catalog/numbers.js';
+import data from './catalog/data.js';
+import design from './catalog/design.js';
+import seo from './catalog/seo.js';
+import pdf from './catalog/pdf.js';
+import image from './catalog/image.js';
+import developer from './catalog/developer.js';
+import security from './catalog/security.js';
+import {textTools as text} from './catalog/text.js';
+import generators from './catalog/generators.js';
+export const tools=[...text,...generators,...developer,...security,...image,...pdf,...data,...design,...seo,...qr,...web,...time,...numbers];
+for(const t of tools)t.aliases=[...new Set([...t.aliases,...(requestedToolAliases[t.id]||[])])];
+export const toolCategories=[...new Set(tools.map(t=>t.category))];

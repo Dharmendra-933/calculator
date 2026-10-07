@@ -1,0 +1,3109 @@
+{
+  "count": 328,
+  "calculators": [
+    {
+      "id": "gst",
+      "name": "GST Calculator",
+      "category": "Finance",
+      "aliases": [],
+      "route": "#/calculator/gst"
+    },
+    {
+      "id": "emi",
+      "name": "EMI Calculator",
+      "category": "Finance",
+      "aliases": [
+        "home loan",
+        "home loan EMI",
+        "car loan",
+        "personal loan",
+        "education loan",
+        "business loan",
+        "credit card EMI",
+        "mortgage",
+        "mortgage payment"
+      ],
+      "route": "#/calculator/emi"
+    },
+    {
+      "id": "sip",
+      "name": "SIP Calculator",
+      "category": "Finance",
+      "aliases": [],
+      "route": "#/calculator/sip"
+    },
+    {
+      "id": "percentage",
+      "name": "Percentage Calculator",
+      "category": "Math",
+      "aliases": [
+        "what is x percent of y",
+        "bonus",
+        "price increase",
+        "price reduction",
+        "down payment"
+      ],
+      "route": "#/calculator/percentage"
+    },
+    {
+      "id": "discount",
+      "name": "Discount Calculator",
+      "category": "Finance",
+      "aliases": [],
+      "route": "#/calculator/discount"
+    },
+    {
+      "id": "simple-interest",
+      "name": "Simple Interest Calculator",
+      "category": "Finance",
+      "aliases": [],
+      "route": "#/calculator/simple-interest"
+    },
+    {
+      "id": "compound-interest",
+      "name": "Compound Interest Calculator",
+      "category": "Finance",
+      "aliases": [
+        "lumpsum investment",
+        "mutual fund return",
+        "compound",
+        "property appreciation"
+      ],
+      "route": "#/calculator/compound-interest"
+    },
+    {
+      "id": "age",
+      "name": "Age Calculator",
+      "category": "Date & Time",
+      "aliases": [
+        "birthday countdown"
+      ],
+      "route": "#/calculator/age"
+    },
+    {
+      "id": "bmi",
+      "name": "BMI Calculator",
+      "category": "Health",
+      "aliases": [],
+      "route": "#/calculator/bmi"
+    },
+    {
+      "id": "length",
+      "name": "Length Converter",
+      "category": "Converters",
+      "aliases": [
+        "distance converter"
+      ],
+      "route": "#/calculator/length"
+    },
+    {
+      "id": "temperature",
+      "name": "Temperature Converter",
+      "category": "Converters",
+      "aliases": [],
+      "route": "#/calculator/temperature"
+    },
+    {
+      "id": "basic",
+      "name": "Basic Calculator",
+      "category": "Math",
+      "aliases": [],
+      "route": "#/calculator/basic"
+    },
+    {
+      "id": "fd",
+      "name": "FD Calculator",
+      "category": "Finance",
+      "aliases": [],
+      "route": "#/calculator/fd"
+    },
+    {
+      "id": "rd",
+      "name": "RD Calculator",
+      "category": "Finance",
+      "aliases": [],
+      "route": "#/calculator/rd"
+    },
+    {
+      "id": "loan",
+      "name": "Loan Calculator",
+      "category": "Finance",
+      "aliases": [
+        "amortization summary",
+        "mortgage amortization"
+      ],
+      "route": "#/calculator/loan"
+    },
+    {
+      "id": "profit-margin",
+      "name": "Profit Margin Calculator",
+      "category": "Finance",
+      "aliases": [
+        "gross profit",
+        "gross margin",
+        "reseller margin"
+      ],
+      "route": "#/calculator/profit-margin"
+    },
+    {
+      "id": "profit-loss",
+      "name": "Profit & Loss Calculator",
+      "category": "Business",
+      "aliases": [],
+      "route": "#/calculator/profit-loss"
+    },
+    {
+      "id": "markup",
+      "name": "Markup Calculator",
+      "category": "Business",
+      "aliases": [],
+      "route": "#/calculator/markup"
+    },
+    {
+      "id": "margin",
+      "name": "Margin Calculator",
+      "category": "Business",
+      "aliases": [],
+      "route": "#/calculator/margin"
+    },
+    {
+      "id": "commission",
+      "name": "Commission Calculator",
+      "category": "Business",
+      "aliases": [],
+      "route": "#/calculator/commission"
+    },
+    {
+      "id": "break-even",
+      "name": "Break-even Calculator",
+      "category": "Business",
+      "aliases": [],
+      "route": "#/calculator/break-even"
+    },
+    {
+      "id": "gst-inclusive",
+      "name": "GST Inclusive/Exclusive Calculator",
+      "category": "Business",
+      "aliases": [],
+      "route": "#/calculator/gst-inclusive"
+    },
+    {
+      "id": "scientific",
+      "name": "Scientific Calculator",
+      "category": "Math",
+      "aliases": [
+        "exponent",
+        "power calculator",
+        "cube number",
+        "logarithm",
+        "absolute value",
+        "sine",
+        "cosine",
+        "tangent",
+        "trigonometry"
+      ],
+      "route": "#/calculator/scientific"
+    },
+    {
+      "id": "average",
+      "name": "Average Calculator",
+      "category": "Math",
+      "aliases": [
+        "mean"
+      ],
+      "route": "#/calculator/average"
+    },
+    {
+      "id": "ratio",
+      "name": "Ratio Calculator",
+      "category": "Math",
+      "aliases": [
+        "aspect ratio"
+      ],
+      "route": "#/calculator/ratio"
+    },
+    {
+      "id": "fraction",
+      "name": "Fraction Calculator",
+      "category": "Math",
+      "aliases": [
+        "fraction to decimal"
+      ],
+      "route": "#/calculator/fraction"
+    },
+    {
+      "id": "lcm",
+      "name": "LCM Calculator",
+      "category": "Math",
+      "aliases": [],
+      "route": "#/calculator/lcm"
+    },
+    {
+      "id": "gcd",
+      "name": "HCF/GCD Calculator",
+      "category": "Math",
+      "aliases": [],
+      "route": "#/calculator/gcd"
+    },
+    {
+      "id": "square-root",
+      "name": "Square Root Calculator",
+      "category": "Math",
+      "aliases": [],
+      "route": "#/calculator/square-root"
+    },
+    {
+      "id": "date-difference",
+      "name": "Date Difference Calculator",
+      "category": "Date & Time",
+      "aliases": [],
+      "route": "#/calculator/date-difference"
+    },
+    {
+      "id": "days-between",
+      "name": "Days Between Dates",
+      "category": "Date & Time",
+      "aliases": [],
+      "route": "#/calculator/days-between"
+    },
+    {
+      "id": "time-duration",
+      "name": "Time Duration Calculator",
+      "category": "Date & Time",
+      "aliases": [
+        "hours between times",
+        "hours to decimal"
+      ],
+      "route": "#/calculator/time-duration"
+    },
+    {
+      "id": "working-days",
+      "name": "Working Days Calculator",
+      "category": "Date & Time",
+      "aliases": [
+        "business days"
+      ],
+      "route": "#/calculator/working-days"
+    },
+    {
+      "id": "bmr",
+      "name": "BMR Calculator",
+      "category": "Health",
+      "aliases": [],
+      "route": "#/calculator/bmr"
+    },
+    {
+      "id": "calorie",
+      "name": "Calorie Calculator",
+      "category": "Health",
+      "aliases": [
+        "TDEE",
+        "total daily energy expenditure"
+      ],
+      "route": "#/calculator/calorie"
+    },
+    {
+      "id": "ideal-weight",
+      "name": "Ideal Weight Calculator",
+      "category": "Health",
+      "aliases": [],
+      "route": "#/calculator/ideal-weight"
+    },
+    {
+      "id": "weight",
+      "name": "Weight Converter",
+      "category": "Converters",
+      "aliases": [],
+      "route": "#/calculator/weight"
+    },
+    {
+      "id": "area-converter",
+      "name": "Area Converter",
+      "category": "Converters",
+      "aliases": [
+        "square feet to gaj",
+        "gaj to square feet",
+        "square feet to acre",
+        "acre to square feet",
+        "hectare to acre",
+        "acre to hectare",
+        "square meter to square feet",
+        "square feet to square meter"
+      ],
+      "route": "#/calculator/area-converter"
+    },
+    {
+      "id": "volume",
+      "name": "Volume Converter",
+      "category": "Converters",
+      "aliases": [],
+      "route": "#/calculator/volume"
+    },
+    {
+      "id": "speed",
+      "name": "Speed Converter",
+      "category": "Converters",
+      "aliases": [],
+      "route": "#/calculator/speed"
+    },
+    {
+      "id": "data-storage",
+      "name": "Data Storage Converter",
+      "category": "Converters",
+      "aliases": [
+        "bit calculator",
+        "byte calculator",
+        "storage calculator"
+      ],
+      "route": "#/calculator/data-storage"
+    },
+    {
+      "id": "construction-area",
+      "name": "Area Calculator",
+      "category": "Construction",
+      "aliases": [
+        "wall area",
+        "room area",
+        "ceiling area"
+      ],
+      "route": "#/calculator/construction-area"
+    },
+    {
+      "id": "paint",
+      "name": "Paint Calculator",
+      "category": "Construction",
+      "aliases": [],
+      "route": "#/calculator/paint"
+    },
+    {
+      "id": "tile",
+      "name": "Tile Calculator",
+      "category": "Construction",
+      "aliases": [
+        "paver"
+      ],
+      "route": "#/calculator/tile"
+    },
+    {
+      "id": "concrete",
+      "name": "Concrete Calculator",
+      "category": "Construction",
+      "aliases": [
+        "slab concrete",
+        "footing concrete",
+        "foundation concrete"
+      ],
+      "route": "#/calculator/concrete"
+    },
+    {
+      "id": "brick",
+      "name": "Brick Calculator",
+      "category": "Construction",
+      "aliases": [
+        "concrete block",
+        "cinder block"
+      ],
+      "route": "#/calculator/brick"
+    },
+    {
+      "id": "swp",
+      "name": "SWP Calculator",
+      "category": "Finance",
+      "aliases": [],
+      "route": "#/calculator/swp"
+    },
+    {
+      "id": "cagr",
+      "name": "CAGR Calculator",
+      "category": "Finance",
+      "aliases": [],
+      "route": "#/calculator/cagr"
+    },
+    {
+      "id": "roi",
+      "name": "ROI Calculator",
+      "category": "Finance",
+      "aliases": [
+        "investment return",
+        "property ROI",
+        "marketing ROI"
+      ],
+      "route": "#/calculator/roi"
+    },
+    {
+      "id": "inflation",
+      "name": "Inflation Calculator",
+      "category": "Finance",
+      "aliases": [],
+      "route": "#/calculator/inflation"
+    },
+    {
+      "id": "future-value",
+      "name": "Future Value Calculator",
+      "category": "Finance",
+      "aliases": [
+        "future value of annuity"
+      ],
+      "route": "#/calculator/future-value"
+    },
+    {
+      "id": "present-value",
+      "name": "Present Value Calculator",
+      "category": "Finance",
+      "aliases": [],
+      "route": "#/calculator/present-value"
+    },
+    {
+      "id": "rule-72",
+      "name": "Rule of 72 Calculator",
+      "category": "Finance",
+      "aliases": [],
+      "route": "#/calculator/rule-72"
+    },
+    {
+      "id": "doubling-time",
+      "name": "Doubling Time Calculator",
+      "category": "Finance",
+      "aliases": [
+        "investment doubling",
+        "investment tripling"
+      ],
+      "route": "#/calculator/doubling-time"
+    },
+    {
+      "id": "goal-investment",
+      "name": "Goal Investment Calculator",
+      "category": "Finance",
+      "aliases": [
+        "monthly investment required",
+        "savings goal"
+      ],
+      "route": "#/calculator/goal-investment"
+    },
+    {
+      "id": "retirement-corpus",
+      "name": "Retirement Corpus Calculator",
+      "category": "Finance",
+      "aliases": [
+        "retirement"
+      ],
+      "route": "#/calculator/retirement-corpus"
+    },
+    {
+      "id": "emergency-fund",
+      "name": "Emergency Fund Calculator",
+      "category": "Finance",
+      "aliases": [],
+      "route": "#/calculator/emergency-fund"
+    },
+    {
+      "id": "annuity",
+      "name": "Annuity Calculator",
+      "category": "Finance",
+      "aliases": [
+        "present value of annuity"
+      ],
+      "route": "#/calculator/annuity"
+    },
+    {
+      "id": "annuity-payout",
+      "name": "Annuity Payout Calculator",
+      "category": "Finance",
+      "aliases": [],
+      "route": "#/calculator/annuity-payout"
+    },
+    {
+      "id": "dividend-yield",
+      "name": "Dividend Yield Calculator",
+      "category": "Finance",
+      "aliases": [],
+      "route": "#/calculator/dividend-yield"
+    },
+    {
+      "id": "dividend",
+      "name": "Dividend Calculator",
+      "category": "Finance",
+      "aliases": [],
+      "route": "#/calculator/dividend"
+    },
+    {
+      "id": "stock-average",
+      "name": "Stock Average Calculator",
+      "category": "Finance",
+      "aliases": [
+        "average share price"
+      ],
+      "route": "#/calculator/stock-average"
+    },
+    {
+      "id": "stock-profit",
+      "name": "Stock Profit/Loss Calculator",
+      "category": "Finance",
+      "aliases": [],
+      "route": "#/calculator/stock-profit"
+    },
+    {
+      "id": "risk-reward",
+      "name": "Risk/Reward Ratio Calculator",
+      "category": "Finance",
+      "aliases": [],
+      "route": "#/calculator/risk-reward"
+    },
+    {
+      "id": "bond-yield",
+      "name": "Bond Yield Calculator",
+      "category": "Finance",
+      "aliases": [],
+      "route": "#/calculator/bond-yield"
+    },
+    {
+      "id": "effective-rate",
+      "name": "Effective Interest Rate Calculator",
+      "category": "Finance",
+      "aliases": [
+        "APY",
+        "effective annual rate"
+      ],
+      "route": "#/calculator/effective-rate"
+    },
+    {
+      "id": "apr",
+      "name": "APR Calculator",
+      "category": "Finance",
+      "aliases": [],
+      "route": "#/calculator/apr"
+    },
+    {
+      "id": "loan-eligibility",
+      "name": "Loan Eligibility Calculator",
+      "category": "Loans",
+      "aliases": [
+        "loan affordability",
+        "mortgage affordability",
+        "car affordability",
+        "car loan affordability"
+      ],
+      "route": "#/calculator/loan-eligibility"
+    },
+    {
+      "id": "loan-comparison",
+      "name": "Loan Comparison Calculator",
+      "category": "Loans",
+      "aliases": [],
+      "route": "#/calculator/loan-comparison"
+    },
+    {
+      "id": "loan-prepayment",
+      "name": "Loan Prepayment Calculator",
+      "category": "Loans",
+      "aliases": [
+        "extra mortgage payment"
+      ],
+      "route": "#/calculator/loan-prepayment"
+    },
+    {
+      "id": "loan-tenure",
+      "name": "Loan Tenure Calculator",
+      "category": "Loans",
+      "aliases": [],
+      "route": "#/calculator/loan-tenure"
+    },
+    {
+      "id": "loan-rate",
+      "name": "Interest Rate Calculator",
+      "category": "Loans",
+      "aliases": [],
+      "route": "#/calculator/loan-rate"
+    },
+    {
+      "id": "loan-principal",
+      "name": "Principal Calculator",
+      "category": "Loans",
+      "aliases": [],
+      "route": "#/calculator/loan-principal"
+    },
+    {
+      "id": "credit-card-interest",
+      "name": "Credit Card Interest Calculator",
+      "category": "Loans",
+      "aliases": [],
+      "route": "#/calculator/credit-card-interest"
+    },
+    {
+      "id": "debt-income",
+      "name": "Debt-to-Income Ratio Calculator",
+      "category": "Loans",
+      "aliases": [],
+      "route": "#/calculator/debt-income"
+    },
+    {
+      "id": "debt-repayment",
+      "name": "Debt Repayment Calculator",
+      "category": "Loans",
+      "aliases": [
+        "mortgage payoff"
+      ],
+      "route": "#/calculator/debt-repayment"
+    },
+    {
+      "id": "revenue",
+      "name": "Revenue Calculator",
+      "category": "Business",
+      "aliases": [],
+      "route": "#/calculator/revenue"
+    },
+    {
+      "id": "net-profit",
+      "name": "Net Profit Calculator",
+      "category": "Business",
+      "aliases": [],
+      "route": "#/calculator/net-profit"
+    },
+    {
+      "id": "operating-margin",
+      "name": "Operating Margin Calculator",
+      "category": "Business",
+      "aliases": [
+        "EBITDA margin"
+      ],
+      "route": "#/calculator/operating-margin"
+    },
+    {
+      "id": "contribution-margin",
+      "name": "Contribution Margin Calculator",
+      "category": "Business",
+      "aliases": [],
+      "route": "#/calculator/contribution-margin"
+    },
+    {
+      "id": "unit-price",
+      "name": "Unit Price Calculator",
+      "category": "Business",
+      "aliases": [
+        "cost per unit",
+        "price per unit",
+        "price per square foot",
+        "price per square meter",
+        "shipping cost per order",
+        "average order value",
+        "revenue per visitor",
+        "revenue per click"
+      ],
+      "route": "#/calculator/unit-price"
+    },
+    {
+      "id": "selling-price",
+      "name": "Selling Price Calculator",
+      "category": "Business",
+      "aliases": [
+        "wholesale price",
+        "retail price"
+      ],
+      "route": "#/calculator/selling-price"
+    },
+    {
+      "id": "cost-price",
+      "name": "Cost Price Calculator",
+      "category": "Business",
+      "aliases": [],
+      "route": "#/calculator/cost-price"
+    },
+    {
+      "id": "target-profit",
+      "name": "Target Profit Calculator",
+      "category": "Business",
+      "aliases": [],
+      "route": "#/calculator/target-profit"
+    },
+    {
+      "id": "sales-tax",
+      "name": "Sales Tax Calculator",
+      "category": "Business",
+      "aliases": [
+        "VAT"
+      ],
+      "route": "#/calculator/sales-tax"
+    },
+    {
+      "id": "roas",
+      "name": "ROAS Calculator",
+      "category": "Business",
+      "aliases": [
+        "MER",
+        "marketing efficiency ratio"
+      ],
+      "route": "#/calculator/roas"
+    },
+    {
+      "id": "cpm",
+      "name": "CPM Calculator",
+      "category": "Business",
+      "aliases": [],
+      "route": "#/calculator/cpm"
+    },
+    {
+      "id": "cpc",
+      "name": "CPC Calculator",
+      "category": "Business",
+      "aliases": [],
+      "route": "#/calculator/cpc"
+    },
+    {
+      "id": "cpa",
+      "name": "CPA Calculator",
+      "category": "Business",
+      "aliases": [
+        "cost per lead",
+        "cost per conversion",
+        "cost per acquisition"
+      ],
+      "route": "#/calculator/cpa"
+    },
+    {
+      "id": "customer-acquisition",
+      "name": "Customer Acquisition Cost Calculator",
+      "category": "Business",
+      "aliases": [],
+      "route": "#/calculator/customer-acquisition"
+    },
+    {
+      "id": "conversion-rate",
+      "name": "Conversion Rate Calculator",
+      "category": "Business",
+      "aliases": [
+        "refund rate",
+        "return rate",
+        "CTR",
+        "engagement rate",
+        "bounce rate",
+        "email open rate",
+        "email click rate",
+        "lead conversion rate",
+        "sales conversion rate",
+        "email conversion rate",
+        "attendance percentage",
+        "correct answer percentage"
+      ],
+      "route": "#/calculator/conversion-rate"
+    },
+    {
+      "id": "salary",
+      "name": "Salary Calculator",
+      "category": "Tax & Salary",
+      "aliases": [],
+      "route": "#/calculator/salary"
+    },
+    {
+      "id": "take-home",
+      "name": "Take-Home Salary Calculator",
+      "category": "Tax & Salary",
+      "aliases": [
+        "CTC to in-hand salary"
+      ],
+      "route": "#/calculator/take-home"
+    },
+    {
+      "id": "overtime",
+      "name": "Overtime Calculator",
+      "category": "Tax & Salary",
+      "aliases": [],
+      "route": "#/calculator/overtime"
+    },
+    {
+      "id": "median",
+      "name": "Median Calculator",
+      "category": "Math",
+      "aliases": [],
+      "route": "#/calculator/median"
+    },
+    {
+      "id": "mode",
+      "name": "Mode Calculator",
+      "category": "Math",
+      "aliases": [],
+      "route": "#/calculator/mode"
+    },
+    {
+      "id": "weighted-average",
+      "name": "Weighted Average Calculator",
+      "category": "Math",
+      "aliases": [
+        "weighted mean",
+        "portfolio return",
+        "weighted portfolio return",
+        "GPA",
+        "CGPA",
+        "weighted grade"
+      ],
+      "route": "#/calculator/weighted-average"
+    },
+    {
+      "id": "geometric-mean",
+      "name": "Geometric Mean Calculator",
+      "category": "Math",
+      "aliases": [],
+      "route": "#/calculator/geometric-mean"
+    },
+    {
+      "id": "harmonic-mean",
+      "name": "Harmonic Mean Calculator",
+      "category": "Math",
+      "aliases": [],
+      "route": "#/calculator/harmonic-mean"
+    },
+    {
+      "id": "range",
+      "name": "Range Calculator",
+      "category": "Math",
+      "aliases": [],
+      "route": "#/calculator/range"
+    },
+    {
+      "id": "variance",
+      "name": "Variance Calculator",
+      "category": "Math",
+      "aliases": [
+        "population variance",
+        "sample variance"
+      ],
+      "route": "#/calculator/variance"
+    },
+    {
+      "id": "standard-deviation",
+      "name": "Standard Deviation Calculator",
+      "category": "Math",
+      "aliases": [
+        "population standard deviation",
+        "sample standard deviation"
+      ],
+      "route": "#/calculator/standard-deviation"
+    },
+    {
+      "id": "factorial",
+      "name": "Factorial Calculator",
+      "category": "Math",
+      "aliases": [],
+      "route": "#/calculator/factorial"
+    },
+    {
+      "id": "prime-checker",
+      "name": "Prime Number Checker",
+      "category": "Math",
+      "aliases": [],
+      "route": "#/calculator/prime-checker"
+    },
+    {
+      "id": "prime-factorization",
+      "name": "Prime Factorization Calculator",
+      "category": "Math",
+      "aliases": [],
+      "route": "#/calculator/prime-factorization"
+    },
+    {
+      "id": "modulo",
+      "name": "Remainder & Modulo Calculator",
+      "category": "Math",
+      "aliases": [
+        "remainder",
+        "modulo calculator"
+      ],
+      "route": "#/calculator/modulo"
+    },
+    {
+      "id": "nth-root",
+      "name": "nth Root Calculator",
+      "category": "Math",
+      "aliases": [
+        "cube root"
+      ],
+      "route": "#/calculator/nth-root"
+    },
+    {
+      "id": "permutation",
+      "name": "Permutation Calculator",
+      "category": "Math",
+      "aliases": [],
+      "route": "#/calculator/permutation"
+    },
+    {
+      "id": "combination",
+      "name": "Combination Calculator",
+      "category": "Math",
+      "aliases": [],
+      "route": "#/calculator/combination"
+    },
+    {
+      "id": "probability",
+      "name": "Probability Calculator",
+      "category": "Math",
+      "aliases": [],
+      "route": "#/calculator/probability"
+    },
+    {
+      "id": "random-number",
+      "name": "Random Number Calculator",
+      "category": "Math",
+      "aliases": [],
+      "route": "#/calculator/random-number"
+    },
+    {
+      "id": "significant-figures",
+      "name": "Significant Figures Calculator",
+      "category": "Math",
+      "aliases": [],
+      "route": "#/calculator/significant-figures"
+    },
+    {
+      "id": "decimal-fraction",
+      "name": "Decimal to Fraction Calculator",
+      "category": "Math",
+      "aliases": [
+        "percentage to fraction"
+      ],
+      "route": "#/calculator/decimal-fraction"
+    },
+    {
+      "id": "decimal-percentage",
+      "name": "Decimal to Percentage Calculator",
+      "category": "Math",
+      "aliases": [],
+      "route": "#/calculator/decimal-percentage"
+    },
+    {
+      "id": "percentage-change",
+      "name": "Percentage Change Calculator",
+      "category": "Math",
+      "aliases": [
+        "percentage increase",
+        "percentage decrease",
+        "sales growth",
+        "revenue growth",
+        "salary hike percentage",
+        "salary increment"
+      ],
+      "route": "#/calculator/percentage-change"
+    },
+    {
+      "id": "percentage-difference",
+      "name": "Percentage Difference Calculator",
+      "category": "Math",
+      "aliases": [],
+      "route": "#/calculator/percentage-difference"
+    },
+    {
+      "id": "percent-of",
+      "name": "X Is What Percent of Y Calculator",
+      "category": "Math",
+      "aliases": [
+        "basic salary percentage",
+        "discount percentage",
+        "percent concentration",
+        "time percentage",
+        "productivity percentage",
+        "grade percentage",
+        "marks percentage"
+      ],
+      "route": "#/calculator/percent-of"
+    },
+    {
+      "id": "reverse-percentage",
+      "name": "Reverse Percentage Calculator",
+      "category": "Math",
+      "aliases": [
+        "find original value from percentage"
+      ],
+      "route": "#/calculator/reverse-percentage"
+    },
+    {
+      "id": "quadratic",
+      "name": "Quadratic Equation Calculator",
+      "category": "Algebra",
+      "aliases": [
+        "quadratic formula",
+        "discriminant"
+      ],
+      "route": "#/calculator/quadratic"
+    },
+    {
+      "id": "linear-equation",
+      "name": "Linear Equation Calculator",
+      "category": "Algebra",
+      "aliases": [],
+      "route": "#/calculator/linear-equation"
+    },
+    {
+      "id": "linear-two",
+      "name": "Two-Variable Linear Equation Calculator",
+      "category": "Algebra",
+      "aliases": [
+        "system of 2 equations",
+        "Cramer’s rule for two equations"
+      ],
+      "route": "#/calculator/linear-two"
+    },
+    {
+      "id": "slope",
+      "name": "Slope Calculator",
+      "category": "Algebra",
+      "aliases": [],
+      "route": "#/calculator/slope"
+    },
+    {
+      "id": "point-slope",
+      "name": "Point-Slope Calculator",
+      "category": "Algebra",
+      "aliases": [],
+      "route": "#/calculator/point-slope"
+    },
+    {
+      "id": "point-distance",
+      "name": "Distance Between Two Points Calculator",
+      "category": "Algebra",
+      "aliases": [],
+      "route": "#/calculator/point-distance"
+    },
+    {
+      "id": "midpoint",
+      "name": "Midpoint Calculator",
+      "category": "Algebra",
+      "aliases": [],
+      "route": "#/calculator/midpoint"
+    },
+    {
+      "id": "line-equation",
+      "name": "Equation of Line Calculator",
+      "category": "Algebra",
+      "aliases": [],
+      "route": "#/calculator/line-equation"
+    },
+    {
+      "id": "arithmetic-sequence",
+      "name": "Arithmetic Sequence Calculator",
+      "category": "Algebra",
+      "aliases": [
+        "arithmetic progression"
+      ],
+      "route": "#/calculator/arithmetic-sequence"
+    },
+    {
+      "id": "geometric-sequence",
+      "name": "Geometric Sequence Calculator",
+      "category": "Algebra",
+      "aliases": [
+        "geometric progression"
+      ],
+      "route": "#/calculator/geometric-sequence"
+    },
+    {
+      "id": "circle",
+      "name": "Circle Calculator",
+      "category": "Geometry",
+      "aliases": [],
+      "route": "#/calculator/circle"
+    },
+    {
+      "id": "triangle",
+      "name": "Triangle Calculator",
+      "category": "Geometry",
+      "aliases": [
+        "equilateral triangle",
+        "isosceles triangle",
+        "scalene triangle",
+        "Heron’s formula"
+      ],
+      "route": "#/calculator/triangle"
+    },
+    {
+      "id": "right-triangle",
+      "name": "Right Triangle Calculator",
+      "category": "Geometry",
+      "aliases": [
+        "Pythagorean theorem"
+      ],
+      "route": "#/calculator/right-triangle"
+    },
+    {
+      "id": "rectangle",
+      "name": "Rectangle Calculator",
+      "category": "Geometry",
+      "aliases": [],
+      "route": "#/calculator/rectangle"
+    },
+    {
+      "id": "square",
+      "name": "Square Calculator",
+      "category": "Geometry",
+      "aliases": [],
+      "route": "#/calculator/square"
+    },
+    {
+      "id": "parallelogram",
+      "name": "Parallelogram Calculator",
+      "category": "Geometry",
+      "aliases": [],
+      "route": "#/calculator/parallelogram"
+    },
+    {
+      "id": "trapezoid",
+      "name": "Trapezoid Calculator",
+      "category": "Geometry",
+      "aliases": [],
+      "route": "#/calculator/trapezoid"
+    },
+    {
+      "id": "rhombus",
+      "name": "Rhombus Calculator",
+      "category": "Geometry",
+      "aliases": [],
+      "route": "#/calculator/rhombus"
+    },
+    {
+      "id": "ellipse",
+      "name": "Ellipse Calculator",
+      "category": "Geometry",
+      "aliases": [],
+      "route": "#/calculator/ellipse"
+    },
+    {
+      "id": "regular-polygon",
+      "name": "Regular Polygon Calculator",
+      "category": "Geometry",
+      "aliases": [
+        "hexagon",
+        "pentagon",
+        "octagon"
+      ],
+      "route": "#/calculator/regular-polygon"
+    },
+    {
+      "id": "sector",
+      "name": "Sector Calculator",
+      "category": "Geometry",
+      "aliases": [
+        "arc length",
+        "circle sector",
+        "semicircle"
+      ],
+      "route": "#/calculator/sector"
+    },
+    {
+      "id": "cylinder",
+      "name": "Cylinder Calculator",
+      "category": "Geometry",
+      "aliases": [
+        "column concrete"
+      ],
+      "route": "#/calculator/cylinder"
+    },
+    {
+      "id": "cone",
+      "name": "Cone Calculator",
+      "category": "Geometry",
+      "aliases": [],
+      "route": "#/calculator/cone"
+    },
+    {
+      "id": "sphere",
+      "name": "Sphere Calculator",
+      "category": "Geometry",
+      "aliases": [],
+      "route": "#/calculator/sphere"
+    },
+    {
+      "id": "cube",
+      "name": "Cube Calculator",
+      "category": "Geometry",
+      "aliases": [],
+      "route": "#/calculator/cube"
+    },
+    {
+      "id": "cuboid",
+      "name": "Cuboid / Rectangular Prism Calculator",
+      "category": "Geometry",
+      "aliases": [],
+      "route": "#/calculator/cuboid"
+    },
+    {
+      "id": "pyramid",
+      "name": "Pyramid Calculator",
+      "category": "Geometry",
+      "aliases": [],
+      "route": "#/calculator/pyramid"
+    },
+    {
+      "id": "add-days",
+      "name": "Add / Subtract Days Calculator",
+      "category": "Date & Time",
+      "aliases": [
+        "add days to date",
+        "subtract days from date"
+      ],
+      "route": "#/calculator/add-days"
+    },
+    {
+      "id": "add-months",
+      "name": "Add Months to Date Calculator",
+      "category": "Date & Time",
+      "aliases": [],
+      "route": "#/calculator/add-months"
+    },
+    {
+      "id": "add-years",
+      "name": "Add Years to Date Calculator",
+      "category": "Date & Time",
+      "aliases": [
+        "anniversary"
+      ],
+      "route": "#/calculator/add-years"
+    },
+    {
+      "id": "weekend-days",
+      "name": "Weekend Days Calculator",
+      "category": "Date & Time",
+      "aliases": [],
+      "route": "#/calculator/weekend-days"
+    },
+    {
+      "id": "week-number",
+      "name": "Week Number Calculator",
+      "category": "Date & Time",
+      "aliases": [],
+      "route": "#/calculator/week-number"
+    },
+    {
+      "id": "leap-year",
+      "name": "Leap Year Calculator",
+      "category": "Date & Time",
+      "aliases": [],
+      "route": "#/calculator/leap-year"
+    },
+    {
+      "id": "time-arithmetic",
+      "name": "Time Addition / Subtraction Calculator",
+      "category": "Date & Time",
+      "aliases": [
+        "time addition calculator",
+        "time subtraction calculator"
+      ],
+      "route": "#/calculator/time-arithmetic"
+    },
+    {
+      "id": "decimal-hours",
+      "name": "Decimal Hours Calculator",
+      "category": "Date & Time",
+      "aliases": [
+        "hours to decimal"
+      ],
+      "route": "#/calculator/decimal-hours"
+    },
+    {
+      "id": "pressure-units",
+      "name": "Pressure Converter",
+      "category": "Converters",
+      "aliases": [],
+      "route": "#/calculator/pressure-units"
+    },
+    {
+      "id": "energy-units",
+      "name": "Energy Converter",
+      "category": "Converters",
+      "aliases": [
+        "joules to kWh",
+        "kWh to joules"
+      ],
+      "route": "#/calculator/energy-units"
+    },
+    {
+      "id": "power-units",
+      "name": "Power Converter",
+      "category": "Converters",
+      "aliases": [
+        "kw to hp",
+        "hp to kw"
+      ],
+      "route": "#/calculator/power-units"
+    },
+    {
+      "id": "force-units",
+      "name": "Force Converter",
+      "category": "Converters",
+      "aliases": [],
+      "route": "#/calculator/force-units"
+    },
+    {
+      "id": "torque-units",
+      "name": "Torque Converter",
+      "category": "Converters",
+      "aliases": [],
+      "route": "#/calculator/torque-units"
+    },
+    {
+      "id": "angle-units",
+      "name": "Angle Converter",
+      "category": "Converters",
+      "aliases": [
+        "degrees to radians",
+        "radians to degrees"
+      ],
+      "route": "#/calculator/angle-units"
+    },
+    {
+      "id": "frequency-units",
+      "name": "Frequency Converter",
+      "category": "Converters",
+      "aliases": [],
+      "route": "#/calculator/frequency-units"
+    },
+    {
+      "id": "density-units",
+      "name": "Density Converter",
+      "category": "Converters",
+      "aliases": [],
+      "route": "#/calculator/density-units"
+    },
+    {
+      "id": "acceleration-units",
+      "name": "Acceleration Converter",
+      "category": "Converters",
+      "aliases": [],
+      "route": "#/calculator/acceleration-units"
+    },
+    {
+      "id": "cooking-units",
+      "name": "Cooking Measurement Converter",
+      "category": "Converters",
+      "aliases": [
+        "cooking measurement calculator"
+      ],
+      "route": "#/calculator/cooking-units"
+    },
+    {
+      "id": "time-units",
+      "name": "Time Unit Converter",
+      "category": "Converters",
+      "aliases": [
+        "hours calculator",
+        "minutes calculator",
+        "seconds calculator",
+        "hours to minutes",
+        "minutes to hours",
+        "seconds to hours"
+      ],
+      "route": "#/calculator/time-units"
+    },
+    {
+      "id": "transfer-units",
+      "name": "Digital Transfer Rate Converter",
+      "category": "Converters",
+      "aliases": [],
+      "route": "#/calculator/transfer-units"
+    },
+    {
+      "id": "fuel-economy",
+      "name": "Fuel Economy Converter",
+      "category": "Converters",
+      "aliases": [
+        "fuel consumption"
+      ],
+      "route": "#/calculator/fuel-economy"
+    },
+    {
+      "id": "speed-distance-time",
+      "name": "Speed Distance Time Calculator",
+      "category": "Physics",
+      "aliases": [
+        "travel time",
+        "average speed",
+        "distance calculator"
+      ],
+      "route": "#/calculator/speed-distance-time"
+    },
+    {
+      "id": "acceleration",
+      "name": "Acceleration Calculator",
+      "category": "Physics",
+      "aliases": [],
+      "route": "#/calculator/acceleration"
+    },
+    {
+      "id": "force",
+      "name": "Force Calculator",
+      "category": "Physics",
+      "aliases": [],
+      "route": "#/calculator/force"
+    },
+    {
+      "id": "work",
+      "name": "Work Calculator",
+      "category": "Physics",
+      "aliases": [],
+      "route": "#/calculator/work"
+    },
+    {
+      "id": "mechanical-power",
+      "name": "Mechanical Power Calculator",
+      "category": "Physics",
+      "aliases": [
+        "power calculator"
+      ],
+      "route": "#/calculator/mechanical-power"
+    },
+    {
+      "id": "momentum",
+      "name": "Momentum Calculator",
+      "category": "Physics",
+      "aliases": [],
+      "route": "#/calculator/momentum"
+    },
+    {
+      "id": "kinetic-energy",
+      "name": "Kinetic Energy Calculator",
+      "category": "Physics",
+      "aliases": [],
+      "route": "#/calculator/kinetic-energy"
+    },
+    {
+      "id": "potential-energy",
+      "name": "Potential Energy Calculator",
+      "category": "Physics",
+      "aliases": [],
+      "route": "#/calculator/potential-energy"
+    },
+    {
+      "id": "density",
+      "name": "Density Calculator",
+      "category": "Physics",
+      "aliases": [
+        "density mass volume"
+      ],
+      "route": "#/calculator/density"
+    },
+    {
+      "id": "pressure",
+      "name": "Pressure Calculator",
+      "category": "Physics",
+      "aliases": [],
+      "route": "#/calculator/pressure"
+    },
+    {
+      "id": "wave",
+      "name": "Frequency / Wavelength Calculator",
+      "category": "Physics",
+      "aliases": [
+        "frequency calculator",
+        "wavelength"
+      ],
+      "route": "#/calculator/wave"
+    },
+    {
+      "id": "torque",
+      "name": "Torque Calculator",
+      "category": "Physics",
+      "aliases": [],
+      "route": "#/calculator/torque"
+    },
+    {
+      "id": "mechanical-advantage",
+      "name": "Mechanical Advantage Calculator",
+      "category": "Physics",
+      "aliases": [],
+      "route": "#/calculator/mechanical-advantage"
+    },
+    {
+      "id": "ohms-law",
+      "name": "Ohm's Law Calculator",
+      "category": "Electrical",
+      "aliases": [
+        "voltage calculator",
+        "current calculator",
+        "resistance calculator",
+        "ohm"
+      ],
+      "route": "#/calculator/ohms-law"
+    },
+    {
+      "id": "electrical-power",
+      "name": "Electrical Power Calculator",
+      "category": "Electrical",
+      "aliases": [
+        "DC power"
+      ],
+      "route": "#/calculator/electrical-power"
+    },
+    {
+      "id": "electrical-energy",
+      "name": "Electrical Energy Calculator",
+      "category": "Electrical",
+      "aliases": [
+        "kwh calculator"
+      ],
+      "route": "#/calculator/electrical-energy"
+    },
+    {
+      "id": "electricity-cost",
+      "name": "Electricity Cost Calculator",
+      "category": "Electrical",
+      "aliases": [
+        "electricity bill"
+      ],
+      "route": "#/calculator/electricity-cost"
+    },
+    {
+      "id": "battery-runtime",
+      "name": "Battery Runtime Calculator",
+      "category": "Electrical",
+      "aliases": [],
+      "route": "#/calculator/battery-runtime"
+    },
+    {
+      "id": "battery-capacity",
+      "name": "Battery Capacity Calculator",
+      "category": "Electrical",
+      "aliases": [
+        "solar battery size"
+      ],
+      "route": "#/calculator/battery-capacity"
+    },
+    {
+      "id": "battery-energy",
+      "name": "Battery Energy Calculator",
+      "category": "Electrical",
+      "aliases": [
+        "amp hours to watt hours",
+        "watt hours to amp hours"
+      ],
+      "route": "#/calculator/battery-energy"
+    },
+    {
+      "id": "voltage-divider",
+      "name": "Voltage Divider Calculator",
+      "category": "Electrical",
+      "aliases": [],
+      "route": "#/calculator/voltage-divider"
+    },
+    {
+      "id": "led-resistor",
+      "name": "LED Resistor Calculator",
+      "category": "Electrical",
+      "aliases": [],
+      "route": "#/calculator/led-resistor"
+    },
+    {
+      "id": "resistor-network",
+      "name": "Resistors in Series / Parallel Calculator",
+      "category": "Electrical",
+      "aliases": [
+        "resistors in series",
+        "resistors in parallel"
+      ],
+      "route": "#/calculator/resistor-network"
+    },
+    {
+      "id": "capacitor-network",
+      "name": "Capacitors in Series / Parallel Calculator",
+      "category": "Electrical",
+      "aliases": [
+        "capacitors in series",
+        "capacitors in parallel"
+      ],
+      "route": "#/calculator/capacitor-network"
+    },
+    {
+      "id": "body-fat",
+      "name": "Body Fat Calculator",
+      "category": "Health",
+      "aliases": [],
+      "route": "#/calculator/body-fat"
+    },
+    {
+      "id": "lean-body-mass",
+      "name": "Lean Body Mass Calculator",
+      "category": "Health",
+      "aliases": [],
+      "route": "#/calculator/lean-body-mass"
+    },
+    {
+      "id": "waist-height",
+      "name": "Waist-to-Height Ratio Calculator",
+      "category": "Health",
+      "aliases": [],
+      "route": "#/calculator/waist-height"
+    },
+    {
+      "id": "calorie-budget",
+      "name": "Calorie Deficit / Surplus Calculator",
+      "category": "Health",
+      "aliases": [
+        "calorie deficit",
+        "calorie surplus"
+      ],
+      "route": "#/calculator/calorie-budget"
+    },
+    {
+      "id": "protein",
+      "name": "Protein Intake Calculator",
+      "category": "Health",
+      "aliases": [],
+      "route": "#/calculator/protein"
+    },
+    {
+      "id": "water",
+      "name": "Water Intake Calculator",
+      "category": "Health",
+      "aliases": [],
+      "route": "#/calculator/water"
+    },
+    {
+      "id": "macros",
+      "name": "Macro Calculator",
+      "category": "Health",
+      "aliases": [],
+      "route": "#/calculator/macros"
+    },
+    {
+      "id": "running-pace",
+      "name": "Running / Walking Pace Calculator",
+      "category": "Health",
+      "aliases": [
+        "running pace",
+        "walking pace",
+        "pace converter"
+      ],
+      "route": "#/calculator/running-pace"
+    },
+    {
+      "id": "steps-distance",
+      "name": "Steps / Distance Calculator",
+      "category": "Health",
+      "aliases": [
+        "steps to distance",
+        "distance to steps"
+      ],
+      "route": "#/calculator/steps-distance"
+    },
+    {
+      "id": "concrete-mix",
+      "name": "Cement / Sand / Gravel Calculator",
+      "category": "Construction",
+      "aliases": [
+        "cement calculator",
+        "sand calculator",
+        "gravel calculator"
+      ],
+      "route": "#/calculator/concrete-mix"
+    },
+    {
+      "id": "flooring",
+      "name": "Flooring Calculator",
+      "category": "Construction",
+      "aliases": [
+        "drywall",
+        "insulation"
+      ],
+      "route": "#/calculator/flooring"
+    },
+    {
+      "id": "roofing",
+      "name": "Roofing Calculator",
+      "category": "Construction",
+      "aliases": [
+        "roof area"
+      ],
+      "route": "#/calculator/roofing"
+    },
+    {
+      "id": "wallpaper",
+      "name": "Wallpaper Calculator",
+      "category": "Construction",
+      "aliases": [],
+      "route": "#/calculator/wallpaper"
+    },
+    {
+      "id": "stairs",
+      "name": "Stair Calculator",
+      "category": "Construction",
+      "aliases": [],
+      "route": "#/calculator/stairs"
+    },
+    {
+      "id": "fence",
+      "name": "Fence Calculator",
+      "category": "Construction",
+      "aliases": [],
+      "route": "#/calculator/fence"
+    },
+    {
+      "id": "water-tank",
+      "name": "Water Tank Volume Calculator",
+      "category": "Construction",
+      "aliases": [],
+      "route": "#/calculator/water-tank"
+    },
+    {
+      "id": "earth-material",
+      "name": "Excavation / Soil / Mulch Calculator",
+      "category": "Construction",
+      "aliases": [
+        "excavation volume",
+        "soil",
+        "mulch",
+        "asphalt",
+        "plaster",
+        "mortar",
+        "screed"
+      ],
+      "route": "#/calculator/earth-material"
+    },
+    {
+      "id": "fuel-cost",
+      "name": "Fuel Cost Calculator",
+      "category": "Travel",
+      "aliases": [
+        "fuel required",
+        "fuel cost per kilometer",
+        "fuel cost per mile"
+      ],
+      "route": "#/calculator/fuel-cost"
+    },
+    {
+      "id": "mileage",
+      "name": "Mileage / Fuel Efficiency Calculator",
+      "category": "Travel",
+      "aliases": [
+        "fuel efficiency",
+        "mileage calculator"
+      ],
+      "route": "#/calculator/mileage"
+    },
+    {
+      "id": "trip-cost",
+      "name": "Trip Cost Calculator",
+      "category": "Travel",
+      "aliases": [
+        "cost per trip"
+      ],
+      "route": "#/calculator/trip-cost"
+    },
+    {
+      "id": "distance-cost",
+      "name": "Cost Per Kilometer / Mile Calculator",
+      "category": "Travel",
+      "aliases": [
+        "cost per kilometer",
+        "cost per mile"
+      ],
+      "route": "#/calculator/distance-cost"
+    },
+    {
+      "id": "tip-split",
+      "name": "Tip / Split Bill Calculator",
+      "category": "Everyday",
+      "aliases": [
+        "tip calculator",
+        "split bill"
+      ],
+      "route": "#/calculator/tip-split"
+    },
+    {
+      "id": "recipe-scaling",
+      "name": "Recipe Scaling Calculator",
+      "category": "Everyday",
+      "aliases": [],
+      "route": "#/calculator/recipe-scaling"
+    },
+    {
+      "id": "transfer-time",
+      "name": "Data Transfer Time Calculator",
+      "category": "Everyday",
+      "aliases": [
+        "download time",
+        "upload time",
+        "page size download time",
+        "file download time",
+        "file upload time",
+        "internet speed",
+        "transfer speed"
+      ],
+      "route": "#/calculator/transfer-time"
+    },
+    {
+      "id": "mean-absolute-deviation",
+      "name": "Mean Absolute Deviation Calculator",
+      "category": "Statistics",
+      "aliases": [
+        "Mean Absolute Deviation"
+      ],
+      "route": "#/calculator/mean-absolute-deviation"
+    },
+    {
+      "id": "coefficient-variation",
+      "name": "Coefficient of Variation Calculator",
+      "category": "Statistics",
+      "aliases": [
+        "Coefficient of Variation"
+      ],
+      "route": "#/calculator/coefficient-variation"
+    },
+    {
+      "id": "z-score",
+      "name": "Z-Score Calculator",
+      "category": "Statistics",
+      "aliases": [
+        "Z-Score"
+      ],
+      "route": "#/calculator/z-score"
+    },
+    {
+      "id": "standard-error",
+      "name": "Standard Error Calculator",
+      "category": "Statistics",
+      "aliases": [
+        "Standard Error"
+      ],
+      "route": "#/calculator/standard-error"
+    },
+    {
+      "id": "confidence-interval",
+      "name": "Confidence Interval / Margin of Error Calculator",
+      "category": "Statistics",
+      "aliases": [
+        "margin of error",
+        "Confidence Interval",
+        "Margin of Error"
+      ],
+      "route": "#/calculator/confidence-interval"
+    },
+    {
+      "id": "sample-size",
+      "name": "Sample Size Calculator",
+      "category": "Statistics",
+      "aliases": [
+        "Sample Size"
+      ],
+      "route": "#/calculator/sample-size"
+    },
+    {
+      "id": "quartiles",
+      "name": "Quartiles / Five Number Summary Calculator",
+      "category": "Statistics",
+      "aliases": [
+        "quartile",
+        "interquartile range",
+        "five number summary",
+        "Quartiles",
+        "Five Number Summary"
+      ],
+      "route": "#/calculator/quartiles"
+    },
+    {
+      "id": "percentile",
+      "name": "Percentile Calculator",
+      "category": "Statistics",
+      "aliases": [
+        "Percentile"
+      ],
+      "route": "#/calculator/percentile"
+    },
+    {
+      "id": "outliers",
+      "name": "Outlier Calculator",
+      "category": "Statistics",
+      "aliases": [
+        "Outlier"
+      ],
+      "route": "#/calculator/outliers"
+    },
+    {
+      "id": "covariance",
+      "name": "Covariance Calculator",
+      "category": "Statistics",
+      "aliases": [
+        "Covariance"
+      ],
+      "route": "#/calculator/covariance"
+    },
+    {
+      "id": "linear-regression",
+      "name": "Linear Regression / Pearson Correlation Calculator",
+      "category": "Statistics",
+      "aliases": [
+        "correlation coefficient",
+        "pearson correlation",
+        "regression line",
+        "r squared",
+        "r-squared",
+        "Linear Regression",
+        "Pearson Correlation"
+      ],
+      "route": "#/calculator/linear-regression"
+    },
+    {
+      "id": "rms",
+      "name": "RMS Calculator",
+      "category": "Statistics",
+      "aliases": [
+        "RMS"
+      ],
+      "route": "#/calculator/rms"
+    },
+    {
+      "id": "frequency-distribution",
+      "name": "Frequency Distribution / Relative Frequency Calculator",
+      "category": "Statistics",
+      "aliases": [
+        "relative frequency",
+        "Frequency Distribution",
+        "Relative Frequency"
+      ],
+      "route": "#/calculator/frequency-distribution"
+    },
+    {
+      "id": "odds",
+      "name": "Odds Calculator",
+      "category": "Statistics",
+      "aliases": [
+        "Odds"
+      ],
+      "route": "#/calculator/odds"
+    },
+    {
+      "id": "odds-ratio",
+      "name": "Odds Ratio Calculator",
+      "category": "Statistics",
+      "aliases": [
+        "Odds Ratio"
+      ],
+      "route": "#/calculator/odds-ratio"
+    },
+    {
+      "id": "fibonacci",
+      "name": "Fibonacci / Sequence Generator Calculator",
+      "category": "Number Theory",
+      "aliases": [
+        "fibonacci sequence generator",
+        "Fibonacci",
+        "Sequence Generator"
+      ],
+      "route": "#/calculator/fibonacci"
+    },
+    {
+      "id": "power-sums",
+      "name": "Natural Number / Squares / Cubes Sum Calculator",
+      "category": "Number Theory",
+      "aliases": [
+        "sum of natural numbers",
+        "sum of squares",
+        "sum of cubes",
+        "Natural Number",
+        "Squares",
+        "Cubes Sum"
+      ],
+      "route": "#/calculator/power-sums"
+    },
+    {
+      "id": "divisibility",
+      "name": "Divisibility Calculator",
+      "category": "Number Theory",
+      "aliases": [
+        "Divisibility"
+      ],
+      "route": "#/calculator/divisibility"
+    },
+    {
+      "id": "factors",
+      "name": "Factors / Common Factors Calculator",
+      "category": "Number Theory",
+      "aliases": [
+        "common factors",
+        "Factors",
+        "Common Factors"
+      ],
+      "route": "#/calculator/factors"
+    },
+    {
+      "id": "multiples",
+      "name": "Multiples / Common Multiples Calculator",
+      "category": "Number Theory",
+      "aliases": [
+        "common multiples",
+        "Multiples",
+        "Common Multiples"
+      ],
+      "route": "#/calculator/multiples"
+    },
+    {
+      "id": "extended-gcd",
+      "name": "Extended GCD / Coprime Checker",
+      "category": "Number Theory",
+      "aliases": [
+        "gcd extended",
+        "coprime checker",
+        "Extended GCD",
+        "Coprime Checker"
+      ],
+      "route": "#/calculator/extended-gcd"
+    },
+    {
+      "id": "modular-arithmetic",
+      "name": "Modular Arithmetic / Exponentiation Calculator",
+      "category": "Number Theory",
+      "aliases": [
+        "modular exponentiation",
+        "Modular Arithmetic",
+        "Exponentiation"
+      ],
+      "route": "#/calculator/modular-arithmetic"
+    },
+    {
+      "id": "number-base",
+      "name": "Number Base Converter",
+      "category": "Number Theory",
+      "aliases": [
+        "decimal to binary",
+        "binary to decimal",
+        "decimal to octal",
+        "octal to decimal",
+        "decimal to hex",
+        "hex to decimal",
+        "binary to hex",
+        "hex to binary",
+        "Number Base Converter"
+      ],
+      "route": "#/calculator/number-base"
+    },
+    {
+      "id": "base-arithmetic",
+      "name": "Binary / Octal / Hex Arithmetic Calculator",
+      "category": "Number Theory",
+      "aliases": [
+        "binary calculator",
+        "octal calculator",
+        "hex calculator",
+        "Binary",
+        "Octal",
+        "Hex Arithmetic"
+      ],
+      "route": "#/calculator/base-arithmetic"
+    },
+    {
+      "id": "roman-numerals",
+      "name": "Roman Numeral Converter",
+      "category": "Number Theory",
+      "aliases": [
+        "Roman Numeral Converter"
+      ],
+      "route": "#/calculator/roman-numerals"
+    },
+    {
+      "id": "notation",
+      "name": "Scientific / Engineering Notation Calculator",
+      "category": "Number Theory",
+      "aliases": [
+        "scientific notation",
+        "engineering notation",
+        "Scientific",
+        "Engineering Notation"
+      ],
+      "route": "#/calculator/notation"
+    },
+    {
+      "id": "polynomial",
+      "name": "Polynomial Operations Calculator",
+      "category": "Algebra",
+      "aliases": [
+        "polynomial calculator",
+        "polynomial addition",
+        "polynomial multiplication",
+        "polynomial evaluation",
+        "Polynomial Operations"
+      ],
+      "route": "#/calculator/polynomial"
+    },
+    {
+      "id": "complex-number",
+      "name": "Complex Number Operations / Polar Form Calculator",
+      "category": "Algebra",
+      "aliases": [
+        "complex number addition",
+        "complex number multiplication",
+        "complex number division",
+        "complex number polar form",
+        "Complex Number Operations",
+        "Polar Form",
+        "complex number"
+      ],
+      "route": "#/calculator/complex-number"
+    },
+    {
+      "id": "matrix-add",
+      "name": "Matrix Addition / Subtraction Calculator",
+      "category": "Algebra",
+      "aliases": [
+        "matrix addition",
+        "matrix subtraction",
+        "Matrix Addition",
+        "Subtraction"
+      ],
+      "route": "#/calculator/matrix-add"
+    },
+    {
+      "id": "matrix-multiply",
+      "name": "Matrix Multiplication Calculator",
+      "category": "Algebra",
+      "aliases": [
+        "Matrix Multiplication"
+      ],
+      "route": "#/calculator/matrix-multiply"
+    },
+    {
+      "id": "matrix-determinant",
+      "name": "Matrix Determinant Calculator",
+      "category": "Algebra",
+      "aliases": [
+        "3x3 matrix determinant",
+        "Matrix Determinant"
+      ],
+      "route": "#/calculator/matrix-determinant"
+    },
+    {
+      "id": "matrix-inverse",
+      "name": "Matrix Inverse Calculator",
+      "category": "Algebra",
+      "aliases": [
+        "2x2 matrix inverse",
+        "Matrix Inverse"
+      ],
+      "route": "#/calculator/matrix-inverse"
+    },
+    {
+      "id": "linear-three",
+      "name": "System of 3 Equations / Cramer’s Rule Calculator",
+      "category": "Algebra",
+      "aliases": [
+        "system of 3 equations",
+        "cramers rule",
+        "System of 3 Equations",
+        "Cramer’s Rule"
+      ],
+      "route": "#/calculator/linear-three"
+    },
+    {
+      "id": "advanced-trig",
+      "name": "Inverse / Reciprocal Trigonometry Calculator",
+      "category": "Trigonometry",
+      "aliases": [
+        "arcsine",
+        "arccosine",
+        "arctangent",
+        "cotangent",
+        "secant",
+        "cosecant",
+        "Inverse",
+        "Reciprocal Trigonometry"
+      ],
+      "route": "#/calculator/advanced-trig"
+    },
+    {
+      "id": "law-sines",
+      "name": "Law of Sines Calculator",
+      "category": "Trigonometry",
+      "aliases": [
+        "Law of Sines"
+      ],
+      "route": "#/calculator/law-sines"
+    },
+    {
+      "id": "law-cosines",
+      "name": "Law of Cosines / Triangle Side and Angle Calculator",
+      "category": "Trigonometry",
+      "aliases": [
+        "triangle angle",
+        "triangle side",
+        "Law of Cosines",
+        "Triangle Side and Angle"
+      ],
+      "route": "#/calculator/law-cosines"
+    },
+    {
+      "id": "annulus",
+      "name": "Annulus Calculator",
+      "category": "Geometry",
+      "aliases": [
+        "Annulus"
+      ],
+      "route": "#/calculator/annulus"
+    },
+    {
+      "id": "circle-segment",
+      "name": "Circle Chord / Segment Calculator",
+      "category": "Geometry",
+      "aliases": [
+        "circle chord",
+        "circle segment",
+        "Circle Chord",
+        "Segment"
+      ],
+      "route": "#/calculator/circle-segment"
+    },
+    {
+      "id": "polygon-properties",
+      "name": "Polygon Angles / Diagonals Calculator",
+      "category": "Geometry",
+      "aliases": [
+        "regular polygon interior angle",
+        "polygon exterior angle",
+        "polygon diagonal",
+        "Polygon Angles",
+        "Diagonals"
+      ],
+      "route": "#/calculator/polygon-properties"
+    },
+    {
+      "id": "prism",
+      "name": "Prism / Triangular Prism Calculator",
+      "category": "Geometry",
+      "aliases": [
+        "prism volume",
+        "triangular prism",
+        "Prism",
+        "Triangular Prism"
+      ],
+      "route": "#/calculator/prism"
+    },
+    {
+      "id": "hemisphere",
+      "name": "Hemisphere Calculator",
+      "category": "Geometry",
+      "aliases": [
+        "Hemisphere"
+      ],
+      "route": "#/calculator/hemisphere"
+    },
+    {
+      "id": "hollow-cylinder",
+      "name": "Hollow Cylinder / Pipe Volume Calculator",
+      "category": "Geometry",
+      "aliases": [
+        "pipe volume",
+        "Hollow Cylinder",
+        "Pipe Volume"
+      ],
+      "route": "#/calculator/hollow-cylinder"
+    },
+    {
+      "id": "cone-frustum",
+      "name": "Cone Frustum Calculator",
+      "category": "Geometry",
+      "aliases": [
+        "frustum",
+        "cone frustum",
+        "Cone Frustum"
+      ],
+      "route": "#/calculator/cone-frustum"
+    },
+    {
+      "id": "ellipsoid",
+      "name": "Ellipsoid Calculator",
+      "category": "Geometry",
+      "aliases": [
+        "Ellipsoid"
+      ],
+      "route": "#/calculator/ellipsoid"
+    },
+    {
+      "id": "torus",
+      "name": "Torus Calculator",
+      "category": "Geometry",
+      "aliases": [
+        "Torus"
+      ],
+      "route": "#/calculator/torus"
+    },
+    {
+      "id": "npv",
+      "name": "NPV / Profitability Index Calculator",
+      "category": "Finance",
+      "aliases": [
+        "profitability index",
+        "NPV",
+        "Profitability Index"
+      ],
+      "route": "#/calculator/npv"
+    },
+    {
+      "id": "irr",
+      "name": "IRR Calculator",
+      "category": "Finance",
+      "aliases": [
+        "IRR"
+      ],
+      "route": "#/calculator/irr"
+    },
+    {
+      "id": "payback",
+      "name": "Payback / Discounted Payback Period Calculator",
+      "category": "Finance",
+      "aliases": [
+        "payback period",
+        "discounted payback period",
+        "Payback",
+        "Discounted Payback Period"
+      ],
+      "route": "#/calculator/payback"
+    },
+    {
+      "id": "growing-annuity",
+      "name": "Growing Annuity Calculator",
+      "category": "Finance",
+      "aliases": [
+        "Growing Annuity"
+      ],
+      "route": "#/calculator/growing-annuity"
+    },
+    {
+      "id": "perpetuity",
+      "name": "Perpetuity / Growing Perpetuity Calculator",
+      "category": "Finance",
+      "aliases": [
+        "growing perpetuity",
+        "Perpetuity",
+        "Growing Perpetuity"
+      ],
+      "route": "#/calculator/perpetuity"
+    },
+    {
+      "id": "nominal-rate",
+      "name": "Nominal Interest Rate Calculator",
+      "category": "Finance",
+      "aliases": [
+        "Nominal Interest Rate"
+      ],
+      "route": "#/calculator/nominal-rate"
+    },
+    {
+      "id": "real-interest",
+      "name": "Real Interest Rate / Fisher Equation Calculator",
+      "category": "Finance",
+      "aliases": [
+        "fisher equation",
+        "Real Interest Rate",
+        "Fisher Equation"
+      ],
+      "route": "#/calculator/real-interest"
+    },
+    {
+      "id": "continuous-compounding",
+      "name": "Continuous Compounding Calculator",
+      "category": "Finance",
+      "aliases": [
+        "Continuous Compounding"
+      ],
+      "route": "#/calculator/continuous-compounding"
+    },
+    {
+      "id": "financial-performance",
+      "name": "ROA / ROE / Asset and Inventory Turnover Calculator",
+      "category": "Finance",
+      "aliases": [
+        "ROA",
+        "ROE",
+        "inventory turnover",
+        "asset turnover",
+        "inventory days",
+        "Asset and Inventory Turnover"
+      ],
+      "route": "#/calculator/financial-performance"
+    },
+    {
+      "id": "liquidity",
+      "name": "Current / Quick Ratio / Working Capital Calculator",
+      "category": "Finance",
+      "aliases": [
+        "current ratio",
+        "quick ratio",
+        "working capital",
+        "Current",
+        "Quick Ratio",
+        "Working Capital"
+      ],
+      "route": "#/calculator/liquidity"
+    },
+    {
+      "id": "equity-valuation",
+      "name": "EPS / P-E / Book Value / Enterprise Value Calculator",
+      "category": "Finance",
+      "aliases": [
+        "earnings per share",
+        "P/E ratio",
+        "price to book ratio",
+        "book value per share",
+        "market capitalization",
+        "enterprise value",
+        "dividend payout ratio",
+        "debt-to-equity ratio",
+        "EPS",
+        "P-E",
+        "Book Value",
+        "Enterprise Value"
+      ],
+      "route": "#/calculator/equity-valuation"
+    },
+    {
+      "id": "rental-yield",
+      "name": "Rental Yield / Cap Rate Calculator",
+      "category": "Property",
+      "aliases": [
+        "gross rental yield",
+        "net rental yield",
+        "cap rate",
+        "Rental Yield",
+        "Cap Rate"
+      ],
+      "route": "#/calculator/rental-yield"
+    },
+    {
+      "id": "rent-buy",
+      "name": "Rent vs Buy Calculator",
+      "category": "Property",
+      "aliases": [
+        "rent vs buy",
+        "Rent vs Buy"
+      ],
+      "route": "#/calculator/rent-buy"
+    },
+    {
+      "id": "product-profit",
+      "name": "Product Profit / Pricing Calculator",
+      "category": "Ecommerce",
+      "aliases": [
+        "product pricing",
+        "ecommerce profit margin",
+        "Product Profit",
+        "Pricing"
+      ],
+      "route": "#/calculator/product-profit"
+    },
+    {
+      "id": "transaction-fee",
+      "name": "Marketplace / Payment Gateway Fee Calculator",
+      "category": "Ecommerce",
+      "aliases": [
+        "marketplace fee",
+        "payment gateway fee",
+        "transaction fee",
+        "Marketplace",
+        "Payment Gateway Fee"
+      ],
+      "route": "#/calculator/transaction-fee"
+    },
+    {
+      "id": "customer-lifetime",
+      "name": "Customer Lifetime Value Calculator",
+      "category": "Ecommerce",
+      "aliases": [
+        "customer lifetime value",
+        "Customer Lifetime Value"
+      ],
+      "route": "#/calculator/customer-lifetime"
+    },
+    {
+      "id": "inventory-planning",
+      "name": "Inventory Reorder Point / Safety Stock Calculator",
+      "category": "Ecommerce",
+      "aliases": [
+        "inventory reorder point",
+        "safety stock",
+        "Inventory Reorder Point",
+        "Safety Stock"
+      ],
+      "route": "#/calculator/inventory-planning"
+    },
+    {
+      "id": "retention-churn",
+      "name": "Customer Retention / Churn Rate Calculator",
+      "category": "Marketing",
+      "aliases": [
+        "customer retention rate",
+        "customer churn rate",
+        "Customer Retention",
+        "Churn Rate"
+      ],
+      "route": "#/calculator/retention-churn"
+    },
+    {
+      "id": "cart-abandonment",
+      "name": "Cart Abandonment Rate Calculator",
+      "category": "Marketing",
+      "aliases": [
+        "Cart Abandonment Rate"
+      ],
+      "route": "#/calculator/cart-abandonment"
+    },
+    {
+      "id": "uptime",
+      "name": "Website Uptime / Downtime Calculator",
+      "category": "Digital",
+      "aliases": [
+        "website uptime percentage",
+        "website downtime",
+        "Website Uptime",
+        "Downtime"
+      ],
+      "route": "#/calculator/uptime"
+    },
+    {
+      "id": "website-bandwidth",
+      "name": "Website Bandwidth Usage Calculator",
+      "category": "Digital",
+      "aliases": [
+        "website bandwidth usage",
+        "bandwidth",
+        "Website Bandwidth Usage"
+      ],
+      "route": "#/calculator/website-bandwidth"
+    },
+    {
+      "id": "media-size",
+      "name": "Streaming / Audio / Video Data Usage Calculator",
+      "category": "Digital",
+      "aliases": [
+        "data usage",
+        "streaming data usage",
+        "video file size",
+        "audio file size",
+        "bitrate",
+        "Streaming",
+        "Audio",
+        "Video Data Usage"
+      ],
+      "route": "#/calculator/media-size"
+    },
+    {
+      "id": "image-size",
+      "name": "Image Uncompressed Size Calculator",
+      "category": "Digital",
+      "aliases": [
+        "image uncompressed size",
+        "Image Uncompressed Size"
+      ],
+      "route": "#/calculator/image-size"
+    },
+    {
+      "id": "ppi",
+      "name": "Screen Resolution / PPI Calculator",
+      "category": "Digital",
+      "aliases": [
+        "screen resolution",
+        "Screen Resolution",
+        "PPI"
+      ],
+      "route": "#/calculator/ppi"
+    },
+    {
+      "id": "print-dpi",
+      "name": "Print DPI Calculator",
+      "category": "Digital",
+      "aliases": [
+        "DPI",
+        "Print DPI"
+      ],
+      "route": "#/calculator/print-dpi"
+    },
+    {
+      "id": "raid",
+      "name": "RAID Capacity Calculator",
+      "category": "Computing",
+      "aliases": [
+        "RAID capacity",
+        "RAID Capacity"
+      ],
+      "route": "#/calculator/raid"
+    },
+    {
+      "id": "cpu-time",
+      "name": "CPU Execution Time / Clock Cycles Calculator",
+      "category": "Computing",
+      "aliases": [
+        "clock cycle",
+        "CPU Execution Time",
+        "Clock Cycles"
+      ],
+      "route": "#/calculator/cpu-time"
+    },
+    {
+      "id": "ipv4-subnet",
+      "name": "IPv4 Subnet / CIDR / Address Range Calculator",
+      "category": "Computing",
+      "aliases": [
+        "network subnet",
+        "IPv4 CIDR",
+        "IP address range",
+        "IPv4 Subnet",
+        "CIDR",
+        "Address Range"
+      ],
+      "route": "#/calculator/ipv4-subnet"
+    },
+    {
+      "id": "ac-power",
+      "name": "AC Single / Three Phase Power Calculator",
+      "category": "Electrical",
+      "aliases": [
+        "AC power",
+        "single phase power",
+        "three phase power",
+        "power factor",
+        "apparent power",
+        "reactive power",
+        "AC Single",
+        "Three Phase Power"
+      ],
+      "route": "#/calculator/ac-power"
+    },
+    {
+      "id": "sinusoidal-rms",
+      "name": "RMS Voltage / Current Calculator",
+      "category": "Electrical",
+      "aliases": [
+        "RMS voltage",
+        "RMS current",
+        "RMS Voltage",
+        "Current"
+      ],
+      "route": "#/calculator/sinusoidal-rms"
+    },
+    {
+      "id": "transformer",
+      "name": "Transformer Turns Ratio / Voltage Calculator",
+      "category": "Electrical",
+      "aliases": [
+        "transformer turns ratio",
+        "transformer voltage",
+        "Transformer Turns Ratio",
+        "Voltage"
+      ],
+      "route": "#/calculator/transformer"
+    },
+    {
+      "id": "wire-drop",
+      "name": "Wire Voltage Drop (DC) Calculator",
+      "category": "Electrical",
+      "aliases": [
+        "wire voltage drop",
+        "Wire Voltage Drop (DC)"
+      ],
+      "route": "#/calculator/wire-drop"
+    },
+    {
+      "id": "battery-charging",
+      "name": "Battery / EV Charging Time Calculator",
+      "category": "Electrical",
+      "aliases": [
+        "battery charging time",
+        "charging time",
+        "Battery",
+        "EV Charging Time"
+      ],
+      "route": "#/calculator/battery-charging"
+    },
+    {
+      "id": "solar-output",
+      "name": "Solar Panel Output Calculator",
+      "category": "Electrical",
+      "aliases": [
+        "Solar Panel Output"
+      ],
+      "route": "#/calculator/solar-output"
+    },
+    {
+      "id": "rotational-power",
+      "name": "Torque / RPM / Horsepower Calculator",
+      "category": "Engineering",
+      "aliases": [
+        "horsepower",
+        "torque to horsepower",
+        "horsepower to torque",
+        "RPM",
+        "Torque",
+        "Horsepower"
+      ],
+      "route": "#/calculator/rotational-power"
+    },
+    {
+      "id": "gear-pulley",
+      "name": "Gear / Pulley Ratio and Speed Calculator",
+      "category": "Engineering",
+      "aliases": [
+        "gear ratio",
+        "gear speed",
+        "pulley ratio",
+        "Gear",
+        "Pulley Ratio and Speed"
+      ],
+      "route": "#/calculator/gear-pulley"
+    },
+    {
+      "id": "mechanical-efficiency",
+      "name": "Mechanical Efficiency Calculator",
+      "category": "Engineering",
+      "aliases": [
+        "Mechanical Efficiency"
+      ],
+      "route": "#/calculator/mechanical-efficiency"
+    },
+    {
+      "id": "friction",
+      "name": "Friction Calculator",
+      "category": "Engineering",
+      "aliases": [
+        "Friction"
+      ],
+      "route": "#/calculator/friction"
+    },
+    {
+      "id": "centripetal",
+      "name": "Centripetal / Centrifugal Force Calculator",
+      "category": "Engineering",
+      "aliases": [
+        "centripetal force",
+        "centrifugal force",
+        "Centripetal",
+        "Centrifugal Force"
+      ],
+      "route": "#/calculator/centripetal"
+    },
+    {
+      "id": "angular-motion",
+      "name": "Angular Velocity / Linear Velocity Calculator",
+      "category": "Engineering",
+      "aliases": [
+        "angular velocity",
+        "linear velocity",
+        "Angular Velocity",
+        "Linear Velocity"
+      ],
+      "route": "#/calculator/angular-motion"
+    },
+    {
+      "id": "angular-acceleration",
+      "name": "Angular Acceleration Calculator",
+      "category": "Engineering",
+      "aliases": [
+        "Angular Acceleration"
+      ],
+      "route": "#/calculator/angular-acceleration"
+    },
+    {
+      "id": "flow-rate",
+      "name": "Volumetric / Mass Flow Rate Calculator",
+      "category": "Engineering",
+      "aliases": [
+        "mass flow rate",
+        "volumetric flow rate",
+        "flow rate",
+        "Volumetric",
+        "Mass Flow Rate"
+      ],
+      "route": "#/calculator/flow-rate"
+    },
+    {
+      "id": "hydraulic-cylinder",
+      "name": "Hydraulic Cylinder Force / Pressure Calculator",
+      "category": "Engineering",
+      "aliases": [
+        "hydraulic pressure",
+        "hydraulic force",
+        "hydraulic cylinder force",
+        "Hydraulic Cylinder Force",
+        "Pressure"
+      ],
+      "route": "#/calculator/hydraulic-cylinder"
+    },
+    {
+      "id": "heat-energy",
+      "name": "Heat Energy / Specific Heat Calculator",
+      "category": "Thermodynamics",
+      "aliases": [
+        "heat energy",
+        "specific heat",
+        "Heat Energy",
+        "Specific Heat"
+      ],
+      "route": "#/calculator/heat-energy"
+    },
+    {
+      "id": "heat-conduction",
+      "name": "Heat Transfer (Conduction) Calculator",
+      "category": "Thermodynamics",
+      "aliases": [
+        "heat transfer",
+        "Heat Transfer (Conduction)"
+      ],
+      "route": "#/calculator/heat-conduction"
+    },
+    {
+      "id": "temperature-difference",
+      "name": "Temperature Difference Calculator",
+      "category": "Thermodynamics",
+      "aliases": [
+        "Temperature Difference"
+      ],
+      "route": "#/calculator/temperature-difference"
+    },
+    {
+      "id": "thermal-expansion",
+      "name": "Thermal Expansion Calculator",
+      "category": "Thermodynamics",
+      "aliases": [
+        "Thermal Expansion"
+      ],
+      "route": "#/calculator/thermal-expansion"
+    },
+    {
+      "id": "ideal-gas",
+      "name": "Ideal Gas Law Calculator",
+      "category": "Thermodynamics",
+      "aliases": [
+        "ideal gas chemistry",
+        "pressure volume",
+        "Ideal Gas Law"
+      ],
+      "route": "#/calculator/ideal-gas"
+    },
+    {
+      "id": "combined-gas",
+      "name": "Combined Gas / Boyle’s / Charles’s Law Calculator",
+      "category": "Thermodynamics",
+      "aliases": [
+        "combined gas law",
+        "boyles law",
+        "charles law",
+        "Charles’s law",
+        "Combined Gas",
+        "Boyle’s",
+        "Charles’s Law"
+      ],
+      "route": "#/calculator/combined-gas"
+    },
+    {
+      "id": "molar-mass",
+      "name": "Molar Mass Calculator",
+      "category": "Chemistry",
+      "aliases": [
+        "Molar Mass"
+      ],
+      "route": "#/calculator/molar-mass"
+    },
+    {
+      "id": "moles-mass",
+      "name": "Moles / Mass Conversion Calculator",
+      "category": "Chemistry",
+      "aliases": [
+        "moles",
+        "mole to mass",
+        "mass to mole",
+        "Moles",
+        "Mass Conversion"
+      ],
+      "route": "#/calculator/moles-mass"
+    },
+    {
+      "id": "solution-concentration",
+      "name": "Molarity / Molality Calculator",
+      "category": "Chemistry",
+      "aliases": [
+        "molarity",
+        "molality",
+        "Molarity",
+        "Molality",
+        "solution concentration"
+      ],
+      "route": "#/calculator/solution-concentration"
+    },
+    {
+      "id": "dilution",
+      "name": "Dilution Calculator",
+      "category": "Chemistry",
+      "aliases": [
+        "Dilution"
+      ],
+      "route": "#/calculator/dilution"
+    },
+    {
+      "id": "ph-poh",
+      "name": "pH / pOH / Hydrogen Ion Calculator",
+      "category": "Chemistry",
+      "aliases": [
+        "pH",
+        "pOH",
+        "pH to hydrogen ion",
+        "hydrogen ion to pH",
+        "Hydrogen Ion"
+      ],
+      "route": "#/calculator/ph-poh"
+    },
+    {
+      "id": "rebar",
+      "name": "Rebar Calculator",
+      "category": "Construction",
+      "aliases": [
+        "Rebar"
+      ],
+      "route": "#/calculator/rebar"
+    },
+    {
+      "id": "decking",
+      "name": "Decking Calculator",
+      "category": "Construction",
+      "aliases": [
+        "Decking"
+      ],
+      "route": "#/calculator/decking"
+    },
+    {
+      "id": "board-foot",
+      "name": "Board Foot / Lumber Calculator",
+      "category": "Construction",
+      "aliases": [
+        "lumber",
+        "Board Foot",
+        "Lumber"
+      ],
+      "route": "#/calculator/board-foot"
+    },
+    {
+      "id": "ramp-slope",
+      "name": "Ramp Slope / Roof Pitch Calculator",
+      "category": "Construction",
+      "aliases": [
+        "roof pitch",
+        "Ramp Slope",
+        "Roof Pitch"
+      ],
+      "route": "#/calculator/ramp-slope"
+    },
+    {
+      "id": "gutter",
+      "name": "Gutter / Linear Material Calculator",
+      "category": "Construction",
+      "aliases": [
+        "Gutter",
+        "Linear Material"
+      ],
+      "route": "#/calculator/gutter"
+    },
+    {
+      "id": "pipe-weight",
+      "name": "Pipe Weight Calculator",
+      "category": "Construction",
+      "aliases": [
+        "Pipe Weight"
+      ],
+      "route": "#/calculator/pipe-weight"
+    },
+    {
+      "id": "plot-area",
+      "name": "Plot / Land Polygon Area Calculator",
+      "category": "Land",
+      "aliases": [
+        "plot area",
+        "land area",
+        "Plot",
+        "Land Polygon Area"
+      ],
+      "route": "#/calculator/plot-area"
+    },
+    {
+      "id": "bigha",
+      "name": "Regional Bigha Converter",
+      "category": "Land",
+      "aliases": [
+        "Regional Bigha Converter",
+        "bigha"
+      ],
+      "route": "#/calculator/bigha"
+    },
+    {
+      "id": "vehicle-depreciation",
+      "name": "Vehicle Depreciation Calculator",
+      "category": "Automotive",
+      "aliases": [
+        "Vehicle Depreciation"
+      ],
+      "route": "#/calculator/vehicle-depreciation"
+    },
+    {
+      "id": "ev-range",
+      "name": "EV / Battery Range Calculator",
+      "category": "Automotive",
+      "aliases": [
+        "EV range",
+        "battery range",
+        "EV",
+        "Battery Range"
+      ],
+      "route": "#/calculator/ev-range"
+    },
+    {
+      "id": "ev-cost",
+      "name": "EV Charging Cost Calculator",
+      "category": "Automotive",
+      "aliases": [
+        "EV charging cost",
+        "EV Charging Cost"
+      ],
+      "route": "#/calculator/ev-cost"
+    },
+    {
+      "id": "tire-size",
+      "name": "Tire Size / Diameter / Speedometer Error Calculator",
+      "category": "Automotive",
+      "aliases": [
+        "tire size",
+        "tire diameter",
+        "speedometer error",
+        "Tire Size",
+        "Diameter",
+        "Speedometer Error"
+      ],
+      "route": "#/calculator/tire-size"
+    },
+    {
+      "id": "timesheet",
+      "name": "Timesheet / Work Hours Calculator",
+      "category": "Productivity",
+      "aliases": [
+        "work hours",
+        "shift duration",
+        "break time",
+        "overtime hours",
+        "weekly hours",
+        "monthly work hours",
+        "Timesheet",
+        "Work Hours"
+      ],
+      "route": "#/calculator/timesheet"
+    },
+    {
+      "id": "final-grade",
+      "name": "Final Grade / Required Marks Calculator",
+      "category": "Education",
+      "aliases": [
+        "required marks",
+        "Final Grade",
+        "Required Marks"
+      ],
+      "route": "#/calculator/final-grade"
+    },
+    {
+      "id": "required-attendance",
+      "name": "Required Attendance Calculator",
+      "category": "Education",
+      "aliases": [
+        "Required Attendance"
+      ],
+      "route": "#/calculator/required-attendance"
+    }
+  ],
+  "tools": []
+}

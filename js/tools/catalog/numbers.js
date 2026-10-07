@@ -1,0 +1,2 @@
+import {tool,line,select} from '../shared/definitions.js';
+export default [tool('Developer','numbers','number-to-words','Number to Words — International & Indian','Spell integers or decimal digits using international thousand/million units or Indian lakh/crore units.',[line('input','Number','1234567.89'),select('system','Numbering system',['International','Indian'],'Indian')],['number to words','Indian number to words','lakh crore converter'])];

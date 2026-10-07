@@ -1,0 +1,1990 @@
+[
+  {
+    "section": "Text",
+    "name": "Word Counter",
+    "id": "text-counter",
+    "kind": "Tool",
+    "route": "#/tool/text-counter"
+  },
+  {
+    "section": "Text",
+    "name": "Character Counter",
+    "id": "text-counter",
+    "kind": "Tool",
+    "route": "#/tool/text-counter"
+  },
+  {
+    "section": "Text",
+    "name": "Sentence Counter",
+    "id": "text-counter",
+    "kind": "Tool",
+    "route": "#/tool/text-counter"
+  },
+  {
+    "section": "Text",
+    "name": "Paragraph Counter",
+    "id": "text-counter",
+    "kind": "Tool",
+    "route": "#/tool/text-counter"
+  },
+  {
+    "section": "Text",
+    "name": "Reading Time Calculator",
+    "id": "text-counter",
+    "kind": "Tool",
+    "route": "#/tool/text-counter"
+  },
+  {
+    "section": "Text",
+    "name": "Speaking Time Calculator",
+    "id": "text-counter",
+    "kind": "Tool",
+    "route": "#/tool/text-counter"
+  },
+  {
+    "section": "Text",
+    "name": "Case Converter",
+    "id": "case-converter",
+    "kind": "Tool",
+    "route": "#/tool/case-converter"
+  },
+  {
+    "section": "Text",
+    "name": "UPPERCASE Converter",
+    "id": "case-converter",
+    "kind": "Tool",
+    "route": "#/tool/case-converter"
+  },
+  {
+    "section": "Text",
+    "name": "lowercase Converter",
+    "id": "case-converter",
+    "kind": "Tool",
+    "route": "#/tool/case-converter"
+  },
+  {
+    "section": "Text",
+    "name": "Title Case Converter",
+    "id": "case-converter",
+    "kind": "Tool",
+    "route": "#/tool/case-converter"
+  },
+  {
+    "section": "Text",
+    "name": "Sentence Case Converter",
+    "id": "case-converter",
+    "kind": "Tool",
+    "route": "#/tool/case-converter"
+  },
+  {
+    "section": "Text",
+    "name": "Capitalize Words",
+    "id": "case-converter",
+    "kind": "Tool",
+    "route": "#/tool/case-converter"
+  },
+  {
+    "section": "Text",
+    "name": "Remove Extra Spaces",
+    "id": "line-editor",
+    "kind": "Tool",
+    "route": "#/tool/line-editor"
+  },
+  {
+    "section": "Text",
+    "name": "Remove Line Breaks",
+    "id": "line-editor",
+    "kind": "Tool",
+    "route": "#/tool/line-editor"
+  },
+  {
+    "section": "Text",
+    "name": "Add Line Breaks",
+    "id": "line-editor",
+    "kind": "Tool",
+    "route": "#/tool/line-editor"
+  },
+  {
+    "section": "Text",
+    "name": "Remove Duplicate Lines",
+    "id": "line-editor",
+    "kind": "Tool",
+    "route": "#/tool/line-editor"
+  },
+  {
+    "section": "Text",
+    "name": "Remove Empty Lines",
+    "id": "line-editor",
+    "kind": "Tool",
+    "route": "#/tool/line-editor"
+  },
+  {
+    "section": "Text",
+    "name": "Sort Lines A-Z",
+    "id": "line-editor",
+    "kind": "Tool",
+    "route": "#/tool/line-editor"
+  },
+  {
+    "section": "Text",
+    "name": "Sort Lines Z-A",
+    "id": "line-editor",
+    "kind": "Tool",
+    "route": "#/tool/line-editor"
+  },
+  {
+    "section": "Text",
+    "name": "Reverse Text",
+    "id": "line-editor",
+    "kind": "Tool",
+    "route": "#/tool/line-editor"
+  },
+  {
+    "section": "Text",
+    "name": "Reverse Lines",
+    "id": "line-editor",
+    "kind": "Tool",
+    "route": "#/tool/line-editor"
+  },
+  {
+    "section": "Text",
+    "name": "Text Repeater",
+    "id": "text-repeater",
+    "kind": "Tool",
+    "route": "#/tool/text-repeater"
+  },
+  {
+    "section": "Text",
+    "name": "Text Cleaner",
+    "id": "line-editor",
+    "kind": "Tool",
+    "route": "#/tool/line-editor"
+  },
+  {
+    "section": "Text",
+    "name": "Find and Replace",
+    "id": "find-replace",
+    "kind": "Tool",
+    "route": "#/tool/find-replace"
+  },
+  {
+    "section": "Text",
+    "name": "Prefix Each Line",
+    "id": "line-editor",
+    "kind": "Tool",
+    "route": "#/tool/line-editor"
+  },
+  {
+    "section": "Text",
+    "name": "Suffix Each Line",
+    "id": "line-editor",
+    "kind": "Tool",
+    "route": "#/tool/line-editor"
+  },
+  {
+    "section": "Text",
+    "name": "Line Number Generator",
+    "id": "line-editor",
+    "kind": "Tool",
+    "route": "#/tool/line-editor"
+  },
+  {
+    "section": "Text",
+    "name": "Duplicate Word Finder",
+    "id": "text-frequency",
+    "kind": "Tool",
+    "route": "#/tool/text-frequency"
+  },
+  {
+    "section": "Text",
+    "name": "Word Frequency Counter",
+    "id": "text-frequency",
+    "kind": "Tool",
+    "route": "#/tool/text-frequency"
+  },
+  {
+    "section": "Text",
+    "name": "Character Frequency Counter",
+    "id": "text-frequency",
+    "kind": "Tool",
+    "route": "#/tool/text-frequency"
+  },
+  {
+    "section": "Text",
+    "name": "Text Difference Tool",
+    "id": "text-diff",
+    "kind": "Tool",
+    "route": "#/tool/text-diff"
+  },
+  {
+    "section": "Text",
+    "name": "Lorem Ipsum Generator",
+    "id": "lorem-ipsum",
+    "kind": "Tool",
+    "route": "#/tool/lorem-ipsum"
+  },
+  {
+    "section": "Text",
+    "name": "Random Text Generator",
+    "id": "lorem-ipsum",
+    "kind": "Tool",
+    "route": "#/tool/lorem-ipsum"
+  },
+  {
+    "section": "PDF",
+    "name": "Merge PDF",
+    "id": "pdf-merge",
+    "kind": "Tool",
+    "route": "#/tool/pdf-merge"
+  },
+  {
+    "section": "PDF",
+    "name": "Split PDF",
+    "id": "pdf-organizer",
+    "kind": "Tool",
+    "route": "#/tool/pdf-organizer"
+  },
+  {
+    "section": "PDF",
+    "name": "Extract PDF Pages",
+    "id": "pdf-organizer",
+    "kind": "Tool",
+    "route": "#/tool/pdf-organizer"
+  },
+  {
+    "section": "PDF",
+    "name": "Delete PDF Pages",
+    "id": "pdf-organizer",
+    "kind": "Tool",
+    "route": "#/tool/pdf-organizer"
+  },
+  {
+    "section": "PDF",
+    "name": "Reorder PDF Pages",
+    "id": "pdf-organizer",
+    "kind": "Tool",
+    "route": "#/tool/pdf-organizer"
+  },
+  {
+    "section": "PDF",
+    "name": "Rotate PDF Pages",
+    "id": "pdf-organizer",
+    "kind": "Tool",
+    "route": "#/tool/pdf-organizer"
+  },
+  {
+    "section": "PDF",
+    "name": "Images to PDF",
+    "id": "images-to-pdf",
+    "kind": "Tool",
+    "route": "#/tool/images-to-pdf"
+  },
+  {
+    "section": "PDF",
+    "name": "JPG to PDF",
+    "id": "images-to-pdf",
+    "kind": "Tool",
+    "route": "#/tool/images-to-pdf"
+  },
+  {
+    "section": "PDF",
+    "name": "PNG to PDF",
+    "id": "images-to-pdf",
+    "kind": "Tool",
+    "route": "#/tool/images-to-pdf"
+  },
+  {
+    "section": "PDF",
+    "name": "PDF Page Organizer",
+    "id": "pdf-organizer",
+    "kind": "Tool",
+    "route": "#/tool/pdf-organizer"
+  },
+  {
+    "section": "PDF",
+    "name": "PDF Metadata Viewer",
+    "id": "pdf-info",
+    "kind": "Tool",
+    "route": "#/tool/pdf-info"
+  },
+  {
+    "section": "PDF",
+    "name": "PDF Page Count",
+    "id": "pdf-info",
+    "kind": "Tool",
+    "route": "#/tool/pdf-info"
+  },
+  {
+    "section": "PDF",
+    "name": "Add Page Numbers to PDF",
+    "id": "pdf-overlay",
+    "kind": "Tool",
+    "route": "#/tool/pdf-overlay"
+  },
+  {
+    "section": "PDF",
+    "name": "Add Text Watermark to PDF",
+    "id": "pdf-overlay",
+    "kind": "Tool",
+    "route": "#/tool/pdf-overlay"
+  },
+  {
+    "section": "PDF",
+    "name": "Add Image Watermark to PDF",
+    "id": "pdf-image-watermark",
+    "kind": "Tool",
+    "route": "#/tool/pdf-image-watermark"
+  },
+  {
+    "section": "PDF",
+    "name": "Protect PDF with Password IF reliably supported by the chosen library",
+    "kind": "Skipped",
+    "route": null,
+    "reason": "Password protection is not reliably supported by pdf-lib; it is omitted."
+  },
+  {
+    "section": "PDF",
+    "name": "PDF to Images IF reliably supported client-side",
+    "id": "pdf-to-images",
+    "kind": "Tool",
+    "route": "#/tool/pdf-to-images"
+  },
+  {
+    "section": "Image",
+    "name": "Image Compressor",
+    "id": "image-compressor",
+    "kind": "Tool",
+    "route": "#/tool/image-compressor"
+  },
+  {
+    "section": "Image",
+    "name": "Image Resizer",
+    "id": "image-resizer",
+    "kind": "Tool",
+    "route": "#/tool/image-resizer"
+  },
+  {
+    "section": "Image",
+    "name": "Image Cropper",
+    "id": "image-editor",
+    "kind": "Tool",
+    "route": "#/tool/image-editor"
+  },
+  {
+    "section": "Image",
+    "name": "Image Rotator",
+    "id": "image-editor",
+    "kind": "Tool",
+    "route": "#/tool/image-editor"
+  },
+  {
+    "section": "Image",
+    "name": "Image Flipper",
+    "id": "image-editor",
+    "kind": "Tool",
+    "route": "#/tool/image-editor"
+  },
+  {
+    "section": "Image",
+    "name": "Image Converter",
+    "id": "image-compressor",
+    "kind": "Tool",
+    "route": "#/tool/image-compressor"
+  },
+  {
+    "section": "Image",
+    "name": "JPG to PNG",
+    "id": "image-compressor",
+    "kind": "Tool",
+    "route": "#/tool/image-compressor"
+  },
+  {
+    "section": "Image",
+    "name": "PNG to JPG",
+    "id": "image-compressor",
+    "kind": "Tool",
+    "route": "#/tool/image-compressor"
+  },
+  {
+    "section": "Image",
+    "name": "JPG to WebP",
+    "id": "image-compressor",
+    "kind": "Tool",
+    "route": "#/tool/image-compressor"
+  },
+  {
+    "section": "Image",
+    "name": "PNG to WebP",
+    "id": "image-compressor",
+    "kind": "Tool",
+    "route": "#/tool/image-compressor"
+  },
+  {
+    "section": "Image",
+    "name": "WebP to JPG",
+    "id": "image-compressor",
+    "kind": "Tool",
+    "route": "#/tool/image-compressor"
+  },
+  {
+    "section": "Image",
+    "name": "WebP to PNG",
+    "id": "image-compressor",
+    "kind": "Tool",
+    "route": "#/tool/image-compressor"
+  },
+  {
+    "section": "Image",
+    "name": "Image to Base64",
+    "id": "image-base64",
+    "kind": "Tool",
+    "route": "#/tool/image-base64"
+  },
+  {
+    "section": "Image",
+    "name": "Base64 to Image",
+    "id": "base64-image",
+    "kind": "Tool",
+    "route": "#/tool/base64-image"
+  },
+  {
+    "section": "Image",
+    "name": "Image Metadata Viewer",
+    "id": "image-info",
+    "kind": "Tool",
+    "route": "#/tool/image-info"
+  },
+  {
+    "section": "Image",
+    "name": "Image Dimensions Checker",
+    "id": "image-info",
+    "kind": "Tool",
+    "route": "#/tool/image-info"
+  },
+  {
+    "section": "Image",
+    "name": "Image File Size Checker",
+    "id": "image-info",
+    "kind": "Tool",
+    "route": "#/tool/image-info"
+  },
+  {
+    "section": "Image",
+    "name": "Aspect Ratio Tool",
+    "id": "image-resizer",
+    "kind": "Tool",
+    "route": "#/tool/image-resizer"
+  },
+  {
+    "section": "Image",
+    "name": "Add Text to Image",
+    "id": "image-filters",
+    "kind": "Tool",
+    "route": "#/tool/image-filters"
+  },
+  {
+    "section": "Image",
+    "name": "Add Watermark to Image",
+    "id": "image-filters",
+    "kind": "Tool",
+    "route": "#/tool/image-filters"
+  },
+  {
+    "section": "Image",
+    "name": "Grayscale Image",
+    "id": "image-filters",
+    "kind": "Tool",
+    "route": "#/tool/image-filters"
+  },
+  {
+    "section": "Image",
+    "name": "Brightness Adjuster",
+    "id": "image-filters",
+    "kind": "Tool",
+    "route": "#/tool/image-filters"
+  },
+  {
+    "section": "Image",
+    "name": "Contrast Adjuster",
+    "id": "image-filters",
+    "kind": "Tool",
+    "route": "#/tool/image-filters"
+  },
+  {
+    "section": "Image",
+    "name": "Saturation Adjuster",
+    "id": "image-filters",
+    "kind": "Tool",
+    "route": "#/tool/image-filters"
+  },
+  {
+    "section": "Image",
+    "name": "Blur Image",
+    "id": "image-filters",
+    "kind": "Tool",
+    "route": "#/tool/image-filters"
+  },
+  {
+    "section": "Image",
+    "name": "Sharpen Image where reliably possible",
+    "id": "image-filters",
+    "kind": "Tool",
+    "route": "#/tool/image-filters"
+  },
+  {
+    "section": "Image",
+    "name": "Image Quality Adjuster",
+    "id": "image-compressor",
+    "kind": "Tool",
+    "route": "#/tool/image-compressor"
+  },
+  {
+    "section": "Image",
+    "name": "Batch Image Resizer",
+    "id": "image-resizer",
+    "kind": "Tool",
+    "route": "#/tool/image-resizer"
+  },
+  {
+    "section": "Image",
+    "name": "Batch Image Converter",
+    "id": "image-compressor",
+    "kind": "Tool",
+    "route": "#/tool/image-compressor"
+  },
+  {
+    "section": "Image",
+    "name": "Batch Image Compressor",
+    "id": "image-compressor",
+    "kind": "Tool",
+    "route": "#/tool/image-compressor"
+  },
+  {
+    "section": "QR",
+    "name": "QR Code Generator",
+    "id": "qr-generator",
+    "kind": "Tool",
+    "route": "#/tool/qr-generator"
+  },
+  {
+    "section": "QR",
+    "name": "URL QR Code",
+    "id": "qr-generator",
+    "kind": "Tool",
+    "route": "#/tool/qr-generator"
+  },
+  {
+    "section": "QR",
+    "name": "Text QR Code",
+    "id": "qr-generator",
+    "kind": "Tool",
+    "route": "#/tool/qr-generator"
+  },
+  {
+    "section": "QR",
+    "name": "Wi-Fi QR Code",
+    "id": "qr-generator",
+    "kind": "Tool",
+    "route": "#/tool/qr-generator"
+  },
+  {
+    "section": "QR",
+    "name": "Email QR Code",
+    "id": "qr-generator",
+    "kind": "Tool",
+    "route": "#/tool/qr-generator"
+  },
+  {
+    "section": "QR",
+    "name": "Phone QR Code",
+    "id": "qr-generator",
+    "kind": "Tool",
+    "route": "#/tool/qr-generator"
+  },
+  {
+    "section": "QR",
+    "name": "SMS QR Code",
+    "id": "qr-generator",
+    "kind": "Tool",
+    "route": "#/tool/qr-generator"
+  },
+  {
+    "section": "QR",
+    "name": "WhatsApp Link QR Code",
+    "id": "qr-generator",
+    "kind": "Tool",
+    "route": "#/tool/qr-generator"
+  },
+  {
+    "section": "QR",
+    "name": "Location QR Code",
+    "id": "qr-generator",
+    "kind": "Tool",
+    "route": "#/tool/qr-generator"
+  },
+  {
+    "section": "QR",
+    "name": "Contact/vCard QR Code",
+    "id": "qr-generator",
+    "kind": "Tool",
+    "route": "#/tool/qr-generator"
+  },
+  {
+    "section": "Barcode",
+    "name": "Barcode Generator",
+    "id": "barcode-generator",
+    "kind": "Tool",
+    "route": "#/tool/barcode-generator"
+  },
+  {
+    "section": "Barcode",
+    "name": "Code 128 Generator",
+    "id": "barcode-generator",
+    "kind": "Tool",
+    "route": "#/tool/barcode-generator"
+  },
+  {
+    "section": "Barcode",
+    "name": "EAN-13 Generator",
+    "id": "barcode-generator",
+    "kind": "Tool",
+    "route": "#/tool/barcode-generator"
+  },
+  {
+    "section": "Barcode",
+    "name": "EAN-8 Generator",
+    "id": "barcode-generator",
+    "kind": "Tool",
+    "route": "#/tool/barcode-generator"
+  },
+  {
+    "section": "Barcode",
+    "name": "UPC-A Generator",
+    "id": "barcode-generator",
+    "kind": "Tool",
+    "route": "#/tool/barcode-generator"
+  },
+  {
+    "section": "Barcode",
+    "name": "CODE39 Generator",
+    "id": "barcode-generator",
+    "kind": "Tool",
+    "route": "#/tool/barcode-generator"
+  },
+  {
+    "section": "Security",
+    "name": "Password Generator",
+    "id": "secure-generator",
+    "kind": "Tool",
+    "route": "#/tool/secure-generator"
+  },
+  {
+    "section": "Security",
+    "name": "Passphrase Generator",
+    "id": "passphrase-generator",
+    "kind": "Tool",
+    "route": "#/tool/passphrase-generator"
+  },
+  {
+    "section": "Security",
+    "name": "Password Strength Checker",
+    "id": "password-strength",
+    "kind": "Tool",
+    "route": "#/tool/password-strength"
+  },
+  {
+    "section": "Security",
+    "name": "Random PIN Generator",
+    "id": "secure-generator",
+    "kind": "Tool",
+    "route": "#/tool/secure-generator"
+  },
+  {
+    "section": "Security",
+    "name": "UUID Generator",
+    "id": "secure-generator",
+    "kind": "Tool",
+    "route": "#/tool/secure-generator"
+  },
+  {
+    "section": "Security",
+    "name": "GUID Generator",
+    "id": "secure-generator",
+    "kind": "Tool",
+    "route": "#/tool/secure-generator"
+  },
+  {
+    "section": "Security",
+    "name": "Random Token Generator",
+    "id": "secure-generator",
+    "kind": "Tool",
+    "route": "#/tool/secure-generator"
+  },
+  {
+    "section": "Security",
+    "name": "Secure Random String Generator",
+    "id": "secure-generator",
+    "kind": "Tool",
+    "route": "#/tool/secure-generator"
+  },
+  {
+    "section": "Security",
+    "name": "SHA-256 Hash Generator",
+    "id": "hash-tools",
+    "kind": "Tool",
+    "route": "#/tool/hash-tools"
+  },
+  {
+    "section": "Security",
+    "name": "SHA-384 Hash Generator",
+    "id": "hash-tools",
+    "kind": "Tool",
+    "route": "#/tool/hash-tools"
+  },
+  {
+    "section": "Security",
+    "name": "SHA-512 Hash Generator",
+    "id": "hash-tools",
+    "kind": "Tool",
+    "route": "#/tool/hash-tools"
+  },
+  {
+    "section": "Security",
+    "name": "HMAC Generator",
+    "id": "hash-tools",
+    "kind": "Tool",
+    "route": "#/tool/hash-tools"
+  },
+  {
+    "section": "Security",
+    "name": "File Hash Calculator",
+    "id": "file-hash",
+    "kind": "Tool",
+    "route": "#/tool/file-hash"
+  },
+  {
+    "section": "Developer",
+    "name": "JSON Formatter",
+    "id": "json-tools",
+    "kind": "Tool",
+    "route": "#/tool/json-tools"
+  },
+  {
+    "section": "Developer",
+    "name": "JSON Validator",
+    "id": "json-tools",
+    "kind": "Tool",
+    "route": "#/tool/json-tools"
+  },
+  {
+    "section": "Developer",
+    "name": "JSON Minifier",
+    "id": "json-tools",
+    "kind": "Tool",
+    "route": "#/tool/json-tools"
+  },
+  {
+    "section": "Developer",
+    "name": "JSON Viewer",
+    "id": "json-tools",
+    "kind": "Tool",
+    "route": "#/tool/json-tools"
+  },
+  {
+    "section": "Developer",
+    "name": "JSON Escape/Unescape",
+    "id": "json-tools",
+    "kind": "Tool",
+    "route": "#/tool/json-tools"
+  },
+  {
+    "section": "Developer",
+    "name": "XML Formatter",
+    "id": "xml-tools",
+    "kind": "Tool",
+    "route": "#/tool/xml-tools"
+  },
+  {
+    "section": "Developer",
+    "name": "XML Validator where practical",
+    "id": "xml-tools",
+    "kind": "Tool",
+    "route": "#/tool/xml-tools"
+  },
+  {
+    "section": "Developer",
+    "name": "XML Minifier",
+    "id": "xml-tools",
+    "kind": "Tool",
+    "route": "#/tool/xml-tools"
+  },
+  {
+    "section": "Developer",
+    "name": "HTML Formatter",
+    "id": "code-formatter",
+    "kind": "Tool",
+    "route": "#/tool/code-formatter"
+  },
+  {
+    "section": "Developer",
+    "name": "HTML Minifier",
+    "id": "code-formatter",
+    "kind": "Tool",
+    "route": "#/tool/code-formatter"
+  },
+  {
+    "section": "Developer",
+    "name": "CSS Formatter",
+    "id": "code-formatter",
+    "kind": "Tool",
+    "route": "#/tool/code-formatter"
+  },
+  {
+    "section": "Developer",
+    "name": "CSS Minifier",
+    "id": "code-formatter",
+    "kind": "Tool",
+    "route": "#/tool/code-formatter"
+  },
+  {
+    "section": "Developer",
+    "name": "JavaScript Formatter",
+    "id": "code-formatter",
+    "kind": "Tool",
+    "route": "#/tool/code-formatter"
+  },
+  {
+    "section": "Developer",
+    "name": "JavaScript Minifier",
+    "id": "code-formatter",
+    "kind": "Tool",
+    "route": "#/tool/code-formatter"
+  },
+  {
+    "section": "Developer",
+    "name": "SQL Formatter",
+    "id": "sql-formatter",
+    "kind": "Tool",
+    "route": "#/tool/sql-formatter"
+  },
+  {
+    "section": "Developer",
+    "name": "Markdown Preview",
+    "id": "markdown-tools",
+    "kind": "Tool",
+    "route": "#/tool/markdown-tools"
+  },
+  {
+    "section": "Developer",
+    "name": "Markdown to HTML",
+    "id": "markdown-tools",
+    "kind": "Tool",
+    "route": "#/tool/markdown-tools"
+  },
+  {
+    "section": "Developer",
+    "name": "HTML to Markdown where practical",
+    "id": "markdown-tools",
+    "kind": "Tool",
+    "route": "#/tool/markdown-tools"
+  },
+  {
+    "section": "Developer",
+    "name": "Base64 Encode",
+    "id": "encoding-tools",
+    "kind": "Tool",
+    "route": "#/tool/encoding-tools"
+  },
+  {
+    "section": "Developer",
+    "name": "Base64 Decode",
+    "id": "encoding-tools",
+    "kind": "Tool",
+    "route": "#/tool/encoding-tools"
+  },
+  {
+    "section": "Developer",
+    "name": "URL Encode",
+    "id": "encoding-tools",
+    "kind": "Tool",
+    "route": "#/tool/encoding-tools"
+  },
+  {
+    "section": "Developer",
+    "name": "URL Decode",
+    "id": "encoding-tools",
+    "kind": "Tool",
+    "route": "#/tool/encoding-tools"
+  },
+  {
+    "section": "Developer",
+    "name": "HTML Encode",
+    "id": "encoding-tools",
+    "kind": "Tool",
+    "route": "#/tool/encoding-tools"
+  },
+  {
+    "section": "Developer",
+    "name": "HTML Decode",
+    "id": "encoding-tools",
+    "kind": "Tool",
+    "route": "#/tool/encoding-tools"
+  },
+  {
+    "section": "Developer",
+    "name": "Unicode Converter",
+    "id": "encoding-tools",
+    "kind": "Tool",
+    "route": "#/tool/encoding-tools"
+  },
+  {
+    "section": "Developer",
+    "name": "ASCII Converter",
+    "id": "encoding-tools",
+    "kind": "Tool",
+    "route": "#/tool/encoding-tools"
+  },
+  {
+    "section": "Developer",
+    "name": "Hex Text Converter",
+    "id": "encoding-tools",
+    "kind": "Tool",
+    "route": "#/tool/encoding-tools"
+  },
+  {
+    "section": "Developer",
+    "name": "Binary Text Converter",
+    "id": "encoding-tools",
+    "kind": "Tool",
+    "route": "#/tool/encoding-tools"
+  },
+  {
+    "section": "Developer",
+    "name": "String Escape/Unescape",
+    "id": "encoding-tools",
+    "kind": "Tool",
+    "route": "#/tool/encoding-tools"
+  },
+  {
+    "section": "Developer",
+    "name": "JWT Decoder",
+    "id": "jwt-decoder",
+    "kind": "Tool",
+    "route": "#/tool/jwt-decoder"
+  },
+  {
+    "section": "Developer",
+    "name": "Unix Timestamp Converter",
+    "id": "timestamp-tools",
+    "kind": "Tool",
+    "route": "#/tool/timestamp-tools"
+  },
+  {
+    "section": "Developer",
+    "name": "Epoch Converter",
+    "id": "timestamp-tools",
+    "kind": "Tool",
+    "route": "#/tool/timestamp-tools"
+  },
+  {
+    "section": "Developer",
+    "name": "ISO Date Converter",
+    "id": "timestamp-tools",
+    "kind": "Tool",
+    "route": "#/tool/timestamp-tools"
+  },
+  {
+    "section": "Developer",
+    "name": "UUID Generator",
+    "id": "secure-generator",
+    "kind": "Tool",
+    "route": "#/tool/secure-generator"
+  },
+  {
+    "section": "Developer",
+    "name": "Regex Tester",
+    "id": "regex-tester",
+    "kind": "Tool",
+    "route": "#/tool/regex-tester"
+  },
+  {
+    "section": "Developer",
+    "name": "Regex Replace Tester",
+    "id": "regex-tester",
+    "kind": "Tool",
+    "route": "#/tool/regex-tester"
+  },
+  {
+    "section": "Developer",
+    "name": "Cron Expression Explainer for standard supported syntax",
+    "id": "cron-reader",
+    "kind": "Tool",
+    "route": "#/tool/cron-reader"
+  },
+  {
+    "section": "Developer",
+    "name": "Color Converter",
+    "id": "color-tools",
+    "kind": "Tool",
+    "route": "#/tool/color-tools"
+  },
+  {
+    "section": "Developer",
+    "name": "HEX to RGB",
+    "id": "color-tools",
+    "kind": "Tool",
+    "route": "#/tool/color-tools"
+  },
+  {
+    "section": "Developer",
+    "name": "RGB to HEX",
+    "id": "color-tools",
+    "kind": "Tool",
+    "route": "#/tool/color-tools"
+  },
+  {
+    "section": "Developer",
+    "name": "HEX to HSL",
+    "id": "color-tools",
+    "kind": "Tool",
+    "route": "#/tool/color-tools"
+  },
+  {
+    "section": "Developer",
+    "name": "HSL to HEX",
+    "id": "color-tools",
+    "kind": "Tool",
+    "route": "#/tool/color-tools"
+  },
+  {
+    "section": "SEO",
+    "name": "Meta Tag Generator",
+    "id": "meta-tags",
+    "kind": "Tool",
+    "route": "#/tool/meta-tags"
+  },
+  {
+    "section": "SEO",
+    "name": "Title Length Checker",
+    "id": "text-counter",
+    "kind": "Tool",
+    "route": "#/tool/text-counter"
+  },
+  {
+    "section": "SEO",
+    "name": "Meta Description Length Checker",
+    "id": "text-counter",
+    "kind": "Tool",
+    "route": "#/tool/text-counter"
+  },
+  {
+    "section": "SEO",
+    "name": "SERP Snippet Preview",
+    "id": "meta-tags",
+    "kind": "Tool",
+    "route": "#/tool/meta-tags"
+  },
+  {
+    "section": "SEO",
+    "name": "Slug Generator",
+    "id": "slug-generator",
+    "kind": "Tool",
+    "route": "#/tool/slug-generator"
+  },
+  {
+    "section": "SEO",
+    "name": "Keyword Density Checker",
+    "id": "text-frequency",
+    "kind": "Tool",
+    "route": "#/tool/text-frequency"
+  },
+  {
+    "section": "SEO",
+    "name": "Keyword Frequency Counter",
+    "id": "text-frequency",
+    "kind": "Tool",
+    "route": "#/tool/text-frequency"
+  },
+  {
+    "section": "SEO",
+    "name": "Robots.txt Generator",
+    "id": "robots-generator",
+    "kind": "Tool",
+    "route": "#/tool/robots-generator"
+  },
+  {
+    "section": "SEO",
+    "name": "XML Sitemap Generator",
+    "id": "sitemap-generator",
+    "kind": "Tool",
+    "route": "#/tool/sitemap-generator"
+  },
+  {
+    "section": "SEO",
+    "name": "Open Graph Generator",
+    "id": "meta-tags",
+    "kind": "Tool",
+    "route": "#/tool/meta-tags"
+  },
+  {
+    "section": "SEO",
+    "name": "Twitter/X Card Meta Generator",
+    "id": "meta-tags",
+    "kind": "Tool",
+    "route": "#/tool/meta-tags"
+  },
+  {
+    "section": "SEO",
+    "name": "Canonical Tag Generator",
+    "id": "meta-tags",
+    "kind": "Tool",
+    "route": "#/tool/meta-tags"
+  },
+  {
+    "section": "SEO",
+    "name": "Hreflang Tag Generator",
+    "id": "hreflang-generator",
+    "kind": "Tool",
+    "route": "#/tool/hreflang-generator"
+  },
+  {
+    "section": "SEO",
+    "name": "Schema Markup Generator",
+    "id": "schema-generator",
+    "kind": "Tool",
+    "route": "#/tool/schema-generator"
+  },
+  {
+    "section": "SEO",
+    "name": "FAQ Schema Generator",
+    "id": "schema-generator",
+    "kind": "Tool",
+    "route": "#/tool/schema-generator"
+  },
+  {
+    "section": "SEO",
+    "name": "Breadcrumb Schema Generator",
+    "id": "schema-generator",
+    "kind": "Tool",
+    "route": "#/tool/schema-generator"
+  },
+  {
+    "section": "SEO",
+    "name": "Organization Schema Generator",
+    "id": "schema-generator",
+    "kind": "Tool",
+    "route": "#/tool/schema-generator"
+  },
+  {
+    "section": "SEO",
+    "name": "Local Business Schema Generator",
+    "id": "schema-generator",
+    "kind": "Tool",
+    "route": "#/tool/schema-generator"
+  },
+  {
+    "section": "SEO",
+    "name": "Article Schema Generator",
+    "id": "schema-generator",
+    "kind": "Tool",
+    "route": "#/tool/schema-generator"
+  },
+  {
+    "section": "SEO",
+    "name": "Product Schema Generator",
+    "id": "schema-generator",
+    "kind": "Tool",
+    "route": "#/tool/schema-generator"
+  },
+  {
+    "section": "Design",
+    "name": "Color Picker",
+    "id": "color-tools",
+    "kind": "Tool",
+    "route": "#/tool/color-tools"
+  },
+  {
+    "section": "Design",
+    "name": "HEX Color Picker",
+    "id": "color-tools",
+    "kind": "Tool",
+    "route": "#/tool/color-tools"
+  },
+  {
+    "section": "Design",
+    "name": "RGB Color Picker",
+    "id": "color-tools",
+    "kind": "Tool",
+    "route": "#/tool/color-tools"
+  },
+  {
+    "section": "Design",
+    "name": "HSL Color Picker",
+    "id": "color-tools",
+    "kind": "Tool",
+    "route": "#/tool/color-tools"
+  },
+  {
+    "section": "Design",
+    "name": "Color Converter",
+    "id": "color-tools",
+    "kind": "Tool",
+    "route": "#/tool/color-tools"
+  },
+  {
+    "section": "Design",
+    "name": "Random Color Generator",
+    "id": "color-palette",
+    "kind": "Tool",
+    "route": "#/tool/color-palette"
+  },
+  {
+    "section": "Design",
+    "name": "Color Palette Generator",
+    "id": "color-palette",
+    "kind": "Tool",
+    "route": "#/tool/color-palette"
+  },
+  {
+    "section": "Design",
+    "name": "Gradient Generator",
+    "id": "gradient-generator",
+    "kind": "Tool",
+    "route": "#/tool/gradient-generator"
+  },
+  {
+    "section": "Design",
+    "name": "CSS Gradient Generator",
+    "id": "gradient-generator",
+    "kind": "Tool",
+    "route": "#/tool/gradient-generator"
+  },
+  {
+    "section": "Design",
+    "name": "Complementary Color Generator",
+    "id": "color-palette",
+    "kind": "Tool",
+    "route": "#/tool/color-palette"
+  },
+  {
+    "section": "Design",
+    "name": "Shades Generator",
+    "id": "color-palette",
+    "kind": "Tool",
+    "route": "#/tool/color-palette"
+  },
+  {
+    "section": "Design",
+    "name": "Tints Generator",
+    "id": "color-palette",
+    "kind": "Tool",
+    "route": "#/tool/color-palette"
+  },
+  {
+    "section": "Design",
+    "name": "Color Contrast Checker",
+    "id": "contrast-checker",
+    "kind": "Tool",
+    "route": "#/tool/contrast-checker"
+  },
+  {
+    "section": "Design",
+    "name": "WCAG Contrast Checker",
+    "id": "contrast-checker",
+    "kind": "Tool",
+    "route": "#/tool/contrast-checker"
+  },
+  {
+    "section": "Design",
+    "name": "CSS Box Shadow Generator",
+    "id": "css-design",
+    "kind": "Tool",
+    "route": "#/tool/css-design"
+  },
+  {
+    "section": "Design",
+    "name": "Border Radius Generator",
+    "id": "css-design",
+    "kind": "Tool",
+    "route": "#/tool/css-design"
+  },
+  {
+    "section": "Design",
+    "name": "CSS Text Shadow Generator",
+    "id": "css-design",
+    "kind": "Tool",
+    "route": "#/tool/css-design"
+  },
+  {
+    "section": "Design",
+    "name": "CSS Button Generator",
+    "id": "css-design",
+    "kind": "Tool",
+    "route": "#/tool/css-design"
+  },
+  {
+    "section": "Generators",
+    "name": "Random Number Generator",
+    "id": "random-number",
+    "kind": "Calculator",
+    "route": "#/calculator/random-number"
+  },
+  {
+    "section": "Generators",
+    "name": "Random Name Picker",
+    "id": "random-picker",
+    "kind": "Tool",
+    "route": "#/tool/random-picker"
+  },
+  {
+    "section": "Generators",
+    "name": "Random List Picker",
+    "id": "random-picker",
+    "kind": "Tool",
+    "route": "#/tool/random-picker"
+  },
+  {
+    "section": "Generators",
+    "name": "Random Team Generator",
+    "id": "random-picker",
+    "kind": "Tool",
+    "route": "#/tool/random-picker"
+  },
+  {
+    "section": "Generators",
+    "name": "Random Group Generator",
+    "id": "random-picker",
+    "kind": "Tool",
+    "route": "#/tool/random-picker"
+  },
+  {
+    "section": "Generators",
+    "name": "Coin Flip",
+    "id": "coin-dice",
+    "kind": "Tool",
+    "route": "#/tool/coin-dice"
+  },
+  {
+    "section": "Generators",
+    "name": "Dice Roller",
+    "id": "coin-dice",
+    "kind": "Tool",
+    "route": "#/tool/coin-dice"
+  },
+  {
+    "section": "Generators",
+    "name": "Yes/No Generator",
+    "id": "coin-dice",
+    "kind": "Tool",
+    "route": "#/tool/coin-dice"
+  },
+  {
+    "section": "Generators",
+    "name": "Random Date Generator",
+    "id": "random-date",
+    "kind": "Tool",
+    "route": "#/tool/random-date"
+  },
+  {
+    "section": "Generators",
+    "name": "Random Color Generator",
+    "id": "color-palette",
+    "kind": "Tool",
+    "route": "#/tool/color-palette"
+  },
+  {
+    "section": "Generators",
+    "name": "UUID Generator",
+    "id": "secure-generator",
+    "kind": "Tool",
+    "route": "#/tool/secure-generator"
+  },
+  {
+    "section": "Generators",
+    "name": "Password Generator",
+    "id": "secure-generator",
+    "kind": "Tool",
+    "route": "#/tool/secure-generator"
+  },
+  {
+    "section": "Generators",
+    "name": "Username Generator",
+    "id": "username-generator",
+    "kind": "Tool",
+    "route": "#/tool/username-generator"
+  },
+  {
+    "section": "Generators",
+    "name": "Slug Generator",
+    "id": "slug-generator",
+    "kind": "Tool",
+    "route": "#/tool/slug-generator"
+  },
+  {
+    "section": "Generators",
+    "name": "Fake placeholder data generator for software testing",
+    "id": "username-generator",
+    "kind": "Tool",
+    "route": "#/tool/username-generator"
+  },
+  {
+    "section": "Time",
+    "name": "Stopwatch",
+    "id": "browser-timer",
+    "kind": "Tool",
+    "route": "#/tool/browser-timer"
+  },
+  {
+    "section": "Time",
+    "name": "Countdown Timer",
+    "id": "browser-timer",
+    "kind": "Tool",
+    "route": "#/tool/browser-timer"
+  },
+  {
+    "section": "Time",
+    "name": "Online Timer",
+    "id": "browser-timer",
+    "kind": "Tool",
+    "route": "#/tool/browser-timer"
+  },
+  {
+    "section": "Time",
+    "name": "Pomodoro Timer",
+    "id": "browser-timer",
+    "kind": "Tool",
+    "route": "#/tool/browser-timer"
+  },
+  {
+    "section": "Time",
+    "name": "Alarm Timer where browser limitations permit",
+    "id": "browser-timer",
+    "kind": "Tool",
+    "route": "#/tool/browser-timer"
+  },
+  {
+    "section": "Time",
+    "name": "Current Timestamp",
+    "id": "date-time-format",
+    "kind": "Tool",
+    "route": "#/tool/date-time-format"
+  },
+  {
+    "section": "Time",
+    "name": "Unix Timestamp Generator",
+    "id": "date-time-format",
+    "kind": "Tool",
+    "route": "#/tool/date-time-format"
+  },
+  {
+    "section": "Time",
+    "name": "Unix Timestamp Converter",
+    "id": "timestamp-tools",
+    "kind": "Tool",
+    "route": "#/tool/timestamp-tools"
+  },
+  {
+    "section": "Time",
+    "name": "Date Formatter",
+    "id": "date-time-format",
+    "kind": "Tool",
+    "route": "#/tool/date-time-format"
+  },
+  {
+    "section": "Time",
+    "name": "Time Formatter",
+    "id": "date-time-format",
+    "kind": "Tool",
+    "route": "#/tool/date-time-format"
+  },
+  {
+    "section": "Time",
+    "name": "Time Zone Converter using browser-supported IANA time zones",
+    "id": "date-time-format",
+    "kind": "Tool",
+    "route": "#/tool/date-time-format"
+  },
+  {
+    "section": "Time",
+    "name": "World Time Comparison",
+    "id": "date-time-format",
+    "kind": "Tool",
+    "route": "#/tool/date-time-format"
+  },
+  {
+    "section": "Time",
+    "name": "Add/Subtract Time",
+    "id": "time-arithmetic",
+    "kind": "Calculator",
+    "route": "#/calculator/time-arithmetic"
+  },
+  {
+    "section": "Time",
+    "name": "Add/Subtract Dates",
+    "id": "add-days",
+    "kind": "Calculator",
+    "route": "#/calculator/add-days"
+  },
+  {
+    "section": "Files",
+    "name": "File Size Checker",
+    "id": "file-viewer",
+    "kind": "Tool",
+    "route": "#/tool/file-viewer"
+  },
+  {
+    "section": "Files",
+    "name": "File Hash Generator",
+    "id": "file-hash",
+    "kind": "Tool",
+    "route": "#/tool/file-hash"
+  },
+  {
+    "section": "Files",
+    "name": "File Name Cleaner",
+    "id": "filename-cleaner",
+    "kind": "Tool",
+    "route": "#/tool/filename-cleaner"
+  },
+  {
+    "section": "Files",
+    "name": "File Extension Checker",
+    "id": "file-viewer",
+    "kind": "Tool",
+    "route": "#/tool/file-viewer"
+  },
+  {
+    "section": "Files",
+    "name": "MIME Type Viewer",
+    "id": "file-viewer",
+    "kind": "Tool",
+    "route": "#/tool/file-viewer"
+  },
+  {
+    "section": "Files",
+    "name": "File to Base64",
+    "id": "file-viewer",
+    "kind": "Tool",
+    "route": "#/tool/file-viewer"
+  },
+  {
+    "section": "Files",
+    "name": "Base64 to File",
+    "id": "base64-file",
+    "kind": "Tool",
+    "route": "#/tool/base64-file"
+  },
+  {
+    "section": "Files",
+    "name": "Text File Viewer",
+    "id": "file-viewer",
+    "kind": "Tool",
+    "route": "#/tool/file-viewer"
+  },
+  {
+    "section": "Files",
+    "name": "CSV Viewer",
+    "id": "csv-tools",
+    "kind": "Tool",
+    "route": "#/tool/csv-tools"
+  },
+  {
+    "section": "Files",
+    "name": "CSV to JSON",
+    "id": "csv-tools",
+    "kind": "Tool",
+    "route": "#/tool/csv-tools"
+  },
+  {
+    "section": "Files",
+    "name": "JSON to CSV",
+    "id": "csv-tools",
+    "kind": "Tool",
+    "route": "#/tool/csv-tools"
+  },
+  {
+    "section": "Files",
+    "name": "CSV Column Extractor",
+    "id": "csv-editor",
+    "kind": "Tool",
+    "route": "#/tool/csv-editor"
+  },
+  {
+    "section": "Files",
+    "name": "CSV Row Counter",
+    "id": "csv-statistics",
+    "kind": "Tool",
+    "route": "#/tool/csv-statistics"
+  },
+  {
+    "section": "Files",
+    "name": "CSV Duplicate Remover",
+    "id": "csv-editor",
+    "kind": "Tool",
+    "route": "#/tool/csv-editor"
+  },
+  {
+    "section": "Files",
+    "name": "CSV Sorter",
+    "id": "csv-editor",
+    "kind": "Tool",
+    "route": "#/tool/csv-editor"
+  },
+  {
+    "section": "Data",
+    "name": "CSV Viewer",
+    "id": "csv-tools",
+    "kind": "Tool",
+    "route": "#/tool/csv-tools"
+  },
+  {
+    "section": "Data",
+    "name": "CSV Formatter",
+    "id": "csv-tools",
+    "kind": "Tool",
+    "route": "#/tool/csv-tools"
+  },
+  {
+    "section": "Data",
+    "name": "CSV Validator",
+    "id": "csv-tools",
+    "kind": "Tool",
+    "route": "#/tool/csv-tools"
+  },
+  {
+    "section": "Data",
+    "name": "CSV to JSON",
+    "id": "csv-tools",
+    "kind": "Tool",
+    "route": "#/tool/csv-tools"
+  },
+  {
+    "section": "Data",
+    "name": "JSON to CSV",
+    "id": "csv-tools",
+    "kind": "Tool",
+    "route": "#/tool/csv-tools"
+  },
+  {
+    "section": "Data",
+    "name": "CSV to TSV",
+    "id": "csv-tools",
+    "kind": "Tool",
+    "route": "#/tool/csv-tools"
+  },
+  {
+    "section": "Data",
+    "name": "TSV to CSV",
+    "id": "csv-tools",
+    "kind": "Tool",
+    "route": "#/tool/csv-tools"
+  },
+  {
+    "section": "Data",
+    "name": "Remove Duplicate Rows",
+    "id": "csv-editor",
+    "kind": "Tool",
+    "route": "#/tool/csv-editor"
+  },
+  {
+    "section": "Data",
+    "name": "Sort CSV",
+    "id": "csv-editor",
+    "kind": "Tool",
+    "route": "#/tool/csv-editor"
+  },
+  {
+    "section": "Data",
+    "name": "Filter CSV",
+    "id": "csv-editor",
+    "kind": "Tool",
+    "route": "#/tool/csv-editor"
+  },
+  {
+    "section": "Data",
+    "name": "Select Columns",
+    "id": "csv-editor",
+    "kind": "Tool",
+    "route": "#/tool/csv-editor"
+  },
+  {
+    "section": "Data",
+    "name": "Rename Columns",
+    "id": "csv-editor",
+    "kind": "Tool",
+    "route": "#/tool/csv-editor"
+  },
+  {
+    "section": "Data",
+    "name": "Row Counter",
+    "id": "csv-statistics",
+    "kind": "Tool",
+    "route": "#/tool/csv-statistics"
+  },
+  {
+    "section": "Data",
+    "name": "Column Counter",
+    "id": "csv-statistics",
+    "kind": "Tool",
+    "route": "#/tool/csv-statistics"
+  },
+  {
+    "section": "Data",
+    "name": "Empty Cell Counter",
+    "id": "csv-statistics",
+    "kind": "Tool",
+    "route": "#/tool/csv-statistics"
+  },
+  {
+    "section": "Data",
+    "name": "Basic CSV Statistics",
+    "id": "csv-statistics",
+    "kind": "Tool",
+    "route": "#/tool/csv-statistics"
+  },
+  {
+    "section": "Numbers",
+    "name": "Binary to Decimal",
+    "id": "number-base",
+    "kind": "Calculator",
+    "route": "#/calculator/number-base"
+  },
+  {
+    "section": "Numbers",
+    "name": "Decimal to Binary",
+    "id": "number-base",
+    "kind": "Calculator",
+    "route": "#/calculator/number-base"
+  },
+  {
+    "section": "Numbers",
+    "name": "Binary to Hex",
+    "id": "number-base",
+    "kind": "Calculator",
+    "route": "#/calculator/number-base"
+  },
+  {
+    "section": "Numbers",
+    "name": "Hex to Binary",
+    "id": "number-base",
+    "kind": "Calculator",
+    "route": "#/calculator/number-base"
+  },
+  {
+    "section": "Numbers",
+    "name": "Decimal to Hex",
+    "id": "number-base",
+    "kind": "Calculator",
+    "route": "#/calculator/number-base"
+  },
+  {
+    "section": "Numbers",
+    "name": "Hex to Decimal",
+    "id": "number-base",
+    "kind": "Calculator",
+    "route": "#/calculator/number-base"
+  },
+  {
+    "section": "Numbers",
+    "name": "Octal to Decimal",
+    "id": "number-base",
+    "kind": "Calculator",
+    "route": "#/calculator/number-base"
+  },
+  {
+    "section": "Numbers",
+    "name": "Decimal to Octal",
+    "id": "number-base",
+    "kind": "Calculator",
+    "route": "#/calculator/number-base"
+  },
+  {
+    "section": "Numbers",
+    "name": "Number Base Converter",
+    "id": "number-base",
+    "kind": "Calculator",
+    "route": "#/calculator/number-base"
+  },
+  {
+    "section": "Numbers",
+    "name": "Roman Numeral Converter",
+    "id": "roman-numerals",
+    "kind": "Calculator",
+    "route": "#/calculator/roman-numerals"
+  },
+  {
+    "section": "Numbers",
+    "name": "Scientific Notation Converter",
+    "id": "notation",
+    "kind": "Calculator",
+    "route": "#/calculator/notation"
+  },
+  {
+    "section": "Numbers",
+    "name": "Number to Words",
+    "id": "number-to-words",
+    "kind": "Tool",
+    "route": "#/tool/number-to-words"
+  },
+  {
+    "section": "Numbers",
+    "name": "Indian Number to Words",
+    "id": "number-to-words",
+    "kind": "Tool",
+    "route": "#/tool/number-to-words"
+  },
+  {
+    "section": "Social",
+    "name": "YouTube Timestamp Link Generator",
+    "id": "youtube-links",
+    "kind": "Tool",
+    "route": "#/tool/youtube-links"
+  },
+  {
+    "section": "Social",
+    "name": "YouTube Embed Code Generator",
+    "id": "youtube-links",
+    "kind": "Tool",
+    "route": "#/tool/youtube-links"
+  },
+  {
+    "section": "Social",
+    "name": "WhatsApp Link Generator",
+    "id": "social-links",
+    "kind": "Tool",
+    "route": "#/tool/social-links"
+  },
+  {
+    "section": "Social",
+    "name": "Telegram Link Generator",
+    "id": "social-links",
+    "kind": "Tool",
+    "route": "#/tool/social-links"
+  },
+  {
+    "section": "Social",
+    "name": "Email Link Generator",
+    "id": "social-links",
+    "kind": "Tool",
+    "route": "#/tool/social-links"
+  },
+  {
+    "section": "Social",
+    "name": "Phone Link Generator",
+    "id": "social-links",
+    "kind": "Tool",
+    "route": "#/tool/social-links"
+  },
+  {
+    "section": "Social",
+    "name": "SMS Link Generator",
+    "id": "social-links",
+    "kind": "Tool",
+    "route": "#/tool/social-links"
+  },
+  {
+    "section": "Social",
+    "name": "Social Share Link Generator",
+    "id": "social-links",
+    "kind": "Tool",
+    "route": "#/tool/social-links"
+  },
+  {
+    "section": "Social",
+    "name": "Hashtag Formatter",
+    "id": "hashtag-generator",
+    "kind": "Tool",
+    "route": "#/tool/hashtag-generator"
+  },
+  {
+    "section": "Social",
+    "name": "Caption Character Counter",
+    "id": "text-counter",
+    "kind": "Tool",
+    "route": "#/tool/text-counter"
+  },
+  {
+    "section": "Web",
+    "name": "URL Parser",
+    "id": "url-tools",
+    "kind": "Tool",
+    "route": "#/tool/url-tools"
+  },
+  {
+    "section": "Web",
+    "name": "Query String Parser",
+    "id": "url-tools",
+    "kind": "Tool",
+    "route": "#/tool/url-tools"
+  },
+  {
+    "section": "Web",
+    "name": "Query String Builder",
+    "id": "url-tools",
+    "kind": "Tool",
+    "route": "#/tool/url-tools"
+  },
+  {
+    "section": "Web",
+    "name": "UTM Builder",
+    "id": "url-tools",
+    "kind": "Tool",
+    "route": "#/tool/url-tools"
+  },
+  {
+    "section": "Web",
+    "name": "URL Slug Generator",
+    "id": "slug-generator",
+    "kind": "Tool",
+    "route": "#/tool/slug-generator"
+  },
+  {
+    "section": "Web",
+    "name": "URL Encode/Decode",
+    "id": "encoding-tools",
+    "kind": "Tool",
+    "route": "#/tool/encoding-tools"
+  },
+  {
+    "section": "Web",
+    "name": "Domain Name Extractor",
+    "id": "extract-links",
+    "kind": "Tool",
+    "route": "#/tool/extract-links"
+  },
+  {
+    "section": "Web",
+    "name": "Email Address Extractor from user-provided text",
+    "id": "extract-links",
+    "kind": "Tool",
+    "route": "#/tool/extract-links"
+  },
+  {
+    "section": "Web",
+    "name": "URL Extractor from user-provided text",
+    "id": "extract-links",
+    "kind": "Tool",
+    "route": "#/tool/extract-links"
+  },
+  {
+    "section": "Web",
+    "name": "Link List Cleaner",
+    "id": "url-tools",
+    "kind": "Tool",
+    "route": "#/tool/url-tools"
+  },
+  {
+    "section": "Web",
+    "name": "HTTP Status Code Reference",
+    "id": "web-reference",
+    "kind": "Tool",
+    "route": "#/tool/web-reference"
+  },
+  {
+    "section": "Web",
+    "name": "MIME Type Reference",
+    "id": "web-reference",
+    "kind": "Tool",
+    "route": "#/tool/web-reference"
+  }
+]

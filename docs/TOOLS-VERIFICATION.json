@@ -1,0 +1,42 @@
+{
+  "date": "2026-10-03",
+  "environment": "Chrome on Windows; localhost static server",
+  "calculators": 328,
+  "tools": 69,
+  "totalUtilities": 397,
+  "suites": [
+    {
+      "name": "Calculator formulas and regressions",
+      "passed": 7495,
+      "total": 7495
+    },
+    {
+      "name": "Calculator UI",
+      "passed": 2163,
+      "total": 2163
+    },
+    {
+      "name": "Tool functions and real-file processing",
+      "passed": 120,
+      "total": 120
+    },
+    {
+      "name": "Tool UI integration",
+      "passed": 634,
+      "total": 634
+    }
+  ],
+  "passed": 10412,
+  "total": 10412,
+  "notes": [
+    "Regex default test initially hit the one-second worker budget while both UI and functional harnesses ran concurrently; isolated final functional run passed 120/120.",
+    "All 69 tool pages passed mobile-width checks in the integration iframe; desktop directory screenshot inspected. Browser viewport override did not change the actual viewport, so no mobile screenshot is claimed.",
+    "Actual QR PNG and SVG download files inspected; Copy control reported Copied.",
+    "Native OS file chooser automation was blocked by extension file URL permissions; local fixture drag/drop and processing controls passed.",
+    "Homepage loaded no external resources and no heavy vendor libraries; libraries load locally on demand.",
+    "Conditional PDF password protection omitted because the selected library lacks supported encryption."
+  ],
+  "screenshots": [
+    "docs/screenshots/tools-desktop.png"
+  ]
+}

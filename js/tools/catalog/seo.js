@@ -1,0 +1,9 @@
+import {tool,text,line,select} from '../shared/definitions.js';
+const t=(id,name,desc,fields,aliases=[])=>tool('SEO','seo',id,name,desc,fields,aliases);
+export default [
+t('meta-tags','Meta Tags & SERP Preview','Build title, description, canonical, Open Graph and Twitter metadata using supplied facts.',[line('title','Title','CalcHub — Online Tools'),text('description','Description','Free tools that process your text and files locally.'),line('url','Canonical page URL','https://example.com/tools'),line('image','Social image URL (optional)','',true)],['meta tag generator','SERP preview','Open Graph generator','Twitter card generator','canonical tag generator']),
+t('robots-generator','Robots.txt Generator','Create robots directives and an optional sitemap URL.',[line('agent','User agent','*'),text('disallow','Disallow paths, one per line','/private/'),text('allow','Allow paths, one per line','/',true),line('sitemap','Sitemap URL (optional)','',true)],['robots.txt generator']),
+t('sitemap-generator','XML Sitemap Generator','Build a URL-only XML sitemap from supplied HTTP(S) URLs.',[text('input','One URL per line','https://example.com/\nhttps://example.com/tools')],['sitemap generator']),
+t('hreflang-generator','Hreflang Tag Generator','Generate alternate language tags from language-code and URL pairs.',[text('input','One language | URL pair per line','en | https://example.com/en\nhi | https://example.com/hi')],['hreflang tags']),
+t('schema-generator','Schema.org JSON-LD Generator','Wrap user-provided facts in a chosen schema type without inventing business or product details.',[select('type','Schema type',['FAQPage','BreadcrumbList','Organization','LocalBusiness','Article','Product'],'Organization'),text('input','Supplied facts as JSON object','{"name":"Example Organization","url":"https://example.com"}')],['FAQ schema','breadcrumb schema','organization schema','local business schema','article schema','product schema'])
+];
